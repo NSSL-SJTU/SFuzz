@@ -1,0 +1,66 @@
+$configure terminal$ $interface %s$ $ip unnumbered %s$
+$config terminal$ $interface %s$ $ip ospf hello-interval %s$
+$config terminal$ $interface %s$ $ip ospf authentication$
+$config terminal$ $router ospf$ $auto-cost reference-bandwidth 100$
+$configure terminal$ $router ospf$ $no network %d.%d.%d.%d/%d area %s$
+$configure terminal$ $interface %s$ $no ip ospf disable all$
+$config terminal$ $interface %s$ $ip ospf authentication message-digest$
+$configure terminal$ $router ospf$ $area %s stub no-summary$
+$configure terminal$ $router ospf$ $area %s nssa$
+$configure terminal$ $router ospf$ $no area %s stub$
+metric %s
+$configure terminal$ $interface %s$ $ip ospf disable all$
+$config terminal$ $router ospf$ $no default-metric$
+ZOspfHelloInterval_%d
+$config terminal$ $router ospf$ $ospf abr-type shortcut$
+$configure terminal$ $router ospf$ $area %s nssa no-summary$
+$router ospf$ $network %d.%d.%d.%d/%d area %s$
+$configure terminal$ $router ospf$ $no %s authentication$
+$interface %s$ $ip unnumbered$
+$config terminal$ $interface %s$ $no ip ospf message-digest-key 1$
+metric-type 2
+ZOspfIfAutoCost_%d
+$config terminal$ $interface %s$ $ip ospf hello-interval 10$
+$config terminal$ $interface %s$ $no ip ospf cost$
+$config terminal$ $router ospf$ $ospf abr-type standard$
+$router ospf$ $network %d.%d.%d.%d/%d area$
+ZOspfUnnumBorrowedIf_%d
+$configure terminal$ $router ospf$ $passive-interface %s$
+ZOspfArea_%d
+$config terminal$ $router ospf$ $redistribute connected %s %s %s$
+$ip unnumbered %s$
+$config terminal$ $router ospf$ $no redistribute rip$
+metric-type %s
+$config terminal$ $interface %s$ $ip ospf priority %s$
+$configure terminal$ $interface %s$ $ip ospf authentication null$
+tag %s
+$config terminal$ $router ospf$ $no redistribute static$
+$config terminal$ $router ospf$ $redistribute rip %s %s %s$
+$config terminal$ $router ospf$ $no redistribute connected$
+$config terminal$ $interface %s$ $no ip ospf authentication-key$
+$configure terminal$ $interface %s$ $no ip unnumbered$
+$configure terminal$ $interface %s$ $ip ospf network point-to-point$
+$configure terminal$ $router ospf$ $area %s stub$
+$config terminal$ $router ospf$ $default-metric %s$
+$configure terminal$ $router ospf$ $network %d.%d.%d.%d/%d area %s$
+$configure terminal$ $router ospf$ $no area %s nssa$
+$config terminal$ $router ospf$ $auto-cost reference-bandwidth %s$
+metric 1
+%d
+$config terminal$ $interface %s$ $ip ospf priority 1$
+ZOspfUnnumDstIp_%d
+$configure terminal$ $router ospf$ $no passive-interface %s$
+$router ospf$ $network %d.%d.%d.%d/%d$
+$interface %s$ $ip remote-address %s/%d$
+$config terminal$ $router ospf$ $redistribute kernel %s %s %s$
+%u
+$config terminal$ $router ospf$ $ospf abr-type cisco$
+$config terminal$ $router ospf$ $redistribute static %s %s %s$
+$config terminal$ $router ospf$ $ospf abr-type ibm$
+$config terminal$ $router ospf$ $router-id %s$
+$config terminal$ $router ospf$ $no default-information originate$
+$interface %s$ $ip ospf disable all$
+ZOspfAuthText_%d
+$configure terminal$ $interface %s$ $ip remote-address %s/%d$
+$config terminal$ $interface %s$ $no ip ospf authentication$
+$config terminal$ $interface %s$ $ip ospf cost %s$

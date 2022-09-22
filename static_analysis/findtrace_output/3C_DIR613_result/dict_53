@@ -1,0 +1,4 @@
+vlan%dports
+boardflags
+vlan%d
+lan_ifnames

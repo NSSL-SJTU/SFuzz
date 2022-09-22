@@ -1,0 +1,71 @@
+[
+  {
+    "offset": "0x800c1360",
+    "funcName": "recvfrom",
+    "criticalIndex": "[2, 0]"
+  },
+  {
+    "offset": "0x800c9d98",
+    "funcName": "memcpy",
+    "criticalIndex": "[3]",
+    "funcSign": "void* memcpy(void* dest, void* src, unsigned int n)"
+  },
+  {
+    "funcName": "strtol",
+    "criticalIndex": "[-1]",
+    "offset": "0x800c9ac0"
+  },
+  {
+    "funcName": "strtol__1",
+    "criticalIndex": "[-1]",
+    "offset": "0x800c9c0c"
+  },
+  {
+    "offset": "0x800ca0cc",
+    "funcName": "strncpy",
+    "criticalIndex": "[3]",
+    "funcSign": "char* strncpy(char* dest, char* src, unsigned int n)"
+  },
+  {
+    "offset": "0x800c9e00",
+    "funcName": "strcat",
+    "criticalIndex": "[2]",
+    "funcSign": "char* strcat(char* dest, char* src)"
+  },
+  {
+    "funcName": "strcmp",
+    "criticalIndex": "[-1]",
+    "offset": "0x800c9e3c"
+  },
+  {
+    "funcName": "memcmp",
+    "criticalIndex": "[-1]",
+    "offset": "0x800c9d60"
+  },
+  {
+    "funcName": "memcmp__1",
+    "criticalIndex": "[-1]",
+    "offset": "0x800d32a0"
+  },
+  {
+    "funcName": "checksum",
+    "criticalIndex": "[1, 2, 3, 4, 5, 6, 7, 8]",
+    "offset": "0x8000d9d4",
+    "funcType": "Checksum"
+  },
+  {
+    "funcName": "strncmp",
+    "criticalIndex": "[-1]",
+    "offset": "0x800ca098"
+  },
+  {
+    "funcName": "atoi",
+    "criticalIndex": "[1]",
+    "offset": "0x800c9a80"
+  },
+  {
+    "funcName": "atoi__1",
+    "criticalIndex": "[1]",
+    "offset": "0x80119e8c"
+  }
+]

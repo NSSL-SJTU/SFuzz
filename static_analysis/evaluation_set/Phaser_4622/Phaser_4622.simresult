@@ -1,0 +1,291 @@
+[
+  {
+    "offset": "0x135924",
+    "funcName": "j_getenv",
+    "criticalIndex": "[0]"
+  },
+  {
+    "offset": "0x320f90",
+    "funcName": "strcpy",
+    "criticalIndex": "[2]",
+    "funcSign": "char* strcpy(char* dest, char* src)"
+  },
+  {
+    "offset": "0x344060",
+    "funcName": "getenv",
+    "criticalIndex": "[0]"
+  },
+  {
+    "funcName": "checksum",
+    "criticalIndex": "[1, 2, 3, 4, 5, 6, 7, 8]",
+    "offset": "0x11807c",
+    "funcType": "Checksum"
+  },
+  {
+    "offset": "0x32113c",
+    "funcName": "strncat",
+    "criticalIndex": "[3]",
+    "funcSign": "char* strncat(char* dest, char* src, unsigned int n)"
+  },
+  {
+    "offset": "0x32c714",
+    "funcName": "sprintf",
+    "criticalIndex": "[2, 3, 4, 5, 6, 7, 8]",
+    "funcSign": "int sprintf(char* str, char* format, ...)"
+  },
+  {
+    "offset": "0x7751bc",
+    "funcName": "sprintf__1",
+    "criticalIndex": "[2, 3, 4, 5, 6, 7, 8]",
+    "funcSign": "int sprintf__1(char* str, char* format, ...)"
+  },
+  {
+    "offset": "0x479598",
+    "funcName": "strcpy__1",
+    "criticalIndex": "[2]",
+    "funcSign": "char* strcpy__1(char* dest, char* src)"
+  },
+  {
+    "offset": "0xea3408",
+    "funcName": "strcpy__2",
+    "criticalIndex": "[2]",
+    "funcSign": "char* strcpy__2(char* dest, char* src)"
+  },
+  {
+    "funcName": "memcmp",
+    "criticalIndex": "[-1]",
+    "offset": "0x320d0c"
+  },
+  {
+    "funcName": "memcmp__1",
+    "criticalIndex": "[-1]",
+    "offset": "0x368cb8"
+  },
+  {
+    "funcName": "memcmp__2",
+    "criticalIndex": "[-1]",
+    "offset": "0xea3464"
+  },
+  {
+    "funcName": "memcmp__3",
+    "criticalIndex": "[-1]",
+    "offset": "0xea3bac"
+  },
+  {
+    "funcName": "strncmp",
+    "criticalIndex": "[-1]",
+    "offset": "0x32118c"
+  },
+  {
+    "offset": "0x193724",
+    "funcName": "snprintf",
+    "criticalIndex": "[2, 3]",
+    "funcSign": "int snprintf(char* str, unsigned int size, char* format, ...)"
+  },
+  {
+    "offset": "0x1a13b4",
+    "funcName": "snprintf__1",
+    "criticalIndex": "[2, 3]",
+    "funcSign": "int snprintf__1(char* str, unsigned int size, char* format, ...)"
+  },
+  {
+    "offset": "0x32ca04",
+    "funcName": "snprintf__2",
+    "criticalIndex": "[2, 3]",
+    "funcSign": "int snprintf__2(char* str, unsigned int size, char* format, ...)"
+  },
+  {
+    "offset": "0x828c30",
+    "funcName": "snprintf__3",
+    "criticalIndex": "[2, 3]",
+    "funcSign": "int snprintf__3(char* str, unsigned int size, char* format, ...)"
+  },
+  {
+    "offset": "0x320d4c",
+    "funcName": "memmove",
+    "criticalIndex": "[3]",
+    "funcSign": "void* memmove(void* dest, void* src, unsigned int n)"
+  },
+  {
+    "offset": "0x320d68",
+    "funcName": "memmove__1",
+    "criticalIndex": "[3]",
+    "funcSign": "void* memmove__1(void* dest, void* src, unsigned int n)"
+  },
+  {
+    "offset": "0x390ff0",
+    "funcName": "memmove__2",
+    "criticalIndex": "[3]",
+    "funcSign": "void* memmove__2(void* dest, void* src, unsigned int n)"
+  },
+  {
+    "offset": "0x3d3d64",
+    "funcName": "memmove__3",
+    "criticalIndex": "[3]",
+    "funcSign": "void* memmove__3(void* dest, void* src, unsigned int n)"
+  },
+  {
+    "offset": "0x3e534c",
+    "funcName": "memmove__4",
+    "criticalIndex": "[3]",
+    "funcSign": "void* memmove__4(void* dest, void* src, unsigned int n)"
+  },
+  {
+    "offset": "0x4de9f4",
+    "funcName": "memmove__5",
+    "criticalIndex": "[3]",
+    "funcSign": "void* memmove__5(void* dest, void* src, unsigned int n)"
+  },
+  {
+    "offset": "0x812cec",
+    "funcName": "memmove__6",
+    "criticalIndex": "[3]",
+    "funcSign": "void* memmove__6(void* dest, void* src, unsigned int n)"
+  },
+  {
+    "offset": "0x882798",
+    "funcName": "memmove__7",
+    "criticalIndex": "[3]",
+    "funcSign": "void* memmove__7(void* dest, void* src, unsigned int n)"
+  },
+  {
+    "offset": "0x89c61c",
+    "funcName": "memmove__8",
+    "criticalIndex": "[3]",
+    "funcSign": "void* memmove__8(void* dest, void* src, unsigned int n)"
+  },
+  {
+    "offset": "0x8a08b4",
+    "funcName": "memmove__9",
+    "criticalIndex": "[3]",
+    "funcSign": "void* memmove__9(void* dest, void* src, unsigned int n)"
+  },
+  {
+    "offset": "0xa998e4",
+    "funcName": "memmove__10",
+    "criticalIndex": "[3]",
+    "funcSign": "void* memmove__10(void* dest, void* src, unsigned int n)"
+  },
+  {
+    "offset": "0xab8ab0",
+    "funcName": "memmove__11",
+    "criticalIndex": "[3]",
+    "funcSign": "void* memmove__11(void* dest, void* src, unsigned int n)"
+  },
+  {
+    "offset": "0xea343c",
+    "funcName": "memmove__12",
+    "criticalIndex": "[3]",
+    "funcSign": "void* memmove__12(void* dest, void* src, unsigned int n)"
+  },
+  {
+    "funcName": "strtol",
+    "criticalIndex": "[-1]",
+    "offset": "0x320628"
+  },
+  {
+    "funcName": "strtol__1",
+    "criticalIndex": "[-1]",
+    "offset": "0x3207d4"
+  },
+  {
+    "funcName": "strtol__2",
+    "criticalIndex": "[-1]",
+    "offset": "0x6f5f28"
+  },
+  {
+    "funcName": "strcmp",
+    "criticalIndex": "[-1]",
+    "offset": "0x136f64"
+  },
+  {
+    "funcName": "strcmp__1",
+    "criticalIndex": "[-1]",
+    "offset": "0x320dfc"
+  },
+  {
+    "funcName": "strcmp__2",
+    "criticalIndex": "[-1]",
+    "offset": "0x321684"
+  },
+  {
+    "funcName": "strcmp__3",
+    "criticalIndex": "[-1]",
+    "offset": "0x42ac34"
+  },
+  {
+    "funcName": "strcmp__4",
+    "criticalIndex": "[-1]",
+    "offset": "0x47bae8"
+  },
+  {
+    "funcName": "strcmp__5",
+    "criticalIndex": "[-1]",
+    "offset": "0x482d30"
+  },
+  {
+    "funcName": "strcmp__6",
+    "criticalIndex": "[-1]",
+    "offset": "0x4978ac"
+  },
+  {
+    "funcName": "strcmp__7",
+    "criticalIndex": "[-1]",
+    "offset": "0x49b5e8"
+  },
+  {
+    "funcName": "strcmp__8",
+    "criticalIndex": "[-1]",
+    "offset": "0x6b25d4"
+  },
+  {
+    "funcName": "strcmp__9",
+    "criticalIndex": "[-1]",
+    "offset": "0x805750"
+  },
+  {
+    "funcName": "strcmp__10",
+    "criticalIndex": "[-1]",
+    "offset": "0x80debc"
+  },
+  {
+    "offset": "0x32eacc",
+    "funcName": "sscanf",
+    "criticalIndex": "[1, 2]",
+    "funcSign": "int sscanf(char* str, char* format, ...)"
+  },
+  {
+    "offset": "0x320da4",
+    "funcName": "strcat",
+    "criticalIndex": "[2]",
+    "funcSign": "char* strcat(char* dest, char* src)"
+  },
+  {
+    "offset": "0x49fe74",
+    "funcName": "strcat__1",
+    "criticalIndex": "[2]",
+    "funcSign": "char* strcat__1(char* dest, char* src)"
+  },
+  {
+    "offset": "0x3211e4",
+    "funcName": "strncpy",
+    "criticalIndex": "[3]",
+    "funcSign": "char* strncpy(char* dest, char* src, unsigned int n)"
+  },
+  {
+    "offset": "0x331860",
+    "funcName": "strncpy__1",
+    "criticalIndex": "[3]",
+    "funcSign": "char* strncpy__1(char* dest, char* src, unsigned int n)"
+  },
+  {
+    "offset": "0xab8924",
+    "funcName": "strncpy__2",
+    "criticalIndex": "[3]",
+    "funcSign": "char* strncpy__2(char* dest, char* src, unsigned int n)"
+  },
+  {
+    "funcName": "_memcmp__3",
+    "offset": "0xea3c04"
+  }
+]

@@ -1,0 +1,193 @@
+[
+  {
+    "offset": "0x8003be34",
+    "funcName": "nvram_get",
+    "criticalIndex": "[0]"
+  },
+  {
+    "offset": "0x8003bf3c",
+    "funcName": "nvram_set",
+    "criticalIndex": "[2]",
+    "funcSign": "int nvram_set(char* name, char* value)"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x8008a760",
+    "funcName": "webgetvar"
+  },
+  {
+    "offset": "0x80094f70",
+    "funcName": "Packt_WebGetsVar",
+    "criticalIndex": "[0]"
+  },
+  {
+    "offset": "0x801cbc50",
+    "funcName": "strcpy",
+    "criticalIndex": "[2]",
+    "funcSign": "char* strcpy(char* dest, char* src)"
+  },
+  {
+    "offset": "0x8005d094",
+    "funcName": "memcpy",
+    "criticalIndex": "[2,3]",
+    "funcSign": "void* memcpy(void* dest, void* src, unsigned int n)"
+  },
+  {
+    "offset": "0x800c021c",
+    "funcName": "memcpy__1",
+    "criticalIndex": "[3]",
+    "funcSign": "void* memcpy__1(void* dest, void* src, unsigned int n)"
+  },
+  {
+    "offset": "0x801c5c0c",
+    "funcName": "memcpy__2",
+    "criticalIndex": "[3]",
+    "funcSign": "void* memcpy__2(void* dest, void* src, unsigned int n)"
+  },
+  {
+    "offset": "0x801cbb48",
+    "funcName": "memcpy__3",
+    "criticalIndex": "[3]",
+    "funcSign": "void* memcpy__3(void* dest, void* src, unsigned int n)"
+  },
+  {
+    "funcName": "atoi",
+    "criticalIndex": "[1]",
+    "offset": "0x801caa5c"
+  },
+  {
+    "funcName": "atoi__1",
+    "criticalIndex": "[1]",
+    "offset": "0x801caa7c"
+  },
+  {
+    "offset": "0x801c57cc",
+    "funcName": "sprintf",
+    "criticalIndex": "[2, 3, 4, 5, 6, 7, 8]",
+    "funcSign": "int sprintf(char* str, char* format, ...)"
+  },
+  {
+    "offset": "0x801cc714",
+    "funcName": "sprintf__1",
+    "criticalIndex": "[2, 3, 4, 5, 6, 7, 8]",
+    "funcSign": "int sprintf__1(char* str, char* format, ...)"
+  },
+  {
+    "funcName": "strtol",
+    "criticalIndex": "[-1]",
+    "offset": "0x801cb424"
+  },
+  {
+    "funcName": "strtol__1",
+    "criticalIndex": "[-1]",
+    "offset": "0x801cb628"
+  },
+  {
+    "funcName": "strtol__2",
+    "criticalIndex": "[-1]",
+    "offset": "0x801cb818"
+  },
+  {
+    "funcName": "strtol__3",
+    "criticalIndex": "[-1]",
+    "offset": "0x8021a2a0"
+  },
+  {
+    "offset": "0x801cbcc8",
+    "funcName": "strncat",
+    "criticalIndex": "[3]",
+    "funcSign": "char* strncat(char* dest, char* src, unsigned int n)"
+  },
+  {
+    "offset": "0x801cbbb4",
+    "funcName": "strcat",
+    "criticalIndex": "[2]",
+    "funcSign": "char* strcat(char* dest, char* src)"
+  },
+  {
+    "offset": "0x801c5818",
+    "funcName": "snprintf",
+    "criticalIndex": "[2, 3]",
+    "funcSign": "int snprintf(char* str, unsigned int size, char* format, ...)"
+  },
+  {
+    "funcName": "csum",
+    "criticalIndex": "[1, 2, 3, 4, 5, 6, 7, 8]",
+    "offset": "0x8000e058",
+    "funcType": "Checksum"
+  },
+  {
+    "funcName": "csum__1",
+    "criticalIndex": "[1, 2, 3, 4, 5, 6, 7, 8]",
+    "offset": "0x8002b108",
+    "funcType": "Checksum"
+  },
+  {
+    "funcName": "csum__2",
+    "criticalIndex": "[1, 2, 3, 4, 5, 6, 7, 8]",
+    "offset": "0x801ad0e8",
+    "funcType": "Checksum"
+  },
+  {
+    "funcName": "csum__3",
+    "criticalIndex": "[1, 2, 3, 4, 5, 6, 7, 8]",
+    "offset": "0x802070fc",
+    "funcType": "Checksum"
+  },
+  {
+    "funcName": "strcmp",
+    "criticalIndex": "[-1]",
+    "offset": "0x8007dbb4"
+  },
+  {
+    "funcName": "strcmp__1",
+    "criticalIndex": "[-1]",
+    "offset": "0x8008c804"
+  },
+  {
+    "funcName": "strcmp__2",
+    "criticalIndex": "[-1]",
+    "offset": "0x800a2b6c"
+  },
+  {
+    "funcName": "strcmp__3",
+    "criticalIndex": "[-1]",
+    "offset": "0x800b4218"
+  },
+  {
+    "funcName": "strcmp__4",
+    "criticalIndex": "[-1]",
+    "offset": "0x801cbc20"
+  },
+  {
+    "funcName": "strcmp__5",
+    "criticalIndex": "[-1]",
+    "offset": "0x801cbfe4"
+  },
+  {
+    "funcName": "memcmp",
+    "criticalIndex": "[-1]",
+    "offset": "0x8010c2e0"
+  },
+  {
+    "funcName": "memcmp__1",
+    "criticalIndex": "[-1]",
+    "offset": "0x801cbb14"
+  },
+  {
+    "funcName": "memcmp__2",
+    "criticalIndex": "[-1]",
+    "offset": "0x801d6be0"
+  },
+  {
+    "funcName": "strncmp",
+    "criticalIndex": "[-1]",
+    "offset": "0x801cbd10"
+  },
+  {
+    "offset": "0x801cbd64",
+    "funcName": "strncpy",
+    "criticalIndex": "[2,3]",
+    "funcSign": "char* strncpy(char* dest, char* src, unsigned int n)"
+  }
+]

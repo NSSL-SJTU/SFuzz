@@ -1,0 +1,2222 @@
+[
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82008000", 
+    "funcName": "start"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82008be4", 
+    "funcName": "def_80828CF8"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82008bec", 
+    "funcName": "def_80828CF8_0"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82008bf4", 
+    "funcName": "def_80828CF8_1"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82008c04", 
+    "funcName": "def_80828CF8_2"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82008c0c", 
+    "funcName": "log_"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82008c14", 
+    "funcName": "log__0"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82008c34", 
+    "funcName": "def_80828CF8_3"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82008c3c", 
+    "funcName": "def_80828CF8_4"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82008c44", 
+    "funcName": "log__1"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82008c54", 
+    "funcName": "def_80828CF8_5"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x820091b0", 
+    "funcName": "log__2"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8200a630", 
+    "funcName": "def_80828CF8_6"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8200a638", 
+    "funcName": "log__3"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82018b60", 
+    "funcName": "log__4"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8201e15c", 
+    "funcName": "def_80828CF8_7"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8201fe04", 
+    "funcName": "def_80828CF8_8"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8202021c", 
+    "funcName": "log__5"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82033ddc", 
+    "funcName": "log__6"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82033de4", 
+    "funcName": "log__7"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82033dfc", 
+    "funcName": "def_80828CF8_9"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82033e04", 
+    "funcName": "def_80828CF8_10"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82033e0c", 
+    "funcName": "def_80828CF8_11"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82034904", 
+    "funcName": "log__8"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82039f68", 
+    "funcName": "def_80828CF8_12"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82039fb8", 
+    "funcName": "def_80828CF8_13"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82039fc0", 
+    "funcName": "def_80828CF8_14"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8203a24c", 
+    "funcName": "def_80828CF8_15"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8203a254", 
+    "funcName": "def_80828CF8_16"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8203f9d4", 
+    "funcName": "log__9"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82047848", 
+    "funcName": "log__10"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8204a368", 
+    "funcName": "log__11"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82054100", 
+    "funcName": "def_80828CF8_17"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82054108", 
+    "funcName": "def_80828CF8_18"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82054110", 
+    "funcName": "def_80828CF8_19"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82054118", 
+    "funcName": "def_80828CF8_20"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82054120", 
+    "funcName": "def_80828CF8_21"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8205b6dc", 
+    "funcName": "log__12"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x820747b4", 
+    "funcName": "log__13"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82074d44", 
+    "funcName": "log__14"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8207bec4", 
+    "funcName": "log__15"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82089954", 
+    "funcName": "def_80828CF8_22"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8208def0", 
+    "funcName": "def_80828CF8_23"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x820a2434", 
+    "funcName": "def_80828CF8_24"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x820a5514", 
+    "funcName": "log__16"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x820a551c", 
+    "funcName": "log__17"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x820a79b0", 
+    "funcName": "log__18"
+  }, 
+  {
+    "criticalIndex": "[0]", 
+    "offset": "0x820c0d60", 
+    "funcName": "Packt_WebGetsVar_maybe"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x820c79a0", 
+    "funcName": "deref"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x820e22ec", 
+    "funcName": "log__19"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x821a7b00", 
+    "funcName": "log__20"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x821adde0", 
+    "funcName": "log__21"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x821adde8", 
+    "funcName": "log__22"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x821addf0", 
+    "funcName": "log__23"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x821addf8", 
+    "funcName": "log__24"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x821ade00", 
+    "funcName": "log__25"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x821ade08", 
+    "funcName": "log__26"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x821ade10", 
+    "funcName": "log__27"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x821aecb4", 
+    "funcName": "log__28"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x821aecbc", 
+    "funcName": "log__29"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x821aecc4", 
+    "funcName": "log__30"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x821aeccc", 
+    "funcName": "log__31"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x821aecd4", 
+    "funcName": "log__32"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x821aecdc", 
+    "funcName": "log__33"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x821af054", 
+    "funcName": "log__34"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x821bd8f0", 
+    "funcName": "log__35"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x821bd904", 
+    "funcName": "log__36"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x821e9cf0", 
+    "funcName": "log__37"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x821e9e6c", 
+    "funcName": "log__38"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x821ec444", 
+    "funcName": "log__39"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x821ec988", 
+    "funcName": "log__40"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8222ebac", 
+    "funcName": "log__41"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82235c18", 
+    "funcName": "log__42"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x822379c8", 
+    "funcName": "log__43"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8223869c", 
+    "funcName": "log__44"
+  }, 
+  {
+    "criticalIndex": "[0]", 
+    "offset": "0x8227a3cc", 
+    "funcName": "Packt_WebGetsVar_1"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8227e734", 
+    "funcName": "def_80828CF8_25"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8227e73c", 
+    "funcName": "def_80828CF8_26"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x822a836c", 
+    "funcName": "log__45"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x822b7f64", 
+    "funcName": "log__46"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x822c24bc", 
+    "funcName": "log__47"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x822c24c4", 
+    "funcName": "log__48"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x822c6b14", 
+    "funcName": "log__49"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x822c9040", 
+    "funcName": "log__50"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x822c9210", 
+    "funcName": "log__51"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x822cb8b0", 
+    "funcName": "log__52"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x822e69f4", 
+    "funcName": "log__53"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82314074", 
+    "funcName": "log__54"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82323bd8", 
+    "funcName": "log__55"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82326298", 
+    "funcName": "def_80828CF8_27"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82328fa8", 
+    "funcName": "log__56"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8232d094", 
+    "funcName": "def_80828CF8_28"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82330968", 
+    "funcName": "exit_printf"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82330b00", 
+    "funcName": "error_logout"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x823318c8", 
+    "funcName": "log__57"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x823318d0", 
+    "funcName": "log__58"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x823318d8", 
+    "funcName": "log__59"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x823318e0", 
+    "funcName": "log__60"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82332c48", 
+    "funcName": "log__61"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x823336dc", 
+    "funcName": "log__62"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8233571c", 
+    "funcName": "log__63"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82335724", 
+    "funcName": "log__64"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8233572c", 
+    "funcName": "log__65"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82335734", 
+    "funcName": "log__66"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82336224", 
+    "funcName": "log__67"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8234e154", 
+    "funcName": "log__68"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8234e15c", 
+    "funcName": "log__69"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8234e244", 
+    "funcName": "log__70"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8234e644", 
+    "funcName": "log__71"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8234e64c", 
+    "funcName": "log__72"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8234eefc", 
+    "funcName": "log__73"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8234f0f4", 
+    "funcName": "log__74"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8234f2ac", 
+    "funcName": "log__75"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8234f2b4", 
+    "funcName": "log__76"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8234f2bc", 
+    "funcName": "log__77"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8234f354", 
+    "funcName": "log__78"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8234f35c", 
+    "funcName": "log__79"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8234f364", 
+    "funcName": "log__80"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8234f36c", 
+    "funcName": "log__81"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8234f374", 
+    "funcName": "log__82"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8234f37c", 
+    "funcName": "log__83"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8234f384", 
+    "funcName": "log__84"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8234f38c", 
+    "funcName": "log__85"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8234f394", 
+    "funcName": "log__86"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8234f39c", 
+    "funcName": "log__87"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8234f3a4", 
+    "funcName": "log__88"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8234f3ac", 
+    "funcName": "log__89"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8234f3b4", 
+    "funcName": "log__90"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8234f3bc", 
+    "funcName": "log__91"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8234f3c4", 
+    "funcName": "log__92"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8234f3cc", 
+    "funcName": "log__93"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8234f3d4", 
+    "funcName": "log__94"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8234f3dc", 
+    "funcName": "log__95"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8234f3e4", 
+    "funcName": "log__96"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8234f3ec", 
+    "funcName": "log__97"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8234f3f4", 
+    "funcName": "log__98"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8234f3fc", 
+    "funcName": "log__99"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8234f404", 
+    "funcName": "log__100"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8234f40c", 
+    "funcName": "log__101"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8234f414", 
+    "funcName": "log__102"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x823515a4", 
+    "funcName": "log__103"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x823515ac", 
+    "funcName": "log__104"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x823515b4", 
+    "funcName": "log__105"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8236e06c", 
+    "funcName": "log__106"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8238d71c", 
+    "funcName": "log__107"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x823a2d68", 
+    "funcName": "log__108"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x823f2420", 
+    "funcName": "log__109"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82400dc4", 
+    "funcName": "log__110"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8242dc00", 
+    "funcName": "log__111"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8245e05c", 
+    "funcName": "log__112"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82470404", 
+    "funcName": "log__113"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82490d40", 
+    "funcName": "log__114"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x824ae04c", 
+    "funcName": "log__115"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x824c9960", 
+    "funcName": "log__116"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x824cfd78", 
+    "funcName": "log__117"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x824fd5bc", 
+    "funcName": "def_80828CF8_29"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8251ebe8", 
+    "funcName": "def_80828CF8_30"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8252bdf0", 
+    "funcName": "log__118"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8252ec60", 
+    "funcName": "log__119"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8254d714", 
+    "funcName": "log__120"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82550e9c", 
+    "funcName": "log__121"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82552084", 
+    "funcName": "deref_0"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82557cc4", 
+    "funcName": "log__122"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8256f5f0", 
+    "funcName": "log__123"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8257171c", 
+    "funcName": "def_80828CF8_31"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x825b18b0", 
+    "funcName": "log__124"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x825bc190", 
+    "funcName": "log__125"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x825bdb9c", 
+    "funcName": "log__126"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x825cdf38", 
+    "funcName": "deref_1"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x825ce654", 
+    "funcName": "deref_2"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x825df668", 
+    "funcName": "close"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x825df80c", 
+    "funcName": "normal_ssl_read"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x825df908", 
+    "funcName": "dual_fdprintf"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x825e0af8", 
+    "funcName": "socket_connect"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x825e0d40", 
+    "funcName": "send_http_request"
+  }, 
+  {
+    "criticalIndex": "[2]", 
+    "offset": "0x825e0d68", 
+    "funcName": "recv_http_response"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x825f0250", 
+    "funcName": "deref_3"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x825f04a4", 
+    "funcName": "log__127"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x825f1108", 
+    "funcName": "log__128"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x826038e0", 
+    "funcName": "log__129"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82622e70", 
+    "funcName": "malloc"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x826233ac", 
+    "funcName": "alloca"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82625d14", 
+    "funcName": "log__130"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82626178", 
+    "funcName": "log__131"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82626180", 
+    "funcName": "log__132"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82627414", 
+    "funcName": "log__133"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8262c984", 
+    "funcName": "log__134"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82641370", 
+    "funcName": "log__135"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8268ae50", 
+    "funcName": "log__136"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8268b97c", 
+    "funcName": "log__137"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8268b984", 
+    "funcName": "log__138"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8268f50c", 
+    "funcName": "deref_4"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8269b920", 
+    "funcName": "log__139"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8269b928", 
+    "funcName": "log__140"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x826a5bc4", 
+    "funcName": "log__141"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x826a5bcc", 
+    "funcName": "log__142"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x826b364c", 
+    "funcName": "swVxSocketReadInfo"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x826f1be8", 
+    "funcName": "log__143"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8270044c", 
+    "funcName": "log__144"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82700454", 
+    "funcName": "log__145"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8270e094", 
+    "funcName": "log__146"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82739d04", 
+    "funcName": "log__147"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8274e130", 
+    "funcName": "deref_5"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82755540", 
+    "funcName": "def_80828CF8_32"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8275a948", 
+    "funcName": "log__148"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82761f90", 
+    "funcName": "def_80828CF8_33"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82770be8", 
+    "funcName": "def_80828CF8_34"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82770bf0", 
+    "funcName": "def_80828CF8_35"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82772188", 
+    "funcName": "def_80828CF8_36"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82777b70", 
+    "funcName": "log__149"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x827803a8", 
+    "funcName": "log__150"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x827803b0", 
+    "funcName": "log__151"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x827803b8", 
+    "funcName": "log__152"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82784d40", 
+    "funcName": "log__153"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82786010", 
+    "funcName": "log__154"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8278617c", 
+    "funcName": "log__155"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8278b5f0", 
+    "funcName": "log__156"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8278dcb4", 
+    "funcName": "log__157"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x827a5a98", 
+    "funcName": "sockLibAdd"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x827a5b30", 
+    "funcName": "socket"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x827a5bf8", 
+    "funcName": "bind"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x827a5cbc", 
+    "funcName": "listen"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x827a5d58", 
+    "funcName": "accept"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x827a5e64", 
+    "funcName": "connect"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x827a5f78", 
+    "funcName": "connectWithTimeout"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x827a609c", 
+    "funcName": "sendto"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x827a6188", 
+    "funcName": "send"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x827a6230", 
+    "funcName": "sendmsg"
+  }, 
+  {
+    "criticalIndex": "[2]", 
+    "offset": "0x827a62bc", 
+    "funcName": "recvfrom"
+  }, 
+  {
+    "criticalIndex": "[2]", 
+    "offset": "0x827a63c0", 
+    "funcName": "recv"
+  }, 
+  {
+    "criticalIndex": "[2]", 
+    "offset": "0x827a6468", 
+    "funcName": "recvmsg"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x827a6884", 
+    "funcName": "log__158"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x827a688c", 
+    "funcName": "clear_3_DWORD"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x827a6a0c", 
+    "funcName": "deref_6"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x827a6a5c", 
+    "funcName": "deref_7"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x827a6c14", 
+    "funcName": "memcmp_1"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x827a6dd4", 
+    "funcName": "bzreo"
+  }, 
+  {
+    "criticalIndex": "[3]", 
+    "offset": "0x827a6ddc", 
+    "funcName": "memcpy_1"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x827b59a4", 
+    "funcName": "log__159"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x827b59ac", 
+    "funcName": "log__160"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x827b6070", 
+    "funcName": "log__161"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x827c1258", 
+    "funcName": "log__162"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x827c12fc", 
+    "funcName": "log__163"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x827c2440", 
+    "funcName": "def_80828CF8_37"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x827c2448", 
+    "funcName": "def_80828CF8_38"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x827d022c", 
+    "funcName": "log__165"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x827d6aa8", 
+    "funcName": "log__166"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x827d6ab0", 
+    "funcName": "log__167"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x827d86cc", 
+    "funcName": "log__168"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x827de890", 
+    "funcName": "log__169"
+  }, 
+  {
+    "criticalIndex": "[2]", 
+    "offset": "0x827e32f0", 
+    "funcName": "maybe_recv_0___"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82813174", 
+    "funcName": "log__170"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8281317c", 
+    "funcName": "log__171"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8281cb24", 
+    "funcName": "log__172"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8281d574", 
+    "funcName": "log__173"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8282f1c0", 
+    "funcName": "log__174"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82830034", 
+    "funcName": "def_80828CF8_39"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8283274c", 
+    "funcName": "log__175"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82832754", 
+    "funcName": "log__176"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8283275c", 
+    "funcName": "log__177"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82832764", 
+    "funcName": "log__178"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82832968", 
+    "funcName": "log__179"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82832970", 
+    "funcName": "log__180"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82832978", 
+    "funcName": "log__181"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82832980", 
+    "funcName": "log__182"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82832988", 
+    "funcName": "log__183"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82832a18", 
+    "funcName": "log__184"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82832a9c", 
+    "funcName": "log__185"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82833e94", 
+    "funcName": "log__186"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82833e9c", 
+    "funcName": "log__187"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82865338", 
+    "funcName": "log__188"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82865340", 
+    "funcName": "log__189"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x828653a4", 
+    "funcName": "log__190"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x828653ac", 
+    "funcName": "log__191"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x828895f8", 
+    "funcName": "log__192"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8288ea20", 
+    "funcName": "def_80828CF8_40"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8289e008", 
+    "funcName": "log__193"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x828a2cd0", 
+    "funcName": "log__194"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x828a2cd8", 
+    "funcName": "log__195"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x828a69b0", 
+    "funcName": "log__196"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x828b6e0c", 
+    "funcName": "def_80828CF8_41"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x828bf474", 
+    "funcName": "log__197"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x828bf62c", 
+    "funcName": "log__198"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x828bf634", 
+    "funcName": "log__199"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x828ede5c", 
+    "funcName": "log__200"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x828edf04", 
+    "funcName": "log__201"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x828edf0c", 
+    "funcName": "log__202"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x828f192c", 
+    "funcName": "log__203"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82905d28", 
+    "funcName": "log__205"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8290c918", 
+    "funcName": "log__206"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8290c920", 
+    "funcName": "log__207"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8290c930", 
+    "funcName": "log__208"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8290c940", 
+    "funcName": "log__209"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8290c948", 
+    "funcName": "log__210"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8290c958", 
+    "funcName": "log__211"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8290c968", 
+    "funcName": "log__212"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8290c970", 
+    "funcName": "log__213"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8290c980", 
+    "funcName": "log__214"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8290cb64", 
+    "funcName": "log__215"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8290cb6c", 
+    "funcName": "log__216"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8290e85c", 
+    "funcName": "log__218"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8291035c", 
+    "funcName": "log__219"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82912650", 
+    "funcName": "log__220"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x829410fc", 
+    "funcName": "deref_8"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82941104", 
+    "funcName": "deref_9"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82948c1c", 
+    "funcName": "log__221"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82948c24", 
+    "funcName": "log__222"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x829503b8", 
+    "funcName": "log__223"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82951e30", 
+    "funcName": "log__224"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82951e38", 
+    "funcName": "log__225"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82951e40", 
+    "funcName": "log__226"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82952be0", 
+    "funcName": "log__227"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82981b50", 
+    "funcName": "log__228"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8298bd50", 
+    "funcName": "log__229"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8298f998", 
+    "funcName": "http_req"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x829b9974", 
+    "funcName": "log__230"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82a1ade0", 
+    "funcName": "log__231"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82a51438", 
+    "funcName": "log__232"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82a64838", 
+    "funcName": "log__233"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82ab7284", 
+    "funcName": "log__234"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82ac37d0", 
+    "funcName": "log__235"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82af6274", 
+    "funcName": "log__236"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82b03284", 
+    "funcName": "log__237"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82b1c2cc", 
+    "funcName": "log__238"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82b1c444", 
+    "funcName": "log__239"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82b24b38", 
+    "funcName": "log__240"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82b24b40", 
+    "funcName": "log__241"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82b48c64", 
+    "funcName": "log__242"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82b5819c", 
+    "funcName": "def_80828CF8_42"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82b58214", 
+    "funcName": "def_80828CF8_43"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82b582d4", 
+    "funcName": "def_80828CF8_44"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82b85950", 
+    "funcName": "log__243"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82b8993c", 
+    "funcName": "log__244"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82baac74", 
+    "funcName": "def_80828CF8_45"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82be98f4", 
+    "funcName": "log__245"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82bf1e50", 
+    "funcName": "log__246"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82bf1edc", 
+    "funcName": "log__247"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82bf1ee4", 
+    "funcName": "log__248"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82c05470", 
+    "funcName": "log__249"
+  }, 
+  {
+    "criticalIndex": "[2]", 
+    "offset": "0x82c23790", 
+    "funcName": "maybe_recv"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82c27870", 
+    "funcName": "log__250"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82c28034", 
+    "funcName": "def_80828CF8_46"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82c280e0", 
+    "funcName": "def_80828CF8_47"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82c280e8", 
+    "funcName": "def_80828CF8_48"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82c28c8c", 
+    "funcName": "def_80828CF8_49"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82c29b48", 
+    "funcName": "log__251"
+  }, 
+  {
+    "criticalIndex": "[2]", 
+    "offset": "0x82c29fec", 
+    "funcName": "pal_sock_recvfrom"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82c2a034", 
+    "funcName": "log__252"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82c2a0c4", 
+    "funcName": "log__253"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82c36558", 
+    "funcName": "def_80828CF8_50"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82c3da24", 
+    "funcName": "log__254"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82c3e138", 
+    "funcName": "log__255"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82c3e5a0", 
+    "funcName": "log__256"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82c3e5a8", 
+    "funcName": "log__257"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82c3ff84", 
+    "funcName": "log__258"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82c40108", 
+    "funcName": "log__259"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82c40128", 
+    "funcName": "usrKernelInit"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82c40344", 
+    "funcName": "usrRoot"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82c40ca8", 
+    "funcName": "log__260"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82c507f4", 
+    "funcName": "deref_10"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82c67a4c", 
+    "funcName": "deref_11"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82c69e40", 
+    "funcName": "log__261"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82c6f0b8", 
+    "funcName": "deref_12"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82c70884", 
+    "funcName": "deref_13"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82c70a40", 
+    "funcName": "deref_14"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82c70a98", 
+    "funcName": "deref_15"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82c71328", 
+    "funcName": "log__262"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82c80ae4", 
+    "funcName": "log__263"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82c9d4f4", 
+    "funcName": "deref_16"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82c9e068", 
+    "funcName": "X509V3_section_free"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82ca40d4", 
+    "funcName": "deref_17"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82ca9210", 
+    "funcName": "deref_18"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82cad7a8", 
+    "funcName": "deref_19"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82cbc2e4", 
+    "funcName": "deref_20"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82cbcbec", 
+    "funcName": "deref_21"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82cc39f4", 
+    "funcName": "deref_22"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82cede60", 
+    "funcName": "deref_23"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82ceee58", 
+    "funcName": "log__264"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82d19a4c", 
+    "funcName": "def_80828CF8_51"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82d19a5c", 
+    "funcName": "def_80828CF8_52"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82d1de40", 
+    "funcName": "log__265"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82d1f57c", 
+    "funcName": "log__266"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82d2484c", 
+    "funcName": "log__267"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82d55d98", 
+    "funcName": "log__268"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82d6aeb8", 
+    "funcName": "log__269"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82d852c0", 
+    "funcName": "log__271"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82d8b2f8", 
+    "funcName": "log__272"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82d8b578", 
+    "funcName": "log__273"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82d8db38", 
+    "funcName": "log__274"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82d91ac8", 
+    "funcName": "def_80828CF8_53"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82d92de0", 
+    "funcName": "memcmp"
+  }, 
+  {
+    "criticalIndex": "[3]", 
+    "offset": "0x82d92e40", 
+    "funcName": "memcpy_0"
+  }, 
+  {
+    "criticalIndex": "[3]", 
+    "offset": "0x82d92e70", 
+    "funcName": "memmove"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82d92ee8", 
+    "funcName": "memset"
+  }, 
+  {
+    "criticalIndex": "[2]", 
+    "offset": "0x82d92f20", 
+    "funcName": "strcat"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82d92f58", 
+    "funcName": "strchr"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82d92f90", 
+    "funcName": "strcmp"
+  }, 
+  {
+    "criticalIndex": "[2]", 
+    "offset": "0x82d931c8", 
+    "funcName": "strcpy"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82d933c8", 
+    "funcName": "strlen"
+  }, 
+  {
+    "criticalIndex": "[3]", 
+    "offset": "0x82d933f0", 
+    "funcName": "strncat"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82d93448", 
+    "funcName": "strncmp"
+  }, 
+  {
+    "criticalIndex": "[3]", 
+    "offset": "0x82d934b0", 
+    "funcName": "strncpy_zero"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82d935f0", 
+    "funcName": "strstr"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82d939c0", 
+    "funcName": "def_80828CF8_54"
+  }, 
+  {
+    "criticalIndex": "[2, 3]", 
+    "offset": "0x82d9aad0", 
+    "funcName": "snprintf"
+  }, 
+  {
+    "criticalIndex": "[2, 3, 4, 5, 6, 7, 8]", 
+    "offset": "0x82d9ab38", 
+    "funcName": "sprintf"
+  }, 
+  {
+    "criticalIndex": "[2, 3, 4, 5, 6, 7, 8]", 
+    "offset": "0x82d9bff8", 
+    "funcName": "sprintf_1"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82d9d508", 
+    "funcName": "log__275"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82d9d510", 
+    "funcName": "log__276"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82d9d518", 
+    "funcName": "log__277"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82d9d520", 
+    "funcName": "log__278"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82d9e148", 
+    "funcName": "log__279"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82d9f198", 
+    "funcName": "log__280"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82da0318", 
+    "funcName": "log__281"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82da0320", 
+    "funcName": "log__282"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82daab60", 
+    "funcName": "log__283"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82db16b8", 
+    "funcName": "log__284"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82db1aa8", 
+    "funcName": "def_80828CF8_55"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82db1b80", 
+    "funcName": "log__285"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82db8b10", 
+    "funcName": "log__286"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82db8b30", 
+    "funcName": "log__287"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82db9080", 
+    "funcName": "_rl_input_available"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82dddf48", 
+    "funcName": "log__288"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82df11b8", 
+    "funcName": "errorSet"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82dfa1a0", 
+    "funcName": "log__289"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82e01b68", 
+    "funcName": "log__290"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82e01d00", 
+    "funcName": "log__291"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82e139f0", 
+    "funcName": "log__292"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82e139f8", 
+    "funcName": "log__293"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82e17418", 
+    "funcName": "deref_24"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82e18000", 
+    "funcName": "log__294"
+  }, 
+  {
+    "criticalIndex": "[2]", 
+    "offset": "0x82e18760", 
+    "funcName": "strcpy_fast"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82e1c330", 
+    "funcName": "log__295"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82e21250", 
+    "funcName": "log__296"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82e32048", 
+    "funcName": "kernelInit"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82e3a360", 
+    "funcName": "log__297"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82e3eae8", 
+    "funcName": "def_80828CF8_56"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82e40460", 
+    "funcName": "def_80828CF8_57"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82e40ab8", 
+    "funcName": "log__298"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82e40ac0", 
+    "funcName": "log__299"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82e40ac8", 
+    "funcName": "log__300"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82e40aec", 
+    "funcName": "log__301"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82e40af4", 
+    "funcName": "log__302"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x82e44008", 
+    "funcName": "log__303"
+  }
+]

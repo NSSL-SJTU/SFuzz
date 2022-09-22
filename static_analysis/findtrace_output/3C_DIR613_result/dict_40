@@ -1,0 +1,12 @@
+subnet
+lanXXXXXXXXXX_
+lan%x_
+ip
+router
+lan_
+ifname
+netmask
+wanXXXXXXXXXX_
+ipaddr
+dhcp
+gateway

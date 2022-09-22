@@ -1,0 +1,25 @@
+l2tpPassword
+l2tpSubnetMask
+l2tpGetServMode
+l2tpGetServByIp
+wan_l2tp_use_dynamic_carrier_radio
+l2tpDefGw
+l2tpMtuSize
+l2tpConnect
+l2tpUserName
+encrypt
+l2tpIdleTime
+l2tpDisconnect
+ERROR: Get password private KEY failed.
+handle_wantcpip_l2tp
+l2tpServerDomainName
+false
+l2tpIpAddr
+method error!
+%s %d
+WDB8WvbXdH
+l2tpGetServByDomainName
+l2tp_reconnect_mode_radio
+true
+decrypt
+l2tpServerIpAddr

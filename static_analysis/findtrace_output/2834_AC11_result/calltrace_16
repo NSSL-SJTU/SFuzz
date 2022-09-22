@@ -1,0 +1,3 @@
+800d5104:FUN_800d50a4->nvram_set
+800d5278:FUN_800d5204->strcpy
+80022870:FUN_800227ac->strcpy

@@ -1,0 +1,123 @@
+[
+  {
+    "funcName": "strcmp",
+    "criticalIndex": "[-1]",
+    "offset": "0x800550ac"
+  },
+  {
+    "funcName": "strcmp__1",
+    "criticalIndex": "[-1]",
+    "offset": "0x8011baa4"
+  },
+  {
+    "funcName": "strcmp__2",
+    "criticalIndex": "[-1]",
+    "offset": "0x8011bcd8"
+  },
+  {
+    "offset": "0x8011bac0",
+    "funcName": "strcpy",
+    "criticalIndex": "[2]",
+    "funcSign": "char* strcpy(char* dest, char* src)"
+  },
+  {
+    "offset": "0x80116698",
+    "funcName": "snprintf",
+    "criticalIndex": "[2, 3]",
+    "funcSign": "int snprintf(char* str, unsigned int size, char* format, ...)"
+  },
+  {
+    "funcName": "strtol",
+    "criticalIndex": "[-1]",
+    "offset": "0x8011b5e8"
+  },
+  {
+    "funcName": "strtol__1",
+    "criticalIndex": "[-1]",
+    "offset": "0x8011b714"
+  },
+  {
+    "offset": "0x80116738",
+    "funcName": "memcpy",
+    "criticalIndex": "[3]",
+    "funcSign": "void* memcpy(void* dest, void* src, unsigned int n)"
+  },
+  {
+    "offset": "0x8011ba2c",
+    "funcName": "memcpy__1",
+    "criticalIndex": "[3]",
+    "funcSign": "void* memcpy__1(void* dest, void* src, unsigned int n)"
+  },
+  {
+    "funcName": "csum",
+    "criticalIndex": "[1, 2, 3, 4, 5, 6, 7, 8]",
+    "offset": "0x80018798",
+    "funcType": "Checksum"
+  },
+  {
+    "funcName": "csum__1",
+    "criticalIndex": "[1, 2, 3, 4, 5, 6, 7, 8]",
+    "offset": "0x80105530",
+    "funcType": "Checksum"
+  },
+  {
+    "funcName": "atoi",
+    "criticalIndex": "[1]",
+    "offset": "0x8011af20"
+  },
+  {
+    "funcName": "memcmp",
+    "criticalIndex": "[-1]",
+    "offset": "0x8011ba08"
+  },
+  {
+    "funcName": "memcmp__1",
+    "criticalIndex": "[-1]",
+    "offset": "0x801244ec"
+  },
+  {
+    "offset": "0x8011bb54",
+    "funcName": "strncpy",
+    "criticalIndex": "[3]",
+    "funcSign": "char* strncpy(char* dest, char* src, unsigned int n)"
+  },
+  {
+    "offset": "0x8011bb08",
+    "funcName": "strncat",
+    "criticalIndex": "[3]",
+    "funcSign": "char* strncat(char* dest, char* src, unsigned int n)"
+  },
+  {
+    "offset": "0x801166e4",
+    "funcName": "sprintf",
+    "criticalIndex": "[2, 3, 4, 5, 6, 7, 8]",
+    "funcSign": "int sprintf(char* str, char* format, ...)"
+  },
+  {
+    "offset": "0x8011c1ac",
+    "funcName": "sprintf__1",
+    "criticalIndex": "[2, 3, 4, 5, 6, 7, 8]",
+    "funcSign": "int sprintf__1(char* str, char* format, ...)"
+  },
+  {
+    "funcName": "strncmp",
+    "criticalIndex": "[-1]",
+    "offset": "0x8011bb30"
+  },
+  {
+    "offset": "0x8011ba64",
+    "funcName": "strcat",
+    "criticalIndex": "[2]",
+    "funcSign": "char* strcat(char* dest, char* src)"
+  },
+  {
+    "offset": "0x80023630",
+    "funcName": "nvram_get",
+    "criticalIndex": "[0]"
+  },
+  {
+    "offset": "0x80053ca0",
+    "funcName": "Packt_WebGetsVar",
+    "criticalIndex": "[0]"
+  }
+]

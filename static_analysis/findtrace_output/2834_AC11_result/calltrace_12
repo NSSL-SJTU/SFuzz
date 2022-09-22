@@ -1,0 +1,9 @@
+800cf2f8:cgi_lib_set_rub_net_add_blacklist->nvram_set
+800cf2f8:cgi_lib_set_rub_net_add_blacklist->strcpy
+800cf2f8:cgi_lib_set_rub_net_add_blacklist->FUN_800e9e2c->strncpy
+800cf2f8:cgi_lib_set_rub_net_add_blacklist->sprintf_1
+800cf49c:cgi_lib_set_rub_net_add_blacklist->strcpy
+8002ba3c:FUN_8002aed8->strncpy
+800cf6f8:cgi_lib_set_rub_net_delete_blacklist->strncpy
+800cf6f8:cgi_lib_set_rub_net_delete_blacklist->FUN_800e9d68->strncpy
+8002ba20:FUN_8002aed8->strncpy

@@ -1,0 +1,16 @@
+private_port_%d
+enabled_%d
+FTP
+ftp
+public_port_%d
+alg_%d
+ingress_name_%d
+settingsChanged
+protocol_%d
+name_%d
+sched_name_%d
+used_%d
+true
+Setting saved.
+submit-url
+not foud /

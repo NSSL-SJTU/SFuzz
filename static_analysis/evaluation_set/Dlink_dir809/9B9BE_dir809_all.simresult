@@ -1,0 +1,1362 @@
+[
+  {
+    "offset": "0x80007d9c", 
+    "funcName": "set_local_var", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x80020ca4", 
+    "funcName": "Packt_WebGetsVar", 
+    "criticalIndex": "[0]"
+  }, 
+  {
+    "offset": "0x80020ed8", 
+    "funcName": "handle_fmGetValAndSetBoolVal", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x80020fac", 
+    "funcName": "handle_fmGetValAndSetChkbox", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x8002105c", 
+    "funcName": "handle_fmGetValAndSetStrVal", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x8002116c", 
+    "funcName": "handle_fmGetValAndSetIntVal", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x80021428", 
+    "funcName": "handle_fmGetValAndSetIp", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x800214fc", 
+    "funcName": "log", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x80035678", 
+    "funcName": "handle_fmGetValAndSetPPPCONN_T", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x800fe964", 
+    "funcName": "get_password_key", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x80139958", 
+    "funcName": "fun_log", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x80139ba0", 
+    "funcName": "memset", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x8013d1d8", 
+    "funcName": "malloc", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x8013e93c", 
+    "funcName": "strcat", 
+    "criticalIndex": "[2]"
+  }, 
+  {
+    "offset": "0x8013e998", 
+    "funcName": "strcpy", 
+    "criticalIndex": "[2]"
+  }, 
+  {
+    "offset": "0x8013e9ac", 
+    "funcName": "strlen", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x8013ea50", 
+    "funcName": "strstr", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x8013f070", 
+    "funcName": "snprintf", 
+    "criticalIndex": "[2, 3]"
+  }, 
+  {
+    "offset": "0x8013f088", 
+    "funcName": "sprintf", 
+    "criticalIndex": "[3, 2, 4, 5, 6, 7, 8]"
+  },
+  {
+    "funcName": "apmib_sem_lock",
+    "offset": "0x800076f0",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "set_local_var",
+    "offset": "0x80007d9c",
+    "criticalIndex": "[2]"
+  },
+  {
+    "funcName": "get_local_var",
+    "offset": "0x80007e40",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "nvram_get_another",
+    "offset": "0x80007e84",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "nvram_get_wrapper",
+    "offset": "0x80019094",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "Packt_WebGetsVar",
+    "offset": "0x80020ca4",
+    "criticalIndex": "[0]"
+  },
+  {
+    "funcName": "formtest",
+    "offset": "0x80020e80",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "log",
+    "offset": "0x800214fc",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "getModeCombobox",
+    "offset": "0x80021fc0",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "dumpAppRuleList",
+    "offset": "0x8002246c",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "dumpVirtualServList",
+    "offset": "0x800225a4",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "dumpPortFwList",
+    "offset": "0x800226e4",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "get_wan_state_result",
+    "offset": "0x80022990",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "getWanConnection",
+    "offset": "0x800229dc",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "getLangInfo",
+    "offset": "0x80022b54",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "macFilterList",
+    "offset": "0x80022da4",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "portFilterList",
+    "offset": "0x80022f24",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "urlFilterList",
+    "offset": "0x8002310c",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "ipFilterList",
+    "offset": "0x80023210",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "getFwInfo",
+    "offset": "0x80023dc0",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "getIndexInfo",
+    "offset": "0x80023fb4",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "getVirtualIndexInfo",
+    "offset": "0x80024a94",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "getInfo",
+    "offset": "0x80024b50",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "getVirtualInfo",
+    "offset": "0x8002a5c4",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "getIndex",
+    "offset": "0x8002a6a0",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "getVirtualIndex",
+    "offset": "0x8002e3f0",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formDdns",
+    "offset": "0x800314cc",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formResetStatistic",
+    "offset": "0x800317b4",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formStats",
+    "offset": "0x80031810",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formLogin",
+    "offset": "0x8003183c",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formRequestKey",
+    "offset": "0x80031958",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formSessValidate",
+    "offset": "0x80031b10",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formLangSel",
+    "offset": "0x80031be0",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "sysCmdLog",
+    "offset": "0x8003200c",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formSysCmd",
+    "offset": "0x800320c4",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formLogout",
+    "offset": "0x80032184",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formPasswordSetup",
+    "offset": "0x800321e0",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formUpload",
+    "offset": "0x8003275c",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formFirmwareUpgrade",
+    "offset": "0x80032b64",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formLanguageUpgrade",
+    "offset": "0x80032b78",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formUploadConfig",
+    "offset": "0x80032c38",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formSaveConfig",
+    "offset": "0x80032ec0",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formSiteSurveyProfile",
+    "offset": "0x80033188",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formOpMode",
+    "offset": "0x800336d4",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formRebootCheck",
+    "offset": "0x80033718",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formNtp",
+    "offset": "0x80033744",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formWizard",
+    "offset": "0x80033e44",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "wanButtonAction",
+    "offset": "0x80034bb8",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formStaticDHCP",
+    "offset": "0x80034d60",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formReflashClientTbl",
+    "offset": "0x80034f60",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "dhcpRsvdIp_List",
+    "offset": "0x80034f8c",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "dhcpClientList",
+    "offset": "0x800351a8",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formWanTcpipSetup",
+    "offset": "0x80035e10",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "dhcpRsvIpOnlineList",
+    "offset": "0x80036500",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formTcpipSetup",
+    "offset": "0x80036658",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formSysLog",
+    "offset": "0x800397d4",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "sysLogList",
+    "offset": "0x80039bb0",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formDosCfg",
+    "offset": "0x80039d38",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "get_wlan_clients",
+    "offset": "0x8003a924",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formWirelessTbl",
+    "offset": "0x8003a9a0",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "wlWdsList",
+    "offset": "0x8003af24",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "wlAcList",
+    "offset": "0x8003b034",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "wlProfileList",
+    "offset": "0x8003b0fc",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "getWlProfileInfo",
+    "offset": "0x8003b2a8",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "wlProfileTblList",
+    "offset": "0x8003b3d8",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "wirelessClientList",
+    "offset": "0x8003b538",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "wlSiteSurveyTbl",
+    "offset": "0x8003b7f8",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formSchedule",
+    "offset": "0x8003bc28",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formWlanMultipleAP",
+    "offset": "0x8003be44",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "wdsList",
+    "offset": "0x8003c1d4",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formWdsEncrypt",
+    "offset": "0x8003c414",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formWlWds",
+    "offset": "0x8003c748",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formWlAc",
+    "offset": "0x8003ca98",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "getScheduleInfo",
+    "offset": "0x8003d20c",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formWlSiteSurvey",
+    "offset": "0x8003e764",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formAlphaSubmitAll",
+    "offset": "0x8003f748",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formWlEncrypt",
+    "offset": "0x8003f8e0",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formAdvanceSetup",
+    "offset": "0x80040984",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formWlanSetup",
+    "offset": "0x80041fc4",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formWsc",
+    "offset": "0x800423f0",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "showVlanTagTbl",
+    "offset": "0x80043068",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "netIfList",
+    "offset": "0x80043230",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "urlFilter_List",
+    "offset": "0x8004347c",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "firewallRule_row",
+    "offset": "0x800435a0",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "qosList",
+    "offset": "0x80043820",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "MACFilter_List",
+    "offset": "0x800439f8",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "triggporList",
+    "offset": "0x80043b0c",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "virtualAppList",
+    "offset": "0x80043c10",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "virtualServList",
+    "offset": "0x80043e10",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "vlanList",
+    "offset": "0x80044010",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formNetIf",
+    "offset": "0x80044558",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formVlan",
+    "offset": "0x80044778",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formVlanAdd",
+    "offset": "0x80044994",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formIpQoS",
+    "offset": "0x80044c48",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formPortFw",
+    "offset": "0x80045478",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formDMZ",
+    "offset": "0x80045880",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "portFwList",
+    "offset": "0x80045994",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "ipQosList",
+    "offset": "0x80045bdc",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formAdvNetwork",
+    "offset": "0x80046048",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formAdvFirewall",
+    "offset": "0x800462c4",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formSetQoS",
+    "offset": "0x80046aac",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formSetPortTr",
+    "offset": "0x80046eb4",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formURLFilter",
+    "offset": "0x80047200",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formSetMACFilter",
+    "offset": "0x800474a0",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formVirtualApp",
+    "offset": "0x8004776c",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formVirtualServ",
+    "offset": "0x80047c54",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formFilter",
+    "offset": "0x800481a4",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "strncpy",
+    "offset": "0x800feea8",
+    "criticalIndex": "[3]"
+  },
+  {
+    "funcName": "fun_log",
+    "offset": "0x80139958",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "memmove",
+    "offset": "0x80139b30",
+    "criticalIndex": "[3]"
+  },
+  {
+    "funcName": "memset",
+    "offset": "0x80139ba0",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "check1",
+    "offset": "0x8013e4c0",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "strcat",
+    "offset": "0x8013e93c",
+    "criticalIndex": "[2]"
+  },
+  {
+    "funcName": "strcmp",
+    "offset": "0x8013e97c",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "strcpy",
+    "offset": "0x8013e998",
+    "criticalIndex": "[2]"
+  },
+  {
+    "funcName": "strlen",
+    "offset": "0x8013e9ac",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "snprintf",
+    "offset": "0x8013f070",
+    "criticalIndex": "[2, 3]"
+  },
+  {
+    "funcName": "sprintf",
+    "offset": "0x8013f088",
+    "criticalIndex": "[2, 3, 4, 5, 6, 7, 8]"
+  },
+  {
+    "funcName": "log1",
+    "offset": "0x8013f3e4",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "printf",
+    "offset": "0x80140f7c",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "printf_internal",
+    "offset": "0x801410a0",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "checkip_mb",
+    "offset": "0x80147874",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "offset": "0x80007d9c", 
+    "funcName": "set_local_var", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x80020ca4", 
+    "funcName": "Packt_WebGetsVar", 
+    "criticalIndex": "[0]"
+  }, 
+  {
+    "offset": "0x80020ed8", 
+    "funcName": "handle_fmGetValAndSetBoolVal", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x80020fac", 
+    "funcName": "handle_fmGetValAndSetChkbox", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x8002105c", 
+    "funcName": "handle_fmGetValAndSetStrVal", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x8002116c", 
+    "funcName": "handle_fmGetValAndSetIntVal", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x80021428", 
+    "funcName": "handle_fmGetValAndSetIp", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x800214fc", 
+    "funcName": "log", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x80035678", 
+    "funcName": "handle_fmGetValAndSetPPPCONN_T", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x800fe964", 
+    "funcName": "get_password_key", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x80139958", 
+    "funcName": "fun_log", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x80139ba0", 
+    "funcName": "memset", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x8013d1d8", 
+    "funcName": "malloc", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x8013e93c", 
+    "funcName": "strcat", 
+    "criticalIndex": "[2]"
+  }, 
+  {
+    "offset": "0x8013e998", 
+    "funcName": "strcpy", 
+    "criticalIndex": "[2]"
+  }, 
+  {
+    "offset": "0x8013FE48",
+    "funcName":"vsnprintf",
+    "criticalIndex":"[2]"
+  },
+  {
+    "offset": "0x8013e9ac", 
+    "funcName": "strlen", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x8013ea50", 
+    "funcName": "strstr", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x8013f070", 
+    "funcName": "snprintf", 
+    "criticalIndex": "[2, 3]"
+  }, 
+  {
+    "offset": "0x8013f088", 
+    "funcName": "sprintf", 
+    "criticalIndex": "[3, 2, 4, 5, 6, 7, 8]"
+  },
+  {
+    "funcName": "do_set_local_var",
+    "offset": "0x80006394",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "apmib_sem_unlock",
+    "offset": "0x800076d4",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "apmib_sem_lock",
+    "offset": "0x800076f0",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "set_local_var",
+    "offset": "0x80007d9c",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "get_local_var",
+    "offset": "0x80007e40",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "Packt_WebGetsVar",
+    "offset": "0x80020ca4",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formtest",
+    "offset": "0x80020e80",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "getModeCombobox",
+    "offset": "0x80021fc0",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "dumpAppRuleList",
+    "offset": "0x8002246c",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "dumpVirtualServList",
+    "offset": "0x800225a4",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "dumpPortFwList",
+    "offset": "0x800226e4",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "get_wan_state_result",
+    "offset": "0x80022990",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "getWanConnection",
+    "offset": "0x800229dc",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "getLangInfo",
+    "offset": "0x80022b54",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "macFilterList",
+    "offset": "0x80022da4",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "portFilterList",
+    "offset": "0x80022f24",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "urlFilterList",
+    "offset": "0x8002310c",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "ipFilterList",
+    "offset": "0x80023210",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "getFwInfo",
+    "offset": "0x80023dc0",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "getIndexInfo",
+    "offset": "0x80023fb4",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "getVirtualIndexInfo",
+    "offset": "0x80024a94",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "getInfo",
+    "offset": "0x80024b50",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "getVirtualInfo",
+    "offset": "0x8002a5c4",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "getIndex",
+    "offset": "0x8002a6a0",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "getVirtualIndex",
+    "offset": "0x8002e3f0",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formDdns",
+    "offset": "0x800314cc",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formResetStatistic",
+    "offset": "0x800317b4",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formStats",
+    "offset": "0x80031810",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formLogin",
+    "offset": "0x8003183c",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formRequestKey",
+    "offset": "0x80031958",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formSessValidate",
+    "offset": "0x80031b10",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formLangSel",
+    "offset": "0x80031be0",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "sysCmdLog",
+    "offset": "0x8003200c",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formSysCmd",
+    "offset": "0x800320c4",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formLogout",
+    "offset": "0x80032184",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formPasswordSetup",
+    "offset": "0x800321e0",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formUpload",
+    "offset": "0x8003275c",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formFirmwareUpgrade",
+    "offset": "0x80032b64",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formLanguageUpgrade",
+    "offset": "0x80032b78",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formUploadConfig",
+    "offset": "0x80032c38",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formSaveConfig",
+    "offset": "0x80032ec0",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formSiteSurveyProfile",
+    "offset": "0x80033188",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formOpMode",
+    "offset": "0x800336d4",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formRebootCheck",
+    "offset": "0x80033718",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formNtp",
+    "offset": "0x80033744",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formWizard",
+    "offset": "0x80033e44",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "wanButtonAction",
+    "offset": "0x80034bb8",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formStaticDHCP",
+    "offset": "0x80034d60",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formReflashClientTbl",
+    "offset": "0x80034f60",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "dhcpRsvdIp_List",
+    "offset": "0x80034f8c",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "dhcpClientList",
+    "offset": "0x800351a8",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formWanTcpipSetup",
+    "offset": "0x80035e10",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "dhcpRsvIpOnlineList",
+    "offset": "0x80036500",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formTcpipSetup",
+    "offset": "0x80036658",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formSysLog",
+    "offset": "0x800397d4",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "sysLogList",
+    "offset": "0x80039bb0",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formDosCfg",
+    "offset": "0x80039d38",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "get_wlan_clients",
+    "offset": "0x8003a924",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formWirelessTbl",
+    "offset": "0x8003a9a0",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "wlWdsList",
+    "offset": "0x8003af24",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "wlAcList",
+    "offset": "0x8003b034",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "wlProfileList",
+    "offset": "0x8003b0fc",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "getWlProfileInfo",
+    "offset": "0x8003b2a8",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "wlProfileTblList",
+    "offset": "0x8003b3d8",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "wirelessClientList",
+    "offset": "0x8003b538",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "wlSiteSurveyTbl",
+    "offset": "0x8003b7f8",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formSchedule",
+    "offset": "0x8003bc28",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formWlanMultipleAP",
+    "offset": "0x8003be44",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "wdsList",
+    "offset": "0x8003c1d4",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formWdsEncrypt",
+    "offset": "0x8003c414",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formWlWds",
+    "offset": "0x8003c748",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formWlAc",
+    "offset": "0x8003ca98",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "getScheduleInfo",
+    "offset": "0x8003d20c",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formWlSiteSurvey",
+    "offset": "0x8003e764",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formAlphaSubmitAll",
+    "offset": "0x8003f748",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formWlEncrypt",
+    "offset": "0x8003f8e0",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formAdvanceSetup",
+    "offset": "0x80040984",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formWlanSetup",
+    "offset": "0x80041fc4",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formWsc",
+    "offset": "0x800423f0",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "showVlanTagTbl",
+    "offset": "0x80043068",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "netIfList",
+    "offset": "0x80043230",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "urlFilter_List",
+    "offset": "0x8004347c",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "firewallRule_row",
+    "offset": "0x800435a0",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "qosList",
+    "offset": "0x80043820",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "MACFilter_List",
+    "offset": "0x800439f8",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "triggporList",
+    "offset": "0x80043b0c",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "virtualAppList",
+    "offset": "0x80043c10",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "virtualServList",
+    "offset": "0x80043e10",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "vlanList",
+    "offset": "0x80044010",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formNetIf",
+    "offset": "0x80044558",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formVlan",
+    "offset": "0x80044778",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formVlanAdd",
+    "offset": "0x80044994",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formIpQoS",
+    "offset": "0x80044c48",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formPortFw",
+    "offset": "0x80045478",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formDMZ",
+    "offset": "0x80045880",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "portFwList",
+    "offset": "0x80045994",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "ipQosList",
+    "offset": "0x80045bdc",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formAdvNetwork",
+    "offset": "0x80046048",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formAdvFirewall",
+    "offset": "0x800462c4",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formSetQoS",
+    "offset": "0x80046aac",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formSetPortTr",
+    "offset": "0x80046eb4",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formURLFilter",
+    "offset": "0x80047200",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formSetMACFilter",
+    "offset": "0x800474a0",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formVirtualApp",
+    "offset": "0x8004776c",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formVirtualServ",
+    "offset": "0x80047c54",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "formFilter",
+    "offset": "0x800481a4",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "memset",
+    "offset": "0x80139ba0",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "apmib_sem_lock_",
+    "offset": "0x80139d70",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "strcmp",
+    "offset": "0x8013e97c",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "strcpy",
+    "offset": "0x8013e998",
+    "criticalIndex": "[2]"
+  },
+  {
+    "funcName": "sprintf",
+    "offset": "0x8013f088",
+    "criticalIndex": "[2, 3, 4, 5, 6, 7, 8]"
+  }
+]

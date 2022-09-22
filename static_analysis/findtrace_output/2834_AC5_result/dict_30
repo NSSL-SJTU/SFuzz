@@ -1,0 +1,21 @@
+wl1.1_radio
+wifiRelayChannel
+sta
+WPA2
+wl0_mode
+24G
+UTF-8
+wifiRelayPwd
+WPA
+wifiRelaySSID
+WPAWPA2
+wl0.1_radio
+Unsupport security.
+wifiRelayEncode
+wl1.1_ssid
+wl0.1_encode
+wifiRelaySecurityMode
+wl0.1_ssid
+NONE
+wl1_mode
+wl1.1_encode

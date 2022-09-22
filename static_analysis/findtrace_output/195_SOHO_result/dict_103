@@ -1,0 +1,20 @@
+$configure terminal$ $router ipv6 rip$ $no passive-interface %s$
+cbox_ZRipngPoisonR_%d
+$config terminal$ $router ipv6 rip$ $default-metric %s$
+$config terminal$ $router ipv6 rip$ $no redistribute ospf$
+$configure terminal$ $router ipv6 rip$
+$config terminal$ $router ipv6 rip$ $no redistribute connected$
+$config terminal$ $interface %s$ $ipv6 router rip$
+%u
+$router ipv6 rip$
+$ipv6 unnumbered %s$
+metric %s
+ZRipngPoisonR_%d
+$config terminal$ $router ipv6 rip$ $redistribute ospf %s$
+$config terminal$ $router ipv6 rip$ $no redistribute static$
+$configure terminal$ $router ipv6 rip$ $passive-interface %s$
+$config terminal$ $router ipv6 rip$ $redistribute connected %s$
+%d
+$config terminal$ $interface %s$ $no ipv6 router rip$
+$config terminal$ $router ipv6 rip$ $no default-metric$
+$config terminal$ $router ipv6 rip$ $redistribute static %s$

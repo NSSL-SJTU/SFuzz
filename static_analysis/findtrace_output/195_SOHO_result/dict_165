@@ -1,0 +1,8 @@
+
+%s %s%s%s HTTP/1.1Host: %s:%dUser-Agent: SWHC/1.0Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5Accept-Language: en-us,en;q=0.5Accept-Encoding: gzip,deflateAccept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7Connection: close%s%s
+Content-Length: 
+If-Modified-Since: 
+Proxy-Authorization: Basic %s
+If-None-Match: 
+Content-Type: 
+%d

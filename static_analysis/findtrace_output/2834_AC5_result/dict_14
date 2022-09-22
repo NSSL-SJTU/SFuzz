@@ -1,0 +1,16 @@
+%s_%s
+hasNewSoftVersion
+updateDate
+updateVersion
+module
+uc_get_version
+false
+description
+cn
+update_date
+V02.03.01.21
+newest_ver
+true
+newVersionOptimize
+cgi_lib_get_ucloud_version
+noprompt_version

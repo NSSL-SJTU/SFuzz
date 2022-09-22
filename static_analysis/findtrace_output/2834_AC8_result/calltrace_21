@@ -1,0 +1,9 @@
+800cea60:FUN_800ce9ec->nvram_set
+800cea60:FUN_800ce9ec->sprintf__1
+800cea60:FUN_800ce9ec->strcpy
+800cea60:FUN_800ce9ec->FUN_800e9554->strncpy
+800cec04:FUN_800ce9ec->strcpy
+8002b338:FUN_8002a7f0->strncpy
+8002b354:FUN_8002a7f0->strncpy
+800cee60:FUN_800ceca0->strncpy
+800cee60:FUN_800ceca0->FUN_800e9490->strncpy

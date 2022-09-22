@@ -1,0 +1,143 @@
+[
+    {
+        "funcName": "strcmp",
+        "funcSign": "int strcmp(const char * s1, const char * s2)",
+        "criticalIndex": "[-1]",
+        "offset": "0x800550ac"
+    },
+    {
+        "funcName": "strcmp__1",
+        "funcSign": "int strcmp__1(const char * s1, const char * s2)",
+        "criticalIndex": "[-1]",
+        "offset": "0x8011baa4"
+    },
+    {
+        "funcName": "strcmp__2",
+        "funcSign": "int strcmp__2(const char * s1, const char * s2)",
+        "criticalIndex": "[-1]",
+        "offset": "0x8011bcd8"
+    },
+    {
+        "funcName": "strcpy",
+        "funcSign": "char * strcpy(char * dest, char  * src)",
+        "criticalIndex": "[2]",
+        "offset": "0x8011bac0",
+        "funcType": "DataSink"
+    },
+    {
+        "funcName": "snprintf",
+        "funcSign": "int snprintf(char * restrict str, size_t size, const char * restrict format, ...)",
+        "criticalIndex": "[2, 3, 4, 5, 6, 7, 8]",
+        "offset": "0x80116698",
+        "funcType": "DataSink"
+    },
+    {
+        "funcName": "strtol",
+        "funcSign": "long strtol(const char * restrict str, char ** restrict endptr, int base)",
+        "criticalIndex": "[-1]",
+        "offset": "0x8011b5e8"
+    },
+    {
+        "funcName": "strtol__1",
+        "funcSign": "long strtol__1(const char * restrict str, char ** restrict endptr, int base)",
+        "criticalIndex": "[-1]",
+        "offset": "0x8011b714"
+    },
+    {
+        "funcName": "memcpy",
+        "funcSign": "void * memcpy (void * destin, void * source, uint n)",
+        "criticalIndex": "[2, 3]",
+        "offset": "0x80116738",
+        "funcType": "DataSink"
+    },
+    {
+        "funcName": "memcpy__1",
+        "funcSign": "void * memcpy__1 (void * destin, void * source, uint n)",
+        "criticalIndex": "[2, 3]",
+        "offset": "0x8011ba2c",
+        "funcType": "DataSink"
+    },
+    {
+        "funcName": "csum",
+        "funcSign": "uint csum(ushort *param_1,int param_2)",
+        "criticalIndex": "[1, 2, 3, 4, 5, 6, 7, 8]",
+        "offset": "0x80018798",
+        "funcType": "Checksum"
+    },
+    {
+        "funcName": "csum__1",
+        "funcSign": "uint csum__1(ushort *param_1,int param_2)",
+        "criticalIndex": "[1, 2, 3, 4, 5, 6, 7, 8]",
+        "offset": "0x80105530",
+        "funcType": "Checksum"
+    },
+    {
+        "funcName": "atoi",
+        "funcSign": "int * atoi(const char * str)",
+        "criticalIndex": "[1]",
+        "offset": "0x8011af20"
+    },
+    {
+        "funcName": "memcmp",
+        "funcSign": "int memcmp(const void * s1, const void * s2, size_t n)",
+        "criticalIndex": "[-1]",
+        "offset": "0x8011ba08"
+    },
+    {
+        "funcName": "memcmp__1",
+        "funcSign": "int memcmp__1(const void * s1, const void * s2, size_t n)",
+        "criticalIndex": "[-1]",
+        "offset": "0x801244ec"
+    },
+    {
+        "funcName": "strncpy",
+        "funcSign": "char * strncpy(char * dst, const char * src, size_t len)",
+        "criticalIndex": "[2, 3]",
+        "offset": "0x8011bb54",
+        "funcType": "DataSink"
+    },
+    {
+        "funcName": "strncat",
+        "funcSign": "char * strncat(char * restrict s1, const char * restrict s2, size_t n)",
+        "criticalIndex": "[2, 3]",
+        "offset": "0x8011bb08",
+        "funcType": "DataSink"
+    },
+    {
+        "funcName": "sprintf",
+        "funcSign": "int sprintf(char * restrict str, const char * restrict format, ...)",
+        "criticalIndex": "[2, 3, 4, 5, 6, 7, 8]",
+        "offset": "0x801166e4",
+        "funcType": "DataSink"
+    },
+    {
+        "funcName": "sprintf__1",
+        "funcSign": "int sprintf__1(char * restrict str, const char * restrict format, ...)",
+        "criticalIndex": "[2, 3, 4, 5, 6, 7, 8]",
+        "offset": "0x8011c1ac",
+        "funcType": "DataSink"
+    },
+    {
+        "funcName": "strncmp",
+        "funcSign": "int strncmp(const char * s1, const char * s2, size_t n)",
+        "criticalIndex": "[-1]",
+        "offset": "0x8011bb30"
+    },
+    {
+        "funcName": "strcat",
+        "funcSign": "char * strcat(char * restrict s1, const char * restrict s2)",
+        "criticalIndex": "[2]",
+        "offset": "0x8011ba64",
+        "funcType": "DataSink"
+    },
+    {
+    "criticalIndex": "[-1]", 
+    "offset": "0x80023630", 
+    "funcName": "nvram_get"
+    }, 
+    {
+    "criticalIndex": "[-1]", 
+    "offset": "0x80053ca0", 
+    "funcName": "Packt_WebGetsVar"
+    }
+]

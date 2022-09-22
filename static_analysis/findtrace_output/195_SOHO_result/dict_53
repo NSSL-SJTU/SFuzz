@@ -1,0 +1,50 @@
+$configure terminal$ $router ipv6 ospf$ $area %s stub$
+$configure terminal$ $router ipv6 ospf$ $passive-interface %s$
+$config terminal$ $interface %s$ $ipv6 ospf priority 1 instance-id %s$
+$config terminal$ $interface %s$ $no ipv6 ospf dead-interval instance-id %s$
+$config terminal$ $router ipv6 ospf$ $no router-id %s$
+$config terminal$ $interface %s$ $no ipv6 ospf hello-interval instance-id %s$
+metric %s
+$config terminal$ $interface %s$ $ipv6 ospf hello-interval %s instance-id %s$
+$interface %s$ $ipv6 router ospf$
+$config terminal$ $interface %s$ $ipv6 ospf cost %s instance-id %s$
+$config terminal$ $interface %s$ $ipv6 ospf dead-interval 40 instance-id %s$
+$config terminal$ $router ipv6 ospf$ $no default-metric$
+$configure terminal$ $router ipv6 ospf$ $no passive-interface %s$
+$configure terminal$ $interface %s$ $no ipv6 router ospf area %s instance-id %s$
+$configure terminal$ $interface %s$ $ipv6 router ospf area %s instance-id %s$
+$config terminal$ $router ipv6 ospf$ $abr-type cisco$
+$config terminal$ $router ipv6 ospf$ $auto-cost reference-bandwidth 100$
+$router ipv6 ospf$ $router-id$
+metric-type 2
+$config terminal$ $interface %s$ $ipv6 ospf priority %s instance-id %s$
+ZOspf3IfAutoCost_%d
+$config terminal$ $router ipv6 ospf$ $no redistribute rip$
+$config terminal$ $router ipv6 ospf$ $no redistribute connected$
+$interface %s$ $ipv6 router ospf area$
+$config terminal$ $router ipv6 ospf$ $redistribute connected %s %s$
+$config terminal$ $interface %s$ $no ipv6 ospf cost$
+$config terminal$ $router ipv6 ospf$ $abr-type ibm$
+$config terminal$ $router ipv6 ospf$ $abr-type standard$
+metric-type %s
+$config terminal$ $interface %s$ $ipv6 ospf hello-interval 10 instance-id %s$
+$router ipv6 ospf$
+$config terminal$ $router ipv6 ospf$ $default-metric %s$
+$config terminal$ $interface %s$ $no ipv6 ospf cost instance-id %s$
+$configure terminal$ $router ipv6 ospf$ $no area %s stub$
+$config terminal$ $router ipv6 ospf$ $redistribute static %s %s$
+$configure terminal$ $router ipv6 ospf$ $area %s stub no-summary$
+%d
+$config terminal$ $router ipv6 ospf$ $no redistribute static$
+$config terminal$ $interface %s$ $ipv6 ospf cost 10 instance-id %s$
+$config terminal$ $router ipv6 ospf$ $auto-cost reference-bandwidth %s$
+ZOspf3Area_%d
+$config terminal$ $router ipv6 ospf$ $redistribute rip %s %s$
+$configure terminal$ $router ipv6 ospf$ $no area %s stub no-summary$
+%u
+$config terminal$ $interface %s$ $ipv6 ospf dead-interval %s instance-id %s$
+$ipv6 unnumbered %s$
+$config terminal$ $interface %s$ $no ipv6 ospf priority instance-id %s$
+$config terminal$ $router ipv6 ospf$ $router-id %s$
+$interface %s$ $ipv6 router ospf area$ @instance-id@
+ZOspf3InstId_%d

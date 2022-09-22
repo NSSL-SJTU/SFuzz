@@ -1,0 +1,13 @@
+tcp
+udp
+%s-%s>%s:%s-%s,%s,%s
+All
+firewall restart.
+===%s===new_value:%s
+op=%d
+forward_port_list
+---->>>%s
+prase_webstr2virtualServer
+portList
+forward_port
+on

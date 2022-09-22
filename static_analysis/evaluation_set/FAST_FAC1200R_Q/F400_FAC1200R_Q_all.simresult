@@ -1,0 +1,1052 @@
+[
+  {
+    "offset": "0x80011f50", 
+    "funcName": "miniFsGetMaxSize", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x80013458", 
+    "funcName": "openModeChkDirect", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x80015ff4", 
+    "funcName": "miniFsReadFileDirect", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x8001d590", 
+    "funcName": "strncasecmp", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x8001f20c", 
+    "funcName": "jsonObjectObjectIsNull", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x8001f270", 
+    "funcName": "jsonObjectObjectGet", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x8001f430", 
+    "funcName": "jsonObjectGetString", 
+    "criticalIndex": "[0]"
+  }, 
+  {
+    "offset": "0x8001f4c8", 
+    "funcName": "json_object_get_decode", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x8001f5a4", 
+    "funcName": "jsonObjectAddstring", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x8001f6ac", 
+    "funcName": "jssonObjectObjectDelete", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x8001f6c4", 
+    "funcName": "jsonObjectObjectAdd", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x8001f800", 
+    "funcName": "jsonObjectToString", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x8001faec", 
+    "funcName": "jsonObjectFromString", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x8001fd64", 
+    "funcName": "jsonObjectNewObject", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x8002256c", 
+    "funcName": "log", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x80022ae0", 
+    "funcName": "mcbFree", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x80022d28", 
+    "funcName": "mcbAlign", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x8002594c", 
+    "funcName": "notifySecdataChanged", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x800262e8", 
+    "funcName": "modelEncodeSC", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x80026980", 
+    "funcName": "registerVerNotify", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x80026988", 
+    "funcName": "registerAction", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x80028b04", 
+    "funcName": "modelDecodeSC", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x80029054", 
+    "funcName": "modelWrite", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x80029834", 
+    "funcName": "modelRead", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x8002b3ac", 
+    "funcName": "json_object_get_decode_1", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x80032e70", 
+    "funcName": "wanRegister", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x800551d4", 
+    "funcName": "pppoeVnetUsrnamePasswordSet", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x802feb88", 
+    "funcName": "memcmp", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x80369400", 
+    "funcName": "snprintf", 
+    "criticalIndex": "[4, 2, 3, 5, 6, 7, 8]"
+  }, 
+  {
+    "offset": "0x803995cc", 
+    "funcName": "nd6_get_mac_by_ip", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x803bb1b8", 
+    "funcName": "recvfrom", 
+    "criticalIndex": "[2]"
+  }, 
+  {
+    "offset": "0x803dbe1c", 
+    "funcName": "memcmp_1", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x803dbe50", 
+    "funcName": "memcpy", 
+    "criticalIndex": "[2, 3]"
+  }, 
+  {
+    "offset": "0x803dbe80", 
+    "funcName": "memmove", 
+    "criticalIndex": "[2, 3]"
+  }, 
+  {
+    "offset": "0x803dbee0", 
+    "funcName": "memset", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x803dbf44", 
+    "funcName": "strchr", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x803dbf7c", 
+    "funcName": "strcmp", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x803dbfb4", 
+    "funcName": "strcpy", 
+    "criticalIndex": "[2]"
+  }, 
+  {
+    "offset": "0x803dc35c", 
+    "funcName": "strlen", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x803dc3b8", 
+    "funcName": "strncpy", 
+    "criticalIndex": "[2, 3]"
+  }, 
+  {
+    "offset": "0x803dc4c0", 
+    "funcName": "strstr", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x803e012c", 
+    "funcName": "sprintf", 
+    "criticalIndex": "[3, 2, 4, 5, 6, 7, 8]"
+  }, 
+  {
+    "offset": "0x803eabe8", 
+    "funcName": "bcopy", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x803f5e28", 
+    "funcName": "tickGet", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x803faba4", 
+    "funcName": "behavMangRun", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x803fbf18", 
+    "funcName": "pluginRegisterAction", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x803fc9e4", 
+    "funcName": "uninstallPluginReqHandle", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x803fcfd4", 
+    "funcName": "openPluginReqHandle", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x803ffae0", 
+    "funcName": "pluginInfoRegister", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x803ffb44", 
+    "funcName": "pluginProfileRegister", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x803ffb80", 
+    "funcName": "cloudPluginRegister", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x8040556c", 
+    "funcName": "cloudMsgGetFwCurrVerHandle", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x8040564c", 
+    "funcName": "cloudMsgGetWifiBasicHandle", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x80405e84", 
+    "funcName": "cloudMsgGetLanInfoHandle", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x80405fec", 
+    "funcName": "cloudMsgSetAliasHandle", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x80435118", 
+    "funcName": "httpSystemIsFactory", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x80437458", 
+    "funcName": "httpConfig", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x804377b4", 
+    "funcName": "httpFactoryFirmwareCheck", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x804379e4", 
+    "funcName": "httpUpgradePlugin", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x80438720", 
+    "funcName": "httpResetContext", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x804389f8", 
+    "funcName": "httpReadFile", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x80439330", 
+    "funcName": "httpVirtFileMatch", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x80439720", 
+    "funcName": "changePassword", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x8043a584", 
+    "funcName": "httpProcDataSrv", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x8043af0c", 
+    "funcName": "httpResetContext_1", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x8043b420", 
+    "funcName": "httpBeinCNA", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x8043b4f4", 
+    "funcName": "httpRemoveLastBoundary", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x8043b7ac", 
+    "funcName": "httpGetEnvInt", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x8043b7ec", 
+    "funcName": "httpMethodAdd", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x8043b9f4", 
+    "funcName": "recv_data", 
+    "criticalIndex": "[2]"
+  }, 
+  {
+    "offset": "0x8043ba8c", 
+    "funcName": "httpCodeHandle", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x8043bec8", 
+    "funcName": "httpCNAHandle", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x8043c068", 
+    "funcName": "httpKeyParserAdd", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x8043c2a4", 
+    "funcName": "httpGetHandle", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x80442568", 
+    "funcName": "send_frame_handle", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x80443088", 
+    "funcName": "init_sock", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x8044331c", 
+    "funcName": "devDiscoveyInit", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x804446f0", 
+    "funcName": "checksum", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x8044475c", 
+    "funcName": "parse_msg_element", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x8044496c", 
+    "funcName": "parse_advertisement_frame", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x80446020", 
+    "funcName": "ms_idle_handler", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x80446300", 
+    "funcName": "protocol_handler", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x80449bac", 
+    "funcName": "miniUPnPSSDPHandle", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x8044edd0", 
+    "funcName": "staMgtFindRuntimeEntryById", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x80452b30", 
+    "funcName": "httpDefAuthKey", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x80452b58", 
+    "funcName": "httpUnAuthHandle", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x80452c50", 
+    "funcName": "httpGenAuthKey", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x80452dec", 
+    "funcName": "httpChangeSession", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x80452e48", 
+    "funcName": "sessionMatch", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x80452fec", 
+    "funcName": "httpGenDictionary", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x804530c0", 
+    "funcName": "httpGenTmpAuthKey", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x804533d4", 
+    "funcName": "sessionMathIpv6", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x80453858", 
+    "funcName": "unAuthLogCleanIpv6", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x804539bc", 
+    "funcName": "unAuthLogClean", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x80453c58", 
+    "funcName": "unAuthLogOutPut", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x80453f54", 
+    "funcName": "authLoginSuccessPushInfoIpv6", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x804540ec", 
+    "funcName": "authLoginSuccessPushInfo", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x80454290", 
+    "funcName": "unAuthLogAddIpv6", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x8045452c", 
+    "funcName": "unAuthLogAdd", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x804547c8", 
+    "funcName": "httpDoAuthorize", 
+    "criticalIndex": "[-1]"
+  },
+  {
+    "offset": "0x8000b43c", 
+    "funcName": "thunk_EXT_FUN_a000b460", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x8000b504", 
+    "funcName": "thunk_EXT_FUN_a000b528", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x8000b5b0", 
+    "funcName": "thunk_EXT_FUN_a000b5d4", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x8000b678", 
+    "funcName": "thunk_EXT_FUN_a000b69c", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x8000b854", 
+    "funcName": "thunk_EXT_FUN_a000b878", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x8000b91c", 
+    "funcName": "thunk_EXT_FUN_a000b940", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x8000b9c8", 
+    "funcName": "thunk_EXT_FUN_a000b9ec", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x8000ba90", 
+    "funcName": "thunk_EXT_FUN_a000bab4", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x8000bb3c", 
+    "funcName": "thunk_EXT_FUN_a000bb60", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x8000bca8", 
+    "funcName": "thunk_EXT_FUN_a000bccc", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x80011f50", 
+    "funcName": "miniFsGetMaxSize", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x80013458", 
+    "funcName": "openModeChkDirect", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x80015ff4", 
+    "funcName": "miniFsReadFileDirect", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x8001d590", 
+    "funcName": "strncasecmp", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x8001f20c", 
+    "funcName": "jsonObjectObjectIsNull", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x8001f270", 
+    "funcName": "jsonObjectObjectGet", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x8001f430", 
+    "funcName": "jsonObjectGetString", 
+    "criticalIndex": "[0]"
+  }, 
+  {
+    "offset": "0x8001f4c8", 
+    "funcName": "json_object_get_decode", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x8001f5a4", 
+    "funcName": "jsonObjectAddstring", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x8001f6ac", 
+    "funcName": "jssonObjectObjectDelete", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x8001f6c4", 
+    "funcName": "jsonObjectObjectAdd", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x8001f800", 
+    "funcName": "jsonObjectToString", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x8001faec", 
+    "funcName": "jsonObjectFromString", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x8001fd64", 
+    "funcName": "jsonObjectNewObject", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x8002256c", 
+    "funcName": "log", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x80022ae0", 
+    "funcName": "mcbFree", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x80022d28", 
+    "funcName": "mcbAlign", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x8002594c", 
+    "funcName": "notifySecdataChanged", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x800262e8", 
+    "funcName": "modelEncodeSC", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x80026980", 
+    "funcName": "registerVerNotify", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x80026988", 
+    "funcName": "registerAction", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x80028b04", 
+    "funcName": "modelDecodeSC", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x80029054", 
+    "funcName": "modelWrite", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x80029834", 
+    "funcName": "modelRead", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x8002b3ac", 
+    "funcName": "json_object_get_decode_1", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x80032e70", 
+    "funcName": "wanRegister", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x800551d4", 
+    "funcName": "pppoeVnetUsrnamePasswordSet", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x802feb88", 
+    "funcName": "memcmp", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x80369400", 
+    "funcName": "snprintf", 
+    "criticalIndex": "[4, 2, 3, 5, 6, 7, 8]"
+  }, 
+  {
+    "offset": "0x803995cc", 
+    "funcName": "nd6_get_mac_by_ip", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x803bb1b8", 
+    "funcName": "recvfrom", 
+    "criticalIndex": "[2]"
+  }, 
+  {
+    "offset": "0x803dbe1c", 
+    "funcName": "memcmp_1", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x803dbe50", 
+    "funcName": "memcpy", 
+    "criticalIndex": "[2, 3]"
+  }, 
+  {
+    "offset": "0x803dbe80", 
+    "funcName": "memmove", 
+    "criticalIndex": "[2, 3]"
+  }, 
+  {
+    "offset": "0x803dbee0", 
+    "funcName": "memset", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x803dbf44", 
+    "funcName": "strchr", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x803dbf7c", 
+    "funcName": "strcmp", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x803dbfb4", 
+    "funcName": "strcpy", 
+    "criticalIndex": "[2]"
+  }, 
+  {
+    "offset": "0x803dc35c", 
+    "funcName": "strlen", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x803dc3b8", 
+    "funcName": "strncpy", 
+    "criticalIndex": "[2, 3]"
+  }, 
+  {
+    "offset": "0x803dc4c0", 
+    "funcName": "strstr", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x803e012c", 
+    "funcName": "sprintf", 
+    "criticalIndex": "[3, 2, 4, 5, 6, 7, 8]"
+  }, 
+  {
+    "offset": "0x803eabe8", 
+    "funcName": "bcopy", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x803f5e28", 
+    "funcName": "tickGet", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x803faba4", 
+    "funcName": "behavMangRun", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x803fbf18", 
+    "funcName": "pluginRegisterAction", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x803fc9e4", 
+    "funcName": "uninstallPluginReqHandle", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x803fcfd4", 
+    "funcName": "openPluginReqHandle", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x803ffae0", 
+    "funcName": "pluginInfoRegister", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x803ffb44", 
+    "funcName": "pluginProfileRegister", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x803ffb80", 
+    "funcName": "cloudPluginRegister", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x8040556c", 
+    "funcName": "cloudMsgGetFwCurrVerHandle", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x8040564c", 
+    "funcName": "cloudMsgGetWifiBasicHandle", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x80405e84", 
+    "funcName": "cloudMsgGetLanInfoHandle", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x80405fec", 
+    "funcName": "cloudMsgSetAliasHandle", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x80435118", 
+    "funcName": "httpSystemIsFactory", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x80437458", 
+    "funcName": "httpConfig", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x804377b4", 
+    "funcName": "httpFactoryFirmwareCheck", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x804379e4", 
+    "funcName": "httpUpgradePlugin", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x80438720", 
+    "funcName": "httpResetContext", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x804389f8", 
+    "funcName": "httpReadFile", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x80439330", 
+    "funcName": "httpVirtFileMatch", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x80439720", 
+    "funcName": "changePassword", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x8043a584", 
+    "funcName": "httpProcDataSrv", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x8043af0c", 
+    "funcName": "httpResetContext_1", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x8043b420", 
+    "funcName": "httpBeinCNA", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x8043b4f4", 
+    "funcName": "httpRemoveLastBoundary", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x8043b7ac", 
+    "funcName": "httpGetEnvInt", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x8043b7ec", 
+    "funcName": "httpMethodAdd", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x8043b9f4", 
+    "funcName": "recv_data", 
+    "criticalIndex": "[2]"
+  }, 
+  {
+    "offset": "0x8043ba8c", 
+    "funcName": "httpCodeHandle", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x8043bec8", 
+    "funcName": "httpCNAHandle", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x8043c068", 
+    "funcName": "httpKeyParserAdd", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x8043c2a4", 
+    "funcName": "httpGetHandle", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x80442568", 
+    "funcName": "send_frame_handle", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x80443088", 
+    "funcName": "init_sock", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x8044331c", 
+    "funcName": "devDiscoveyInit", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x804446f0", 
+    "funcName": "checksum", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x8044475c", 
+    "funcName": "parse_msg_element", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x8044496c", 
+    "funcName": "parse_advertisement_frame", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x80446020", 
+    "funcName": "ms_idle_handler", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x80446300", 
+    "funcName": "protocol_handler", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x80449bac", 
+    "funcName": "miniUPnPSSDPHandle", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x8044edd0", 
+    "funcName": "staMgtFindRuntimeEntryById", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x80452b30", 
+    "funcName": "httpDefAuthKey", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x80452b58", 
+    "funcName": "httpUnAuthHandle", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x80452c50", 
+    "funcName": "httpGenAuthKey", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x80452dec", 
+    "funcName": "httpChangeSession", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x80452e48", 
+    "funcName": "sessionMatch", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x80452fec", 
+    "funcName": "httpGenDictionary", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x804530c0", 
+    "funcName": "httpGenTmpAuthKey", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x804533d4", 
+    "funcName": "sessionMathIpv6", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x80453858", 
+    "funcName": "unAuthLogCleanIpv6", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x804539bc", 
+    "funcName": "unAuthLogClean", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x80453c58", 
+    "funcName": "unAuthLogOutPut", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x80453f54", 
+    "funcName": "authLoginSuccessPushInfoIpv6", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x804540ec", 
+    "funcName": "authLoginSuccessPushInfo", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x80454290", 
+    "funcName": "unAuthLogAddIpv6", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x8045452c", 
+    "funcName": "unAuthLogAdd", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x804547c8", 
+    "funcName": "httpDoAuthorize", 
+    "criticalIndex": "[-1]"
+  }
+]

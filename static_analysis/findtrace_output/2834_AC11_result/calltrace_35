@@ -1,0 +1,9 @@
+800c83f4:vuln->nvram_set
+800c83f4:vuln->strcpy
+800c83f4:vuln->sprintf_1
+800d89d4:FUN_800d85dc->strcpy
+8005ba14:nvram_get_sys_workmode_mayOf->strcpy
+800d89d4:FUN_800d85dc->strcpy
+8005ba14:nvram_get_sys_workmode_mayOf->strcpy
+800d89d4:FUN_800d85dc->strcpy
+8005ba14:nvram_get_sys_workmode_mayOf->strcpy

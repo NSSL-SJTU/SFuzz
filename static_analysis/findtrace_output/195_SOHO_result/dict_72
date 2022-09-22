@@ -1,0 +1,2 @@
+%s:%s
+CONNECT %s:80 HTTP/1.0Proxy-Connection: keep-aliveProxy-Authorization: Basic %s

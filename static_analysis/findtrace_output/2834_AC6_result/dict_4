@@ -1,0 +1,36 @@
+%[^:]:%[^-]-%[^:]:%s
+get_parentCtl_time wrong,return!
+getParentControlUrlFilterList2web: malloc failed
+deny
+parentCtl_client_list
+parentCtl_client_num
+false
+parentCtl_time
+forbid
+malloc error .
+parentCtl_urlFilter_mode
+parentCtl_date
+permit
+true
+parentCtl_urlFilter_list
+parentCtrlOnlineDate
+getParentControlUrlFilterList2web: malloc failed
+parentCtl_time
+parentCtrlURL
+parentCtrlOnlineTime
+parentCtrlURLFilterMode
+parentCtl_urlFilter_mode
+Fuck
+parentCtl_date
+parentCtl_urlFilter_list
+parentCtrlOnlineDate
+parentCtl_time
+parentCtrlOnlineTime
+op=%d
+11111111
+parentCtrlURLFilterMode
+parentCtl_urlFilter_mode
+disable
+parentCtl_date
+parentCtl_urlFilter_list
+urlList

@@ -1,0 +1,9 @@
+cloudClient.c
+/network/wan_status/wan_status
+CloudClient: WAN other status changed
+CloudClient: wanIP link down, and from %08X become %08X 
+CE: %d wanIP changed.
+CloudClient: wanIP changed, from %08X become %08X 
+CloudClient: Enter cldClt WanNotifyReconnect 
+reconnect_time
+%d

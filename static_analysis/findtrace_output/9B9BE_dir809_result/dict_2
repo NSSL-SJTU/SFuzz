@@ -1,0 +1,22 @@
+bandwidth_downlink
+addQos
+manualDownlinkSpeed
+wfq
+manualUplinkSpeed
+bandwidth
+addressType
+deleteAll
+qosType
+enabled
+ipStart
+deleteSel
+automaticUplinkSpeed
+portStart
+automaticDownlinkSpeed
+portEnd
+Setting saved.
+qos_weight
+select%d
+submit-url
+not foud /
+ON

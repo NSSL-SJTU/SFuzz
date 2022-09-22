@@ -1,0 +1,27 @@
+[
+    {
+        "funcName": "checksum",
+        "funcSign": "uint checksum(ushort *param_1,int param_2)",
+        "criticalIndex": "[1, 2, 3, 4, 5, 6, 7, 8]",
+        "offset": "0x8f4ffc",
+        "funcType": "Checksum"
+    },
+    {
+        "funcName": "strcpy",
+        "funcSign": "char * strcpy(char * dest, char  * src)",
+        "criticalIndex": "[2]",
+        "offset": "0x1263e4",
+        "funcType": "DataSink"
+    },
+    {
+        "funcName": "strncmp",
+        "funcSign": "int strncmp(char * s1, char * s2, unsigned int n)",
+        "criticalIndex": "[-1]",
+        "offset": "0x1265ec"
+    },
+    {
+        "funcName": "_strcpy",
+        "funcSign": "char * _strcpy(char * dest, char  * src)",
+        "offset": "0x9b640c"
+    }
+]

@@ -1,0 +1,57 @@
+{
+    "all_trace_sum_num": 7, 
+    "all_source_num": 2, 
+    "source_xrefs_count": 13, 
+    "source_pcode_num_1st": 2, 
+    "sink_xrefs_count": 1739, 
+    "source_convey_trace_num": 0, 
+    "convey_sink_trace_num": 0, 
+    "source_pcode_trace_num_1st": 2, 
+    "source_pcode_num_2st_convey_sink": 0, 
+    "call_tree_info": [
+        {
+            "deep": 2, 
+            "affect_call": 4, 
+            "affect_cbranch": 6, 
+            "patched_call": 8, 
+            "all_cbranch": 10, 
+            "patched_cbranch": 10, 
+            "funcs": [
+                "FUN_80094070", 
+                "FUN_8009411c", 
+                "recvfrom", 
+                "FUN_80094070", 
+                "FUN_800c10c0", 
+                "FUN_800c1130", 
+                "FUN_800c9de4", 
+                "memcpy", 
+                "FUN_800cd8d4", 
+                "FUN_800cd8d4"
+            ], 
+            "all_call": 10, 
+            "ins_count": 193
+        }, 
+        {
+            "deep": 2, 
+            "affect_call": 4, 
+            "affect_cbranch": 11, 
+            "patched_call": 2, 
+            "all_cbranch": 11, 
+            "patched_cbranch": 11, 
+            "funcs": [
+                "FUN_80094070", 
+                "memcpy", 
+                "memcpy", 
+                "FUN_80094070", 
+                "recvfrom"
+            ], 
+            "all_call": 5, 
+            "ins_count": 163
+        }
+    ], 
+    "cost_time": 2.4639999866485596, 
+    "all_func_num": 3126, 
+    "source_pcode_trace_num_2st_convey_sink": 0, 
+    "source_sink_trace_num": 7, 
+    "call_tree_num": 2
+}

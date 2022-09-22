@@ -1,0 +1,2 @@
+8015c324:FUN_8015c2bc->protocol_handler->ms_idle_handler->parse_advertisement_frame->copy_msg_element->memcpy
+8015c324:FUN_8015c2bc->protocol_handler->ms_idle_handler->parse_discovery_frame->copy_msg_element->memcpy

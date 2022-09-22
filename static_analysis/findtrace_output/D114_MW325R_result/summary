@@ -1,0 +1,4 @@
+Summary: find 2 call_traces
+((80092ed4, '0x80092ed4L'), '0x80092ed4L')
+((8009305e, '0x8009305eL'), '0x8009305eL')
+Analysis time: 2.927000(0m 2.927000s)

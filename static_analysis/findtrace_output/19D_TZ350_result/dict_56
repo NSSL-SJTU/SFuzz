@@ -1,0 +1,7 @@
+%s %d.%d.%d.%d
+IKEv2 InitSPI: 0x%02x%02x%02x%02x%02x%02x%02x%02x; IKEv2 RespSPI: 0x%02x%02x%02x%02x%02x%02x%02x%02x
+VPN Policy: %s; %d, expected on floated port %d
+invalid zone flags %0x
+VPN Policy: %s
+Received message ID: %d; Expected: %d; IKEv2 InitSPI: 0x%02x%02x%02x%02x%02x%02x%02x%02x; IKEv2 RespSPI: 0x%02x%02x%02x%02x%02x%02x%02x%02x
+client

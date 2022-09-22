@@ -1,0 +1,13 @@
+@-M
+RFC XXXX
+0@-DM
+0@-M
+debugfusion/net/ike/fns_ikenet.c, %d: 
+IKE receive daemon exiting with error %s
+Key Pad for IKEv2
+No memory for IKE receive buffer
+IKE Receive daemon got error %s from stack
+-M:
+IKE receive daemon got ENOBUFS
+p@-
+-M0:

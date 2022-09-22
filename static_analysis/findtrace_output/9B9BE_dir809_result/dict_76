@@ -1,0 +1,19 @@
+./index.asp
+config.dyndns_user
+/Tools/Dynamic_DNS.asp
+config.dyndns_server
+config.dyndns_enabled
+config.dyndns_timeout
+/var/ddns_user_type
+config.dyndns_host
+method error!
+config.dyndns_cameo_name
+formDdns:can't open /var/ddns_user_type
+WDB8WvbXdH
+submit_psw
+encrypt
+Setting saved.
+decrypt
+submit-url
+HNAP_AUTH
+%d

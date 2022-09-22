@@ -1,0 +1,5 @@
+80454e7c:FUN_80454cdc->FUN_804541c0->FUN_80456878->tsaGotAgentInfoResp->wrapper_scpy->strncpy_1to2_fast
+80454e7c:FUN_80454cdc->FUN_804541c0->FUN_80456878->FUN_80455bf0->FUN_8072a618->wrapper_scpy->strncpy_1to2_fast
+80454e7c:FUN_80454cdc->FUN_804541c0->FUN_80456878->strncpy_zero
+80454e7c:FUN_80454cdc->FUN_804541c0->FUN_80456878->tsaGotAgentInfoResp->malloc->mz_alloc->sprintf
+80454e7c:FUN_80454cdc->FUN_804541c0->FUN_80456878->FUN_80451cb0->setupTSAMessage->malloc->mz_alloc->sprintf

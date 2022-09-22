@@ -1,0 +1,11 @@
+entry_name_%d
+enabled_%d
+trigPortRng_%d
+inputPortRng_%d
+settingsChanged
+sched_name_%d
+inputPortPtc_%d
+Never
+trigPortPtc_%d
+Setting saved.
+submit-url

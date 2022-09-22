@@ -1,0 +1,12 @@
+))
+Attrs:
+sub
+one
+<domain-root>
+%s
+Base:<domain-root>Scope:sub
+Scope:
+<root>
+)(
+Base:
+base

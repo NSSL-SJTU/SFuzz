@@ -1,0 +1,852 @@
+[
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x80008908",
+    "funcName": "init_thread"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x800089c0",
+    "funcName": "create_thread"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x80008a60",
+    "funcName": "shell_create_thread"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x80008fbc",
+    "funcName": "clear_thread"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x80009750",
+    "funcName": "resetting"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x800097dc",
+    "funcName": "RunSystemCmd"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x8000a340",
+    "funcName": "call_main"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x8000bfe0",
+    "funcName": "init"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x80010d80",
+    "funcName": "only_return1"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x80010d88",
+    "funcName": "args_init"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x80010fcc",
+    "funcName": "main"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x80011128",
+    "funcName": "sys_module_msg_2_TLV"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x80011508",
+    "funcName": "System_start"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x80011694",
+    "funcName": "init_before_module_init_services"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x800116e8",
+    "funcName": "init_after_module_init_services"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x80011918",
+    "funcName": "tapf_board_reboot"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x80011aa8",
+    "funcName": "sys_do_timer_add"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x80012f8c",
+    "funcName": "Thread_Monitor"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x80013000",
+    "funcName": "msg_init"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x800130b0",
+    "funcName": "msg_rcv_msg_2_mbox"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x800131ec",
+    "funcName": "msg_send_msg_2_mbox"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x8001345c",
+    "funcName": "msg_send"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x80014010",
+    "funcName": "rc_find_module_index"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x8001443c",
+    "funcName": "rc_register_module_msg_ops"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x80014558",
+    "funcName": "rc_register_module_msg_opses"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x8001464c",
+    "funcName": "moudle_init_0"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x80017cb0",
+    "funcName": "tpi_dhcp_server_start"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x80017d54",
+    "funcName": "tpi_dhcp_server_stop"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x80017d9c",
+    "funcName": "tpi_dhcp_server_restart"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x8001822c",
+    "funcName": "tpi_dhcp_server_action"
+  },
+  {
+    "criticalIndex": "[1, 2]",
+    "offset": "0x800199d8",
+    "funcName": "sscanf"
+  },
+  {
+    "criticalIndex": "[1, 2]",
+    "offset": "0x80019a20",
+    "funcName": "sscanf_1"
+  },
+  {
+    "criticalIndex": "[1, 2]",
+    "offset": "0x80019a68",
+    "funcName": "sscanf_2"
+  },
+  {
+    "criticalIndex": "[1, 2]",
+    "offset": "0x80019ab0",
+    "funcName": "sscanf_3"
+  },
+  {
+    "criticalIndex": "[1, 2]",
+    "offset": "0x80019af8",
+    "funcName": "sscanf_4"
+  },
+  {
+    "criticalIndex": "[1, 2]",
+    "offset": "0x80019b40",
+    "funcName": "sscanf_5"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x800209dc",
+    "funcName": "tpi_tc_action"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x80020cdc",
+    "funcName": "tpi_create_wps_thread"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x80020dd8",
+    "funcName": "tpi_wps_iw_start"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x80020ed4",
+    "funcName": "tpi_wps_start"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x80020fd4",
+    "funcName": "tpi_wps_action"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x80021254",
+    "funcName": "tpi_ddns_start"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x800212d4",
+    "funcName": "tpi_ddns_stop"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x8002131c",
+    "funcName": "tpi_ddns_restart"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x800213a0",
+    "funcName": "tpi_ddns_action"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x80023714",
+    "funcName": "api_dhcp_server_handle"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x80023e8c",
+    "funcName": "api_tc_handle"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x80023ed4",
+    "funcName": "rc_wps"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x80023f10",
+    "funcName": "api_wps_handle"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x80023fc0",
+    "funcName": "rc_ddns"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x80023ffc",
+    "funcName": "api_ddns_handle"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x80024080",
+    "funcName": "api_ucloud_handle"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x80038038",
+    "funcName": "cmd_restart"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x80038078",
+    "funcName": "nvram_cmd"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x80038094",
+    "funcName": "show_arp_tables"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x800380dc",
+    "funcName": "tenda_arp"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x800385b8",
+    "funcName": "cmd_ping"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x800385d8",
+    "funcName": "cmd_fw"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x8003b300",
+    "funcName": "cmd_cat"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x8003c2b4",
+    "funcName": "cmd_router_show"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x8003c5f4",
+    "funcName": "rtadvd"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x8003c960",
+    "funcName": "dhcp6s"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x8003cec0",
+    "funcName": "dhcp6s_0"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x8003d6a8",
+    "funcName": "ping6"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x8003f384",
+    "funcName": "getaddrinfo"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x80041238",
+    "funcName": "nvram_strstr"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x80041374",
+    "funcName": "mtd_sync_block"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x8004153c",
+    "funcName": "mtd_envram_get"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x80041c48",
+    "funcName": "nvram_calc_checksum"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x80042158",
+    "funcName": "nvram_get"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x80042260",
+    "funcName": "nvram_set"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x800426c8",
+    "funcName": "mtd_envram_set"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x800428e8",
+    "funcName": "envram_to_nvram"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x80042b7c",
+    "funcName": "nvram_init"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x80042d10",
+    "funcName": "nvram_check"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x80048028",
+    "funcName": "domainhk"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x8004a5c4",
+    "funcName": "tpi_tc_start"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x8004a97c",
+    "funcName": "tpi_tc_stop"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x8005bd04",
+    "funcName": "wscd_main"
+  },
+  {
+    "criticalIndex": "[3]",
+    "offset": "0x800635f8",
+    "funcName": "memmove"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x800b2ca8",
+    "funcName": "malloc"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x800b2ebc",
+    "funcName": "bfreeSafe"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x800b2ed4",
+    "funcName": "bstrdup"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x800b3438",
+    "funcName": "websDefaultHandler"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x800b5f10",
+    "funcName": "websFormHandler"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x800b60c8",
+    "funcName": "hAlloc"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x800b6274",
+    "funcName": "hAllocEntry"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x800b6540",
+    "funcName": "websUrlHandlerDefine"
+  },
+  {
+    "criticalIndex": "[2, 3]",
+    "offset": "0x800b6bc0",
+    "funcName": "dsnprintf"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x800b7148",
+    "funcName": "fmtAlloc"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x800b7174",
+    "funcName": "fmtValloc"
+  },
+  {
+    "criticalIndex": "[3]",
+    "offset": "0x800b7194",
+    "funcName": "gstrncpy"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x800b7278",
+    "funcName": "ringqOpen"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x800b7c58",
+    "funcName": "socketAlloc"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x800b818c",
+    "funcName": "socketCreateHandler"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x800b8edc",
+    "funcName": "socketOpenConnection"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x800b95c4",
+    "funcName": "symOpen"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x800b9894",
+    "funcName": "symEnter"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x800b9b44",
+    "funcName": "trace"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x800b9c54",
+    "funcName": "stritoa"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x800b9d60",
+    "funcName": "websUrlParse"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x800ba434",
+    "funcName": "websOpenListen"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x800badfc",
+    "funcName": "websSetVar"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x800bae6c",
+    "funcName": "websParseRequest"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x800bb1ec",
+    "funcName": "websGetVar"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x800bb274",
+    "funcName": "page_statue"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x800bb33c",
+    "funcName": "websWrite"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x800bb5fc",
+    "funcName": "websSetEnv"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x800bb898",
+    "funcName": "websAlloc"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x800bb950",
+    "funcName": "websAccept"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x800bbe00",
+    "funcName": "webstimeout"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x800bc080",
+    "funcName": "websValid"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x800bc2f0",
+    "funcName": "websResponse"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x800bc4c4",
+    "funcName": "websRedirect"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x800bc5a8",
+    "funcName": "websError"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x800bc94c",
+    "funcName": "websReadEvent"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x800bd204",
+    "funcName": "websSocketEvent"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x800bd2c0",
+    "funcName": "gstricmp"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x800bd348",
+    "funcName": "emfSchedCallback"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x800bea9c",
+    "funcName": "websCgiHandler"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x800c0c4c",
+    "funcName": "wifiGuest"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x800c2298",
+    "funcName": "loginAuth"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x800c3560",
+    "funcName": "internetStatus"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x800c58f8",
+    "funcName": "setWAN"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x800c75a4",
+    "funcName": "Packt_WebGetsVar"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x800d55d4",
+    "funcName": "malloc_memset_40"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x800d5960",
+    "funcName": "malloc_cpy"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x800d6c80",
+    "funcName": "create_size"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x800d6cec",
+    "funcName": "malloc_40"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x800d7e98",
+    "funcName": "vuln_unconfirm"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x800dfca8",
+    "funcName": "APP_GET_DECODE_LOGIN_PWD"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x802193bc",
+    "funcName": "iw_init"
+  },
+  {
+    "criticalIndex": "[2, 3, 4, 5, 6, 7, 8]",
+    "offset": "0x80225ec4",
+    "funcName": "sprintf"
+  },
+  {
+    "criticalIndex": "[3, 2, 4, 5, 6, 7, 8]",
+    "offset": "0x80225f00",
+    "funcName": "sprintf_0"
+  },
+  {
+    "criticalIndex": "[2, 3]",
+    "offset": "0x80225f4c",
+    "funcName": "snprintf"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x80226384",
+    "funcName": "memncpy"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x8022642c",
+    "funcName": "memset"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x80229c60",
+    "funcName": "malloc_0"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x8022c248",
+    "funcName": "strtol"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x8022c44c",
+    "funcName": "strtol_1"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x8022c938",
+    "funcName": "memcmp"
+  },
+  {
+    "criticalIndex": "[3]",
+    "offset": "0x8022c96c",
+    "funcName": "memmove_1"
+  },
+  {
+    "criticalIndex": "[2]",
+    "offset": "0x8022c9d8",
+    "funcName": "strcat"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x8022ca10",
+    "funcName": "gstrchr"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x8022ca44",
+    "funcName": "gstrcmp_0"
+  },
+  {
+    "criticalIndex": "[2]",
+    "offset": "0x8022ca74",
+    "funcName": "strcpy"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x8022cacc",
+    "funcName": "str_len()"
+  },
+  {
+    "criticalIndex": "[3]",
+    "offset": "0x8022caec",
+    "funcName": "strncat"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x8022cb34",
+    "funcName": "strncmp"
+  },
+  {
+    "criticalIndex": "[3]",
+    "offset": "0x8022cb88",
+    "funcName": "strncpy"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x8022cd18",
+    "funcName": "gstrtok"
+  },
+  {
+    "criticalIndex": "[3, 2, 4, 5, 6, 7, 8]",
+    "offset": "0x8022d528",
+    "funcName": "sprintf_2"
+  },
+  {
+    "criticalIndex": "[3, 2, 4, 5, 6, 7, 8]",
+    "offset": "0x8022d54c",
+    "funcName": "sprintf_1"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x8022fd20",
+    "funcName": "http_success_log"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x80294568",
+    "funcName": "gstrcmp"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x803f11c4",
+    "funcName": "j_a2gACck"
+  },
+  {
+    "funcName": "nvram_unset",
+    "offset": "0x800422e4",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "lower2upper",
+    "offset": "0x800c2e18",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "cgi_nat_ipv6_enable_set",
+    "offset": "0x800c4924",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "cgi_nat_ipv6_accessParam_set",
+    "offset": "0x800c4a74",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "Packt_websGetVar",
+    "offset": "0x800c75a4",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "cgi_lib_set_rub_net_add_blacklist",
+    "offset": "0x800cf284",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "cgi_lib_set_rub_net_delete_blacklist",
+    "offset": "0x800cf538",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "cgi_lib_set_rub_net_add_to_trustlist",
+    "offset": "0x800cf7dc",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "cgi_lib_set_rub_net_delete_from_trustlist",
+    "offset": "0x800cf938",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "cgi_lib_set_wifiRelay_",
+    "offset": "0x800d13f4",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "app_set_wifi_guest_info",
+    "offset": "0x800e1534",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "printf",
+    "offset": "0x80225ec4",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "maylog",
+    "offset": "0x8022d6f4",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "funcName": "AliasHandleSip",
+    "offset": "0x802ae694",
+    "criticalIndex": "[-1]"
+  }
+]

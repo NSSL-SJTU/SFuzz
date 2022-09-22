@@ -1,0 +1,27 @@
+wan_pptp_use_dynamic_carrier_radio
+pptpMtuSize
+pptpServerDomainName
+pptpPassword
+encrypt
+pptpGetServByDomainName
+pptpServerIpAddr
+handle_wantcpip_pptp
+ERROR: Get password private KEY failed.
+pptpCompress
+pptp_reconnect_mode_radio
+pptpUserName
+false
+pptpDefGw
+pptpGetServByIp
+pptpConnect
+method error!
+pptpDisconnect
+%s %d
+WDB8WvbXdH
+pptpSecurity
+true
+pptpIdleTime
+pptpGetServMode
+pptpSubnetMask
+pptpIpAddr
+decrypt

@@ -1,0 +1,29 @@
+MFG read hardware id des
+MFG write device id
+mac
+wlan_access
+send bytes %d, error.
+wioctl
+MFG write hardware id des
+MFG get product id
+[wlanApp] recv sync phymode event!
+[wlanApp] recv sync bandwidth event!
+MFG memory allocation failure
+%.2X
+%d
+wlan_new_sta
+MFG read UID
+MFG read hardware id
+devno
+MFG no RSA info
+/device_info/info/info
+[WLAN_EVENT]new sta %s connected
+MFG write hardware id
+MFG write RSA
+/conf/flash_sign_pk.pem
+unit
+iwpriv
+MFG check product id
+MFG read device id
+MFG read firmware id
+MFG model read failure

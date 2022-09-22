@@ -1,0 +1,2 @@
+804d4fd0:FUN_804d4330->strcpy
+804d4fd0:FUN_804d4330->malloc->mz_alloc->sprintf

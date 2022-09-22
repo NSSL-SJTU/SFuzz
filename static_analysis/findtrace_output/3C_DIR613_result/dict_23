@@ -1,0 +1,6 @@
+/dev/net/dhcpd
+%s/%s
+%x:%x:%x:%x:%x:%x
+dhcp_static
+%c%c%c%c%c%c
+%s%d

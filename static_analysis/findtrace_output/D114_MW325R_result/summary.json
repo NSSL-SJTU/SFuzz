@@ -1,0 +1,59 @@
+{
+    "all_trace_sum_num": 9, 
+    "all_source_num": 2, 
+    "source_xrefs_count": 13, 
+    "source_pcode_num_1st": 2, 
+    "sink_xrefs_count": 1578, 
+    "source_convey_trace_num": 0, 
+    "convey_sink_trace_num": 0, 
+    "source_pcode_trace_num_1st": 2, 
+    "source_pcode_num_2st_convey_sink": 0, 
+    "call_tree_info": [
+        {
+            "deep": 3, 
+            "affect_call": 5, 
+            "affect_cbranch": 6, 
+            "patched_call": 8, 
+            "all_cbranch": 10, 
+            "patched_cbranch": 10, 
+            "funcs": [
+                "recvfrom", 
+                "FUN_800bfe6c", 
+                "FUN_800bfedc", 
+                "bcopy", 
+                "FUN_80092d98", 
+                "FUN_800c8b40", 
+                "FUN_800cc67c", 
+                "FUN_800cc67c", 
+                "FUN_80092cec", 
+                "FUN_80092cec", 
+                "FUN_800c8b8c"
+            ], 
+            "all_call": 11, 
+            "ins_count": 205
+        }, 
+        {
+            "deep": 3, 
+            "affect_call": 5, 
+            "affect_cbranch": 11, 
+            "patched_call": 2, 
+            "all_cbranch": 11, 
+            "patched_cbranch": 11, 
+            "funcs": [
+                "FUN_80092cec", 
+                "FUN_800c8b40", 
+                "FUN_800c8b40", 
+                "bcopy", 
+                "recvfrom", 
+                "FUN_80092cec"
+            ], 
+            "all_call": 6, 
+            "ins_count": 175
+        }
+    ], 
+    "cost_time": 2.927000045776367, 
+    "all_func_num": 3123, 
+    "source_pcode_trace_num_2st_convey_sink": 0, 
+    "source_sink_trace_num": 9, 
+    "call_tree_num": 2
+}

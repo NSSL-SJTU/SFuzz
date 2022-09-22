@@ -1,0 +1,8 @@
+devDiscover: parse_advertisement_frame from %08x:%u
+devDiscover: node buf full!
+main.c
+devDiscover: send_advertisement_frame to %08x:%u
+protocol.c
+devDiscover: parse_advertisement_frame from %02X-%02X-%02X-%02X-%02X-%02X
+devDiscover: error, ret = %d
+devDiscover: parse_discovery_frame from %08x:%u

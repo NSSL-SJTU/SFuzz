@@ -1,0 +1,12 @@
+lan%d_ifname
+wan%d_
+wan%d_primary
+igd: read config error!
+igd_port
+router_disable
+ifname
+igd_adv_time
+lan_ifname
+proto
+pppoe
+disabled

@@ -1,0 +1,27 @@
+band2G5GSelect = %d
+mode%d
+wps_clear_configure_by_reg%d
+operrates%d
+Band2G5GSupport
+txRate%d
+wlan%d
+band%d
+repeaterSSID%d
+type%d
+lan_ip
+ssid%d
+main_wireless
+%c
+ON
+%d
+wlanMacClone%d
+chan%d
+channelbound%d
+disableWPS%d
+wlan%d-vxd0
+basicrates%d
+wlanwmm%d
+repeaterEnabled%d
+controlsideband%d
+wlanDisabled%d
+hiddenSSID%d

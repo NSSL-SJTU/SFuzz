@@ -1,0 +1,4 @@
+ping_ipaddr
+Can't reach %s. Cable is disconnected?
+ping_test
+64 bytes from %s: icmp_seq=0 time=%llu ms

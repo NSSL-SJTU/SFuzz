@@ -1,0 +1,6 @@
+	 %s(%d). [dal] unrecognized event %d
+wlan_event_sta_associate
+	 %s(%d). [dal] dev-%d, vap-%d, macaddr [%02x:%02x:%02x:%02x:%02x:%02x], BH:bssid: %02x:%02x:%02x:%02x:%02x:%02x, can not update cli info, ignore
+	 %s(%d). [dal] Recv mesh event failed
+mesh_event_rx
+meshEventHandle

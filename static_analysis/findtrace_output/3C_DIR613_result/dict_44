@@ -1,0 +1,12 @@
+pppoe_mtu
+pppoe_mru
+pppoe_demand
+pppoe_keepalive
+wan%d_
+pppoe_username
+pppoe_idletime
+pppoe_passwd
+ifname
+wanXXXXXXXXXX_
+pppoe_service
+pppoe_ac

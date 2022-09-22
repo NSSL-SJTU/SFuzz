@@ -1,0 +1,47 @@
+DNS Message too short
+A-M
+E-M
+No cache space: Delivering non-cached result for %##s
+Error %ld for refresh of service %##s
+ERROR: DNSDigest_SignMessage - mDNSPlatformUTC returned bad time -1
+sendRecordRegistration: Error formatting message
+hndlServiceUpdateReply called for service %##s in unexpected state %d with error %ld.  Unlinking.
+ERROR: hndlTruncatedAnswer - memallocate failed
+CacheRecordAdd: %##s (%s) has %d answers; shedding records to resist DOS attack
+Registration of record %##s type %d failed with error %ld
+PacketRRMatchesSignature ERROR: pktrr is NULL
+NoCacheAnswer ERROR m->CurrentQuestion already set
+Update record failed for %##s (err %d)
+Re-trying update of record %##s without lease option
+CacheRecordAdd ERROR m->CurrentQuestion already set
+Cancelling deferred deregistration record %##s type %d due to registration error %ld
+GetCacheGroup: Failed to allocate name storage for %##s
+@-@`p
+hndlTruncatedAnswer: TCP DNS response had TC bit set: ignoring
+Re-trying update of service %##s without lease option
+GetCacheGroup: Already have CacheGroup for %##s
+ERROR: SendServiceDeregistration - putZone
+SendServiceRegistration - Error formatting message
+ERROR: startGetZoneData - umalloc failed
+CacheRecordAdd: %##s (%s) got immediate answer burst; restarting exponential backoff sequence
+Error %ld for registration of service %##s
+rr->resrec.rdata != &rr->rdatastorage but length <= InlineCacheRDSize %##s
+Error %ld for deregistration of service %##s
+ERROR: Deregistration of record %##s type %d failed with error %ld
+Error: StartNATPortMap - NAT info already initialized!
+StartNATPortMap: could not determine transport protocol of service %##s
+hndlServiceUpdateReply: error updating TXT record for service %##s
+mDNSCoreReceiveResponse ERROR m->CurrentRecord already set
+mDNSCoreReceive ERROR m is NULL
+_udp
+ERROR: DNSDigest_SignMessage - could not put TSIG
+hndlTruncatedAnswer: connection failed
+GetCacheGroup: Not finding CacheGroup for %##s
+SendServiceRegistration - NS not set!
+Correcting TTL from %4d to %4d for %s
+hmac-md5sig-algregint
+Ignoring Query from %#-15a:%-5d to %#-15a:%-5d on 0x%p with %2d Question%s %2d Answer%s %2d Authorit%s %2d Additional%s (Multicast, but no InterfaceID)
+[TaskProcessPackets]Recv fail from %d port, %s (%d)!!!
+mDNSSendDNSMessage: error sending message over tcp
+Unknown DNS packet type %02X%02X from %#-15a:%-5d to %#-15a:%-5d on %p (ignored)
+GetCacheGroup: Failed to allocate memory for %##s

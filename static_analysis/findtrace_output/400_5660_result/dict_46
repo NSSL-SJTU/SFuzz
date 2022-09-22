@@ -1,0 +1,53 @@
+-->%s|%s|%d - %s
+start MFG Test
+wrong channel: %d
+MFG set paprd %d
+MFG write device id
+wlan_access
+MFG set chan %d
+0' '!
+/wireless/wifi-web/wlan_host_2g
+stop MFG Test
+MFG set chainmask %d
+STA %02X:%02X:%02X:%02X:%02X:%02X becoms %s
+MFG set txchainmask %d
+/\~$
+devno
+'
+disconnect of %02X:%02X:%02X:%02X:%02X:%02X on %s
+/device_info/info/info
+jsonUtil.c
+[WLAN_EVENT]new sta %s connected
+save cal data
+set channel(%d) same as rootAp
+unit
+iwpriv
+MFG read device id
+MFG check product id
+tx pkt, len %d
+JSON: json_object_from_file: error reading file %s: %s.
+MFG model read failure
+MFG read hardware id des
+/system/sys_log
+probe req from %02X:%02X:%02X:%02X:%02X:%02X [%d] on %s
+/wireless/wifi-web/wlan_host_5g
+mac
+apps_init.c
+MFG set turbo mode %d
+MFG write hardware id des
+MFG get product id
+MFG set freq freqErr 0x%x
+JSON: json_object_from_file: printbuf_new failed.
+try reseting WLAN asynchronously failed, now reset synchronously
+%.2X
+%d
+wlan_new_sta
+MFG read UID
+MFG read hardware id
+MFG set rxchainMask %d
+MFG write hardware id
+MFG write RSA
+/conf/flash_sign_pk.pem
+MFG set gain cal %d(0x%x)
+MFG read firmware id
+assoc of %02X:%02X:%02X:%02X:%02X:%02X on %s

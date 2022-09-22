@@ -1,0 +1,100 @@
+[
+    {
+        "funcName": "memmove",
+        "funcSign": "void * memmove(void * dst, void * src, unsigned int len)",
+        "criticalIndex": "[2, 3]",
+        "offset": "0x40081c24",
+        "funcType": "DataSink"
+    },
+    {
+        "funcName": "memmove__1",
+        "funcSign": "void * memmove__1(void * dst, void * src, unsigned int len)",
+        "criticalIndex": "[2, 3]",
+        "offset": "0x401b3180",
+        "funcType": "DataSink"
+    },
+    {
+        "funcName": "memmove__2",
+        "funcSign": "void * memmove__2(void * dst, void * src, unsigned int len)",
+        "criticalIndex": "[2, 3]",
+        "offset": "0x4024b460",
+        "funcType": "DataSink"
+    },
+    {
+        "funcName": "strcat",
+        "funcSign": "char * strcat(char * s1, char * s2)",
+        "criticalIndex": "[2]",
+        "offset": "0x400822cc",
+        "funcType": "DataSink"
+    },
+    {
+        "funcName": "strtol",
+        "funcSign": "long strtol(char * str, char ** endptr, int base)",
+        "criticalIndex": "[-1]",
+        "offset": "0x400822fc"
+    },
+    {
+        "funcName": "strtol__1",
+        "funcSign": "long strtol__1(char * str, char ** endptr, int base)",
+        "criticalIndex": "[-1]",
+        "offset": "0x400823bc"
+    },
+    {
+        "funcName": "sprintf",
+        "funcSign": "int sprintf(char * str, char * format, ...)",
+        "criticalIndex": "[2, 3, 4, 5, 6, 7, 8]",
+        "offset": "0x400805c0",
+        "funcType": "DataSink"
+    },
+    {
+        "funcName": "sprintf__1",
+        "funcSign": "int sprintf__1(char * str, char * format, ...)",
+        "criticalIndex": "[2, 3, 4, 5, 6, 7, 8]",
+        "offset": "0x40081c78",
+        "funcType": "DataSink"
+    },
+    {
+        "funcName": "atoi",
+        "funcSign": "int * atoi(char * str)",
+        "criticalIndex": "[1]",
+        "offset": "0x40080688"
+    },
+    {
+        "funcName": "atoi__1",
+        "funcSign": "int * atoi__1(char * str)",
+        "criticalIndex": "[1]",
+        "offset": "0x401ed120"
+    },
+    {
+        "funcName": "strcmp",
+        "funcSign": "int strcmp(char * s1, char * s2)",
+        "criticalIndex": "[-1]",
+        "offset": "0x4008030c"
+    },
+    {
+        "funcName": "strncpy",
+        "funcSign": "char * strncpy(char * dst, char * src, unsigned int len)",
+        "criticalIndex": "[2, 3]",
+        "offset": "0x400804f8",
+        "funcType": "DataSink"
+    },
+    {
+        "funcName": "strcpy",
+        "funcSign": "char * strcpy(char * dest, char  * src)",
+        "criticalIndex": "[2]",
+        "offset": "0x400803a8",
+        "funcType": "DataSink"
+    },
+    {
+        "funcName": "memcmp",
+        "funcSign": "int memcmp(void * s1, void * s2, unsigned int n)",
+        "criticalIndex": "[-1]",
+        "offset": "0x400806c8"
+    },
+    {
+        "funcName": "strncmp",
+        "funcSign": "int strncmp(char * s1, char * s2, unsigned int n)",
+        "criticalIndex": "[-1]",
+        "offset": "0x4008047c"
+    }
+]

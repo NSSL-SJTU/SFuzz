@@ -1,0 +1,5 @@
+certName_%d
+caCertHashIx_%d
+certType_%d
+%s is deleted
+Cert is being used by: 

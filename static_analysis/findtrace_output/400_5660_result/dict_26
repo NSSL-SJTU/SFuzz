@@ -1,0 +1,11 @@
+CE: %d HTTP statusCode %d
+CloudClient: reply is not HTTP OK, exit
+200 OK
+CloudClient: illegal input
+CloudClient: download fw,read left message failed!
+cloudHttp.c
+CloudClient: download fw,left buffer is not enough
+CloudClient: download fw,parse htpp reply error.
+CloudClient: read head failed!
+%d %*s
+CloudClient: download fw,httpHeadSize is %d, content-Length is %d

@@ -1,0 +1,14 @@
+ssdp.c
+uuid:%s::%s
+%s:%s
+M-SEARCH
+:service:
+HTTP
+ssdp:all
+Function %s assertion failed: sock == miniUPnP.sock, file:%s, line:%d.
+upnp:rootdevice
+ST:
+Man
+uuid:%s
+ssdp:discover
+UPNPD: Search target = %s.

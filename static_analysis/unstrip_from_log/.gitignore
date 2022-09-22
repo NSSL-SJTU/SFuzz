@@ -1,0 +1,6 @@
+.DS_Store
+lib/ghidra.jar
+.idea/
+build
+.gradle
+tmp/*

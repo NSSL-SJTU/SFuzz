@@ -1,0 +1,8 @@
+80095d28:FUN_80095c2c->nvram_set
+80095d28:FUN_80095c2c->sprintf__1
+800a604c:FUN_800a5c54->strcpy
+80064c5c:FUN_80064ae0->strcpy
+80055524:FUN_80054dc4->strcpy
+800a604c:FUN_800a5c54->strcpy
+80064c5c:FUN_80064ae0->strcpy
+80055524:FUN_80054dc4->strcpy

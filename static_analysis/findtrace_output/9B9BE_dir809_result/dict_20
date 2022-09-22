@@ -1,0 +1,9 @@
+applyNetIf
+Pvid%d
+defPri%d
+defCfi%d
+Setting saved.
+set MIB_NETIFACE_MOD fail!
+submit-url
+not foud /
+ON

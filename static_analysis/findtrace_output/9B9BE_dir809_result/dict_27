@@ -1,0 +1,36 @@
+hostName
+dns2
+dns1
+config.pppoe_plus
+fixedIpMtuSize
+handle_wantcpip_ppp
+pppConnectType
+0.0.0.0
+pppUserName
+pppIdleTime
+dnsManual
+pppConnect
+malloc fail!!
+pppServiceName
+pppoe_wan_ip_mode
+config.pppoe_xkjs
+Setting saved.
+submit-url
+pppMtuSize
+dnsAuto
+config.pppoe_netsniper
+pppDisconnect
+pppoe_ip_address
+false
+wan_mask
+dhcpMtuSize
+pppPassword
+%s %d
+dnsMode
+true
+wan_ip
+igmpproxyEnabled
+wan_macAddr
+wan_gateway
+not foud /
+wanType

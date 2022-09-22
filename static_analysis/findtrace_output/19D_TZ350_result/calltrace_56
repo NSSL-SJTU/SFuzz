@@ -1,0 +1,11 @@
+809a6510:FUN_809a6488->FUN_8098f7e8->strncpy_1to2_fast
+809a6510:FUN_809a6488->FUN_8098f7e8->wrapper_scpy->strncpy_1to2_fast
+809a6510:FUN_809a6488->FUN_8098f7e8->FUN_8098f590->wrapper_scpy->strncpy_1to2_fast
+809a6510:FUN_809a6488->FUN_8098f7e8->FUN_80a0e328->FUN_80a0da60->FUN_80a09b20->strncpy_1to2_fast
+809a6510:FUN_809a6488->FUN_8098f7e8->FUN_80a05510->FUN_80a05448->FUN_80a07468->strncpy_1to2_fast
+809a6510:FUN_809a6488->ikev2Input->strncpy_safe
+809a6510:FUN_809a6488->FUN_8098f7e8->malloc->mz_alloc->sprintf
+809a6510:FUN_809a6488->ikev2Input->malloc->mz_alloc->sprintf
+809a6510:FUN_809a6488->FUN_8098f7e8->FUN_8098f590->malloc->mz_alloc->sprintf
+809a6510:FUN_809a6488->FUN_8098f7e8->FUN_80a0e328->FUN_80a0da60->FUN_80a09b20->malloc->mz_alloc->sprintf
+809a6510:FUN_809a6488->FUN_8098f7e8->FUN_80a05510->FUN_80a05448->FUN_80a07468->malloc->mz_alloc->sprintf

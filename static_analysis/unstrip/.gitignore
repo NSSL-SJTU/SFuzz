@@ -1,0 +1,7 @@
+.DS_Store
+lib/ghidra.jar
+.idea/
+build
+.gradle
+tmp/*
+D60128_3315.simresult

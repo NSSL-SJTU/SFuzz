@@ -1,0 +1,10 @@
+/root/5356ecos/router/httpd/ej_misc.c
+ej_traffic
+wan
+%s
+%ld,%ld,%ld,%ld
+Insufficient args
+%s::getifaddrs() error
+name
+lan
+User assertion failed: \"%s\", at %s:%d

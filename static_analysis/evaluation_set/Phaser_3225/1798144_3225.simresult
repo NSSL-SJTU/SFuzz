@@ -1,0 +1,74 @@
+[
+    {
+        "funcName": "atoi",
+        "funcSign": "int * atoi(char * str)",
+        "criticalIndex": "[1]",
+        "offset": "0x7ce00500"
+    },
+    {
+        "funcName": "strcpy",
+        "funcSign": "char * strcpy(char * dest, char  * src)",
+        "criticalIndex": "[2]",
+        "offset": "0x7ce00278",
+        "funcType": "DataSink"
+    },
+    {
+        "funcName": "sprintf",
+        "funcSign": "int sprintf(char * str, char * format, ...)",
+        "criticalIndex": "[2, 3, 4, 5, 6, 7, 8]",
+        "offset": "0x7ce00490",
+        "funcType": "DataSink"
+    },
+    {
+        "funcName": "sprintf__1",
+        "funcSign": "int sprintf__1(char * str, char * format, ...)",
+        "criticalIndex": "[2, 3, 4, 5, 6, 7, 8]",
+        "offset": "0x7ce015f4",
+        "funcType": "DataSink"
+    },
+    {
+        "funcName": "strcat",
+        "funcSign": "char * strcat(char * s1, char * s2)",
+        "criticalIndex": "[2]",
+        "offset": "0x7ce00768",
+        "funcType": "DataSink"
+    },
+    {
+        "funcName": "memcpy",
+        "funcSign": "void * memcpy (void * destin, void * source, uint n)",
+        "criticalIndex": "[2, 3]",
+        "offset": "0x7cea59f4",
+        "funcType": "DataSink"
+    },
+    {
+        "funcName": "strtol",
+        "funcSign": "long strtol(char * str, char ** endptr, int base)",
+        "criticalIndex": "[-1]",
+        "offset": "0x7ce01664"
+    },
+    {
+        "funcName": "strtol__1",
+        "funcSign": "long strtol__1(char * str, char ** endptr, int base)",
+        "criticalIndex": "[-1]",
+        "offset": "0x7ce01724"
+    },
+    {
+        "funcName": "strncpy",
+        "funcSign": "char * strncpy(char * dst, char * src, unsigned int len)",
+        "criticalIndex": "[2, 3]",
+        "offset": "0x7ce003c8",
+        "funcType": "DataSink"
+    },
+    {
+        "funcName": "strncmp",
+        "funcSign": "int strncmp(char * s1, char * s2, unsigned int n)",
+        "criticalIndex": "[-1]",
+        "offset": "0x7ce0034c"
+    },
+    {
+        "funcName": "memcmp",
+        "funcSign": "int memcmp(void * s1, void * s2, unsigned int n)",
+        "criticalIndex": "[-1]",
+        "offset": "0x7ce00540"
+    }
+]

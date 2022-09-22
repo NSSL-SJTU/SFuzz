@@ -1,0 +1,212 @@
+[
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x1fb798", 
+    "funcName": "j_nullsub_46"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x2d0960", 
+    "funcName": "tHttpd"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x38121c", 
+    "funcName": "webgetvar"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x5d5c54", 
+    "funcName": "j_nullsub_189"
+  },
+{
+        "funcName": "strcat",
+        "funcSign": "char * strcat(char * restrict s1, const char * restrict s2)",
+        "criticalIndex": "[2]",
+        "offset": "0x5ec2dc",
+        "funcType": "DataSink"
+    },
+    {
+        "funcName": "strncpy",
+        "funcSign": "char * strncpy(char * dst, const char * src, size_t len)",
+        "criticalIndex": "[2, 3]",
+        "offset": "0x5ebffc",
+        "funcType": "DataSink"
+    },
+    {
+        "funcName": "strncat",
+        "funcSign": "char * strncat(char * restrict s1, const char * restrict s2, size_t n)",
+        "criticalIndex": "[2, 3]",
+        "offset": "0x5ec368",
+        "funcType": "DataSink"
+    },
+    {
+        "funcName": "strcpy",
+        "funcSign": "char * strcpy(char * dest, char  * src)",
+        "criticalIndex": "[2]",
+        "offset": "0x4e8600",
+        "funcType": "DataSink"
+    },
+    {
+        "funcName": "strcpy__1",
+        "funcSign": "char * strcpy__1(char * dest, char  * src)",
+        "criticalIndex": "[2]",
+        "offset": "0x5ebf1c",
+        "funcType": "DataSink"
+    },
+    {
+        "funcName": "sscanf",
+        "funcSign": "int sscanf(const char * restrict s, const char * restrict format, ...)",
+        "criticalIndex": "[1, 2]",
+        "offset": "0x5e9f18",
+        "funcType": "DataSink"
+    },
+    {
+        "funcName": "sscanf__1",
+        "funcSign": "int sscanf__1(const char * restrict s, const char * restrict format, ...)",
+        "criticalIndex": "[1, 2]",
+        "offset": "0x5e9f7c",
+        "funcType": "DataSink"
+    },
+    {
+        "funcName": "snprintf",
+        "funcSign": "int snprintf(char * restrict str, size_t size, const char * restrict format, ...)",
+        "criticalIndex": "[2, 3, 4, 5, 6, 7, 8]",
+        "offset": "0x2d90d0",
+        "funcType": "DataSink"
+    },
+    {
+        "funcName": "snprintf__1",
+        "funcSign": "int snprintf__1(char * restrict str, size_t size, const char * restrict format, ...)",
+        "criticalIndex": "[2, 3, 4, 5, 6, 7, 8]",
+        "offset": "0x51787c",
+        "funcType": "DataSink"
+    },
+    {
+        "funcName": "snprintf__2",
+        "funcSign": "int snprintf__2(char * restrict str, size_t size, const char * restrict format, ...)",
+        "criticalIndex": "[2, 3, 4, 5, 6, 7, 8]",
+        "offset": "0x5868b8",
+        "funcType": "DataSink"
+    },
+    {
+        "funcName": "snprintf__3",
+        "funcSign": "int snprintf__3(char * restrict str, size_t size, const char * restrict format, ...)",
+        "criticalIndex": "[2, 3, 4, 5, 6, 7, 8]",
+        "offset": "0x5e9c24",
+        "funcType": "DataSink"
+    },
+    {
+        "funcName": "snprintf__4",
+        "funcSign": "int snprintf__4(char * restrict str, size_t size, const char * restrict format, ...)",
+        "criticalIndex": "[2, 3, 4, 5, 6, 7, 8]",
+        "offset": "0x5e9d54",
+        "funcType": "DataSink"
+    },
+    {
+        "funcName": "memmove",
+        "funcSign": "void * memmove(void * dst, const void * src, size_t len)",
+        "criticalIndex": "[2, 3]",
+        "offset": "0x1b9244",
+        "funcType": "DataSink"
+    },
+    {
+        "funcName": "memmove__1",
+        "funcSign": "void * memmove__1(void * dst, const void * src, size_t len)",
+        "criticalIndex": "[2, 3]",
+        "offset": "0x1cd450",
+        "funcType": "DataSink"
+    },
+    {
+        "funcName": "memmove__2",
+        "funcSign": "void * memmove__2(void * dst, const void * src, size_t len)",
+        "criticalIndex": "[2, 3]",
+        "offset": "0x1fdf14",
+        "funcType": "DataSink"
+    },
+    {
+        "funcName": "memmove__3",
+        "funcSign": "void * memmove__3(void * dst, const void * src, size_t len)",
+        "criticalIndex": "[2, 3]",
+        "offset": "0x230a0c",
+        "funcType": "DataSink"
+    },
+    {
+        "funcName": "memmove__4",
+        "funcSign": "void * memmove__4(void * dst, const void * src, size_t len)",
+        "criticalIndex": "[2, 3]",
+        "offset": "0x260738",
+        "funcType": "DataSink"
+    },
+    {
+        "funcName": "memmove__5",
+        "funcSign": "void * memmove__5(void * dst, const void * src, size_t len)",
+        "criticalIndex": "[2, 3]",
+        "offset": "0x3b2d6c",
+        "funcType": "DataSink"
+    },
+    {
+        "funcName": "memmove__6",
+        "funcSign": "void * memmove__6(void * dst, const void * src, size_t len)",
+        "criticalIndex": "[2, 3]",
+        "offset": "0x4a772c",
+        "funcType": "DataSink"
+    },
+    {
+        "funcName": "memmove__7",
+        "funcSign": "void * memmove__7(void * dst, const void * src, size_t len)",
+        "criticalIndex": "[2, 3]",
+        "offset": "0x51cbdc",
+        "funcType": "DataSink"
+    },
+    {
+        "funcName": "memmove__8",
+        "funcSign": "void * memmove__8(void * dst, const void * src, size_t len)",
+        "criticalIndex": "[2, 3]",
+        "offset": "0x5ebcd8",
+        "funcType": "DataSink"
+    },
+    {
+        "funcName": "memmove__9",
+        "funcSign": "void * memmove__9(void * dst, const void * src, size_t len)",
+        "criticalIndex": "[2, 3]",
+        "offset": "0x5ebdf8",
+        "funcType": "DataSink"
+    },
+    {
+        "funcName": "atoi",
+        "funcSign": "int * atoi(const char * str)",
+        "criticalIndex": "[1]",
+        "offset": "0x5e9fe0"
+    },
+    {
+        "funcName": "atoi__1",
+        "funcSign": "int * atoi__1(const char * str)",
+        "criticalIndex": "[1]",
+        "offset": "0x5ea014"
+    },
+    {
+        "funcName": "strtol",
+        "funcSign": "long strtol(const char * restrict str, char ** restrict endptr, int base)",
+        "criticalIndex": "[-1]",
+        "offset": "0x5e9db0"
+    },
+    {
+        "funcName": "strtol__1",
+        "funcSign": "long strtol__1(const char * restrict str, char ** restrict endptr, int base)",
+        "criticalIndex": "[-1]",
+        "offset": "0x5e9e68"
+    },
+    {
+        "funcName": "strtol__2",
+        "funcSign": "long strtol__2(const char * restrict str, char ** restrict endptr, int base)",
+        "criticalIndex": "[-1]",
+        "offset": "0x5f1804"
+    },
+    {
+        "funcName": "_memmove__2",
+        "funcSign": "void * _memmove__2(void * dst, const void * src, size_t len)",
+        "offset": "0x567898",
+        "criticalIndex": "[3]"
+    }
+]

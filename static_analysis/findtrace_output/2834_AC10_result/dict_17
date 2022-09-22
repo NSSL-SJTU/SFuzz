@@ -1,0 +1,47 @@
+wan6_ifname
+0:0:0:0::0
+P Not Support 
+cfg->pri_dns = %s 
+cfg->sec_dns= %s 
+wan6_static_sec_dns
+fe80:%d%s
+wan6_static_mtu
+fe80
+wan6_static_gateway
+wan6_static_addr
+wan6_static_pri_dns
+wan6_static_plen
+wan0_pppoe_username
+ipv6WanGateway
+wan6_con_type
+ipv6WanPPPoEUser
+wan0_proto
+string_info=reboot
+wan6_pppoe_username
+wan6_static_sec_dns
+wan0_proto_index
+pppoe
+wan6_dhcp_delegation
+dhcp
+ipv6WanType
+wan6_proto
+ipv6_enable
+ipv6_debug %s[%d] wan access change send reboot return err code 100
+ipv6PPPoeDelegation
+ipv6WanDns1
+ipv6WanDns2
+cgi_nat_ipv6_accessParam_set
+wan6_pppoe_delegation
+100
+wan6_pppoe_passwd
+ipv6WanIP
+ipv6DhcpDelegation
+true
+wan6_static_gateway
+wan6_static_addr
+wan6_static_pri_dns
+wan6_static_plen
+ipv6En
+wan6_dhcp_nontemporary
+ipv6WanPPPoEPwd
+ipv6IpPlen

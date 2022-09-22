@@ -1,0 +1,3 @@
+80021090:handle_fmGetValAndSetStrVal->strcpy
+80021090:handle_fmGetValAndSetStrVal->FUN_800ff150->FUN_800ff038->memmove
+80021090:handle_fmGetValAndSetStrVal->FUN_800ff150->FUN_800fef20->memmove

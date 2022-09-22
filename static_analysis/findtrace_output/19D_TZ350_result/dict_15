@@ -1,0 +1,4 @@
+invalid zone flags %0x
+Header Time: %.*sServer time: (%lld) %sLocal time: (%lld) %s
+Content-Length: %d
+HTTP/%d.%d %d

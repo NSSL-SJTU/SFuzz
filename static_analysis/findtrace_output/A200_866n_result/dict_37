@@ -1,0 +1,11 @@
+_eventWdsSetChannel
+devno
+mac
+_eventNewSta
+wlan_access
+%lus %s, line %d:null msg of setting channel
+unit
+%lus %s, line %d:[WLAN_EVENT]new sta %s connected
+ion %u
+%d
+wlan_new_sta

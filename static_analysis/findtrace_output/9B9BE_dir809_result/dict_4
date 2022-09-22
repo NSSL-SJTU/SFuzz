@@ -1,0 +1,13 @@
+wlanlogEnabled
+/tmp/syslog.log
+clear
+rtLogEnabled
+rtlogServer
+/tmp/syslog.bak
+syslogEnabled
+logEnabled
+Setting saved.
+submit-url
+not foud /
+ON
+doslogEnabled

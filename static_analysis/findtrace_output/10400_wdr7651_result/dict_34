@@ -1,0 +1,10 @@
+CloudClient: reply is not HTTP OK, exit
+200 OK
+httpRecvReply
+CloudClient: illegal input
+CloudClient: download fw,read left message failed!
+httpParseReply
+CloudClient: download fw,parse htpp reply error.
+CloudClient: download fw,left buffer is not enough
+CloudClient: read head failed!
+CloudClient: download fw,httpHeadSize is %d, content-Length is %d

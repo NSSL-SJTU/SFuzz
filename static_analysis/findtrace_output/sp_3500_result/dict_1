@@ -1,0 +1,35 @@
+SyncFlag=0 ==> net_SyncNvram
+9100
+EMAIL SIZE ERROR
+RAW = %d 
+SyncFlag=1 ==> net_SyncNvram
+FTPPW
+admin
+RAW SET -%d
+mDNS
+C4
+RAW PORT1 -%d
+C5
+C6
+websRedirect
+SET EMAIL SIZE = %d 
+dni_SetBonjourPrinter - %d - %s
+LPR = %d 
+/appli.asp?%s
+
+[E]frm_netapplic(),Unexpected wrong password!
+normal
+mDNSname
+FTP-Net ERROR
+RAW PORT SET ERROR
+IPP = %d 
+RAW ERROR
+RAW PORT2 -%d
+ifEdit
+dni_GetBonjourPrinter - ERROR
+websRedirect-exit
+&#65533;&#65533;&#65533;&#65533;&#65533;&#65533;&#65533;&#65533;
+ftp_usr
+LPR ERROR
+IPP ERROR
+FTP-NET = %d 

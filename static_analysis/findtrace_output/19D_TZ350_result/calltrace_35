@@ -1,0 +1,2 @@
+8078a6dc:FUN_8078a658->strncpy_zero
+8078a6dc:FUN_8078a658->malloc->mz_alloc->sprintf

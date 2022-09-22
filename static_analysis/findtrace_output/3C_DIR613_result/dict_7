@@ -1,0 +1,9 @@
+static
+Connected
+wan%d_
+ppp%d
+wan0_connect
+ifname
+wanXXXXXXXXXX_
+proto
+dhcp

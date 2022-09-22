@@ -1,0 +1,32 @@
+EncryptType=%d!
+dni_nvr_wx_WepDefaultKeyIDSet() fail
+[pairwise]EncryptType=%d!
+wpa_supplicant_conf_parser():conf is NULL!
+bssid
+WPA-PSK
+dni_nvr_wx_SsidSet() fail
+psk
+WPA
+ssid
+mode
+dni_nvr_wx_WepKeyLengthSet() fail
+SHARED
+pairwise
+wep_tx_keyidx
+dni_nvr_wx_WepKeyFormatSet() fail
+CCMP
+Unkown wep bit:%d!
+group
+AuthMode=%d!
+auth_alg
+ERROR:conf_file_size=0!
+dni_nvr_wx_EncryptionSet() fail
+[proto]AuthMode=%d!
+dni_nvr_wx_NetworkTypeSet() fail
+wpa_supplicant_conf_parser():os_file_get() status=%d!
+wep_key
+proto
+dni_nvr_wx_WepKeySet() fail
+TKIP
+key_mgmt
+dni_nvr_wx_AuthenticationSet() fail

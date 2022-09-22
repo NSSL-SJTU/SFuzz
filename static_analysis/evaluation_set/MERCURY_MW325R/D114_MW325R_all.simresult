@@ -1,0 +1,82 @@
+[
+    {
+        "funcName": "recvfrom",
+        "criticalIndex": "[2]",
+        "offset": "0x800c010c"
+    },
+    {
+        "funcName": "strncpy",
+        "funcSign": "char * strncpy(char * dst, const char * src, size_t len)",
+        "criticalIndex": "[2, 3]",
+        "offset": "0x800c8e74",
+        "funcType": "DataSink"
+    },
+    {
+        "funcName": "memcmp",
+        "funcSign": "int memcmp(const void * s1, const void * s2, size_t n)",
+        "criticalIndex": "[-1]",
+        "offset": "0x800c8b08"
+    },
+    {
+        "funcName": "memcmp__1",
+        "funcSign": "int memcmp__1(const void * s1, const void * s2, size_t n)",
+        "criticalIndex": "[-1]",
+        "offset": "0x800d2008"
+    },
+    {
+        "funcName": "atoi",
+        "funcSign": "int * atoi(const char * str)",
+        "criticalIndex": "[1]",
+        "offset": "0x800c8828"
+    },
+    {
+        "funcName": "atoi__1",
+        "funcSign": "int * atoi__1(const char * str)",
+        "criticalIndex": "[1]",
+        "offset": "0x80118a38"
+    },
+    {
+        "funcName": "strtol",
+        "funcSign": "long strtol(const char * restrict str, char ** restrict endptr, int base)",
+        "criticalIndex": "[-1]",
+        "offset": "0x800c8868"
+    },
+    {
+        "funcName": "strtol__1",
+        "funcSign": "long strtol__1(const char * restrict str, char ** restrict endptr, int base)",
+        "criticalIndex": "[-1]",
+        "offset": "0x800c89b4"
+    },
+    {
+        "funcName": "checksum",
+        "funcSign": "uint checksum(ushort *param_1,int param_2)",
+        "criticalIndex": "[1, 2, 3, 4, 5, 6, 7, 8]",
+        "offset": "0x8000d9bc",
+        "funcType": "Checksum"
+    },
+    {
+        "funcName": "strcmp",
+        "funcSign": "int strcmp(const char * s1, const char * s2)",
+        "criticalIndex": "[-1]",
+        "offset": "0x800c8be4"
+    },
+    {
+        "funcName": "strcat",
+        "funcSign": "char * strcat(char * restrict s1, const char * restrict s2)",
+        "criticalIndex": "[2]",
+        "offset": "0x800c8ba8",
+        "funcType": "DataSink"
+    },
+    {
+        "funcName": "bcopy",
+        "criticalIndex": "[3]",
+        "offset": "0x800D208C",
+        "funcType": "DataSink"
+    },
+    {
+        "funcName": "strncmp",
+        "funcSign": "int strncmp(const char * s1, const char * s2, size_t n)",
+        "criticalIndex": "[-1]",
+        "offset": "0x800c8e40"
+    }
+]

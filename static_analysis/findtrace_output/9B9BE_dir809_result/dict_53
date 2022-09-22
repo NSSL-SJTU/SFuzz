@@ -1,0 +1,13 @@
+handle opmode fail!
+./index.asp
+pptp
+save_logout = %s
+%s
+l2tp
+save_logout
+/index.asp
+/Basic/NetworkmapWait.asp?mode=%s
+malloc fail!
+submit-url
+HNAP_AUTH
+wanType

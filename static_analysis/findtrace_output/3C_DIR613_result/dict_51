@@ -1,0 +1,48 @@
+network.c start_wan ioctl eth0 error : %s
+0.0.0.0
+hostname
+wan0_connect
+%s()::socket
+wan%x_ifnames
+eth0
+wan_speed
+pppoe
+bind_ifname
+ipaddr
+start_wan
+wan0_netmask
+resolv_conf
+10
+wan_ifnames
+static
+'
+dns
+Disconnected
+hwaddr
+proto
+wan0_gateway
+bind_proto
+bind_pptp_static
+%s()::can not set wan speed 
+dhcpc_%s has already started.
+wl_wme
+Connecting
+netmask
+wl
+ifname
+wanXXXXXXXXXX_
+wan0_dns
+starting dhcp client
+disabled
+wan0_ipaddr
+bind_l2tp_static
+dhcp
+connect
+wandhcpc
+network.c start_wan socket error
+wan%d_
+off
+100
+router_disable
+ure_disable
+dhcpc_%s

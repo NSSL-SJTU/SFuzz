@@ -1,0 +1,20 @@
+plugin_id
+CloudClient: getInstallPluginStatus begin
+CloudClient: getUninstallPluginStatus
+CloudClient: getInstallPluginStatus normal
+update
+CloudClient: getInstallPluginStatus pluginNone == NULL
+CloudClient: getInstallPluginStatus pluginInfo == NULL
+%s/%s
+/plugin_config/plugin_info
+CloudClient: getPluginStatusReqHandle can not get action
+uninstall
+getUninstallPluginStatus
+install
+getPluginStatusReqHandle
+CloudClient: getPluginStatusReqHandle can not get plugin id
+action
+progress
+CloudClient: getInstallPluginStatus modelRead < 0
+getInstallPluginStatus
+%d

@@ -1,0 +1,66 @@
+[WPS] Receive Registrar Identity packet
+%02X-%02X-%02X-%02X-%02X-%02X : REG: WPS is already in progress(state %d)
+[WPS] %s: REGISTRAR recive eapIdentity
+MFG write device id
+wps Identity IE check failed
+wlan_access
+wioctl
+[WPS] txsize %d, fragThres %d, txFrag %d, txFragLenSend %d
+[WPS] Receive a eap pkt with LENGTH_FIELD flag set, length is %d.
+[wlanApp] recv sync bandwidth event!
+[WPS] pkt not consumed, restore recvID %d.
+[WPS]%s wps->identity is %d, eap->id is %d, wps->recvId %d, eap->length %d
+apps_wpsSendPkt
+devno
+[WPS] Receive a eap pkt with MORE_FRAG flag set.
+/device_info/info/info
+WPS create M1
+WFA-SimpleConfig-Enrollee-1-0
+[WLAN_EVENT]new sta %s connected
+unit
+iwpriv
+MFG read device id
+MFG check product id
+WPS recv message NACK
+Invalid WSC type %d.
+MFG model read failure
+MFG read hardware id des
+[WPS] wps state %d
+WFA-SimpleConfig-Registrar-1-0
+[WPS] receive a frag, just save the eap payload, and reply FRAG_ACK
+_wpsRecvEap
+REG: WPS is already in progress(mac %02x:%02x:%02x:%02x:%02x:%02x state %d)
+[WPS]%s send the first frag, add message_length %d
+mac
+send bytes %d, error.
+MFG write hardware id des
+MFG get product id
+[WPS]%s eap->flags %02x, eapHdrLen %d, data len %d
+WPS receive M8
+[wlanApp] recv sync phymode event!
+[WPS] Receive WSC_Start packet.
+[WPS] %s: send WSC_START
+[WPS] total rx length and last tx pkt length overflow the txbuf!
+%.2X
+%d
+wlan_new_sta
+MFG read UID
+[WPS] %s: Receive WPS_EAP_FAILURE
+MFG read hardware id
+Get CAP's LAN MAC: %02x:%02x:%02x:%02x:%02x:%02x
+WPS_ID_VERSION error 0x%x.
+[WPS]Receive EAP Failure
+Receive config: ssid %s, authtype 0x%x, encType 0x%x, Key %s
+[WPS] Receive a eap pkt, eap->id is %d, recvId is %d, wps->identity %d.
+MFG write hardware id
+MFG write RSA
+[WPS] receive all frags, now process it
+[WPS] rxFrag %d, rxFragLenRecvd %d, len %d, rxFragTotalLen %d, wps->txsize %d
+%s wps->cfg_data.len: %d and begin save configData to mapd
+/conf/flash_sign_pk.pem
+apps_wpsProcessM8
+WPS state (%d) error. message 0x%x
+MFG read firmware id
+Recvd NACK with config err: %d
+Receive EAP fail, wps state %d
+[WPS] Receive FRAG_ACK, send other frags, txFragLenSend is %d.

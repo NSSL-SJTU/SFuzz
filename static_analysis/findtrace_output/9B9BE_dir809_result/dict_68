@@ -1,0 +1,26 @@
+sc_name_%d
+act_%d
+alg_rtsp
+dmz_enabled
+s_s_ip_%d
+str_val%s
+alg_sip
+dmz_address
+alg_pptp
+Setting saved.
+submit-url
+d_s_ip_%d
+spi_enabled
+fw_description_%d
+sinf_%d
+false
+pro_%d
+s_e_ip_%d
+d_e_port_%d
+settingsChanged
+d_s_port_%d
+en_%d
+true
+dinf_%d
+d_e_ip_%d
+anti_spoof

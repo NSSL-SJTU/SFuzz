@@ -1,0 +1,22 @@
+%s(%s):nothing changes
+wins
+subnet
+DECONFIG DHCP CLIENT
+wan%d_
+%s(%s):ip setting changes, stop
+bound
+ip
+LEASE_WAN DHCP CLIENT
+dns
+deconfig
+interface
+router
+bound_wan
+netmask
+wanXXXXXXXXXX_
+domain
+lease
+expiry
+ipaddr
+BOUND_WAN DHCP CLIENT
+gateway

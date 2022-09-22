@@ -1,0 +1,7 @@
+hostName_%d
+mac_%d
+host_enabled_%d
+host_ip_%d
+Get entry number error!
+/Basic/Network.asp
+formStaticDHCP tmpBuf = %s

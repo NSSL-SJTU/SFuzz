@@ -1,0 +1,11 @@
+%x:%x:%x:%x:%x:%x:%x:%x
+NTLM
+%u.%u.%u.%u
+admin
+%s
+%x:%x:%x:%x:%x:%x:%x:%x,%d
+SSO agent
+%u.%u.%u.%u,%d
+: logs from DC %u.%u.%u.%u
+ port %d
+%d

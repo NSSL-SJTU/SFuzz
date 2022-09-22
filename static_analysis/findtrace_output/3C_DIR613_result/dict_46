@@ -1,0 +1,20 @@
+
+lan_ipaddr
+DBG [%s,%s,%d]: NVRAM UPLOAD: Restricted nvram received %s = %s
+static
+DBG [%s,%s,%d]: NVRAM UPLOAD: Static wan_ipaddr and lan_ipaddr are in same network
+wan_proto
+nvfile
+DBG [%s,%s,%d]: NVRAM UPLOAD: get original lan network = %s
+DBG [%s,%s,%d]: NVRAM UPLOAD: nvram check crc ok.
+DBG [%s,%s,%d]: NVRAM UPLOAD: done
+do_nvramul_post
+wan_ipaddr
+stream
+/root/5356ecos/router/httpd/cgi_misc.c
+DBG [%s,%s,%d]: NVRAM UPLOAD: Clearup nvram
+DBG [%s,%s,%d]: NVRAM UPLOAD: Optimize %s to %s
+User assertion failed: \"%s\", at %s:%d
+DBG [%s,%s,%d]: NVRAM UPLOAD: CRC check error.
+DBG [%s,%s,%d]: NVRAM UPLOAD: Start to upload nvram variables
+dhcp

@@ -1,0 +1,11 @@
+HTTPD: action in module [%s]
+old_pwd
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789-><.,[]{}?/+=|\'\":;~!#$%()`&
+httpIncidentals.c
+logout
+system
+chg_pwd
+error_code
+HTTPD: %s(%d): doActionToModel  return %d
+/uhttpd/webPwd/webPwd
+new_pwd

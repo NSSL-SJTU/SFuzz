@@ -1,0 +1,81 @@
+[
+  {
+    "offset": "0x800111b0",
+    "funcName": "csum",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "offset": "0x80016da0",
+    "funcName": "csum__1",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "offset": "0x8001ae14",
+    "funcName": "strcpy",
+    "criticalIndex": "[2]",
+    "funcSign": "char* strcpy(char* dest, char* src)"
+  },
+  {
+    "offset": "0x8001ae38",
+    "funcName": "strncpy",
+    "criticalIndex": "[3]",
+    "funcSign": "char* strncpy(char* dest, char* src, unsigned int n)"
+  },
+  {
+    "offset": "0x8001ae70",
+    "funcName": "strcmp",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "offset": "0x8001b040",
+    "funcName": "strncmp",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "offset": "0x8001b6dc",
+    "funcName": "printf",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "offset": "0x8001b75c",
+    "funcName": "sprintf__1",
+    "criticalIndex": "[2, 3, 4, 5, 6, 7, 8]",
+    "funcSign": "int sprintf__1(char* str, char* format, ...)"
+  },
+  {
+    "offset": "0x8001db10",
+    "funcName": "Packt_WebGetsVar",
+    "criticalIndex": "[0]"
+  },
+  {
+    "offset": "0x800258f0",
+    "funcName": "csum__2",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "offset": "0x800352cc",
+    "funcName": "csum__3",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "offset": "0x8004aaf4",
+    "funcName": "sscanf",
+    "criticalIndex": "[1, 2]",
+    "funcSign": "int sscanf(char* str, char* format, ...)"
+  },
+  {
+    "offset": "0x80056b74",
+    "funcName": "memcmp",
+    "criticalIndex": "[-1]"
+  },
+  {
+    "offset": "0x8005ee80",
+    "funcName": "recvfrom",
+    "criticalIndex": "[2, 0]"
+  },
+  {
+    "offset": "0x8005ef6c",
+    "funcName": "recv",
+    "criticalIndex": "[2, 0]"
+  }
+]

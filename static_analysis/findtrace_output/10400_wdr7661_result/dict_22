@@ -1,0 +1,13 @@
+devDiscover: parse_discovery_frame error, ret = %d
+devDiscover: parse_advertisement_frame from %08x:%u
+devDiscover: node buf full!
+devDiscover: send_advertisement_frame to %08x:%u
+parse_advertisement_frame
+devDiscover: Unknown type %d
+ms_idle_handler
+devDiscoverHandle
+devDiscover: parse_advertisement_frame from %02X-%02X-%02X-%02X-%02X-%02X
+protocol_handler
+devDiscover: check validity fail!
+devDiscover: error, ret = %d
+devDiscover: parse_discovery_frame from %08x:%u

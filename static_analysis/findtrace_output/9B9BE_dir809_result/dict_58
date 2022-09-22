@@ -1,0 +1,16 @@
+/apply_reboot.asp
+./index.asp
+Set webWanAccess mib error!
+webWanAccess
+method error!
+config.web_server_wan_ipaddr_http
+WDB8WvbXdH
+post_url
+submit_psw
+encrypt
+config.web_server_wan_port_http
+true
+config.login_name
+decrypt
+submit-url
+HNAP_AUTH

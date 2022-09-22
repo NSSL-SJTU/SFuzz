@@ -1,0 +1,16 @@
+ap_profile_num=0
+ Add wireless profile fail__[%s-%u]
+fmmgmt.c
+ap_profile_add=\"%s\",%d,%d
+wizardAddProfile%d
+%d,%d,%02x%02x%02x%02x%02x,%02x%02x%02x%02x%02x,%02x%02x%02x%02x%02x,%02x%02x%02x%02x%02x
+wlan%d-vxd0
+%d,%s
+%d,%d,%02x%02x%02x%02x%02x%02x%02x%02x%02x%02x%02x%02x%02x,%02x%02x%02x%02x%02x%02x%02x%02x%02x%02x%02x%02x%02x,%02x%02x%02x%02x%02x%02x%02x%02x%02x%02x%02x%02x%02x,%02x%02x%02x%02x%02x%02x%02x%02x%02x%02x%02x%02x%02x
+wlan%d
+iwpriv
+restartNow
+ap_profile_enable=%d
+set_mib
+submit-url
+not foud /

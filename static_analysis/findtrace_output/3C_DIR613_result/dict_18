@@ -1,0 +1,15 @@
+bss
+route_static
+FREE
+lan_dhcp
+ap
+br
+br0_ifnames
+0123456789
+cap
+lan_
+router_disable
+lan_ifname
+unbridged_ifnames
+dhcpc_%s
+bcmerror

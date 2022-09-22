@@ -1,0 +1,6 @@
+iface_type_%d
+X%d
+iface_name_%d
+iface_module_family_%d
+%s %s
+iface_phys_type_%d

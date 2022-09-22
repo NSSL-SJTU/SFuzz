@@ -1,0 +1,2 @@
+801cd7ec:zone_show->FUN_80f9c7b8->strcpy
+801cd7ec:zone_show->FUN_80f9c7b8->malloc->mz_alloc->sprintf

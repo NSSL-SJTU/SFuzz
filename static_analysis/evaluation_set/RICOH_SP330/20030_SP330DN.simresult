@@ -1,0 +1,118 @@
+[
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x4f71f0",
+    "funcName": "syslog"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x4fd1ec",
+    "funcName": "j_memset"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x4fd2d8",
+    "funcName": "j_strlen"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x4fd2dc",
+    "funcName": "j_strcmp"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x4fd2e4",
+    "funcName": "j_strchr"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x4fd2ec",
+    "funcName": "j_strcmp_0"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x4fd2f8",
+    "funcName": "j_strstr"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x501d98",
+    "funcName": "getafter"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x5404f4",
+    "funcName": "log_msg"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x5ac958",
+    "funcName": "dni_nvr_wx_WepKeyLengthSet"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x5acb38",
+    "funcName": "dni_nvr_wx_WepKeySet"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x5acc54",
+    "funcName": "dni_nvr_wx_WepKeyFormatSet"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x6cf394",
+    "funcName": "os_fopen"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x6cf7e4",
+    "funcName": "os_fclose"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0x6d0274",
+    "funcName": "wpa_supplicant_conf_parser"
+  },
+  {
+    "offset": "0x6d02dc",
+    "funcName": "os_file_get",
+    "criticalIndex": "[1]"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0xbf3ff4",
+    "funcName": "memset"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0xbf6d14",
+    "funcName": "strchr"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0xbf6ee0",
+    "funcName": "strcmp"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0xbf83b0",
+    "funcName": "strlen"
+  },
+  {
+    "offset": "0xbf8638",
+    "funcName": "strncpy",
+    "criticalIndex": "[3]",
+    "funcSign": "char* strncpy(char* dest, char* src, unsigned int n)"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0xbf8c24",
+    "funcName": "strstr"
+  },
+  {
+    "criticalIndex": "[-1]",
+    "offset": "0xbfa678",
+    "funcName": "strtok"
+  }
+]

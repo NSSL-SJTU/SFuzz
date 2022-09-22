@@ -1,0 +1,33 @@
+peerPin
+wlan1
+wlan0
+wlan%d
+setPIN
+invaild MAC Addr Len
+triggerPBC
+targetAPSsid
+submit-url
+ON
+echo 1 > /var/wps_start_pbc
+WSC_PIN
+localPin
+(%s,%d)Reset to OOB ...
+set
+targetAPMac
+invaild SSID Len
+wps_act
+stopwsc
+pin=%s
+disableWPS
+iwpriv
+echo %s > /var/wps_local_pin
+wsc_specssid=%s
+wsc_specmac=%s
+triggerPIN
+wps_all
+bridge
+set_mib
+unlockautolockdown
+not foud /
+flash
+resetUnCfg

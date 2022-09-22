@@ -1,0 +1,14 @@
+RTADV: RADVD server disconnect
+RTADV: Get prefix [%s/%d] from [%s%%%u]
+RTADV: Failed to receive data, system error.
+RTADV: [detect]rtadvc get IPv6 addr from ptrfixLen=%d.
+rtadvcParseRAPkt
+rtadvcDetectSetNetParam
+RTADV: Receive RA from scope %d len %d.
+RTADV: RA with invalid Prefix len(%d)
+RTADV: RTSOL_CTRL_DETECT detect succed
+rtadvcHandle
+RTADV: Failed to receive, not enough memory, size=%d.
+RTADV: Unexpected RA from scope %d.
+RTADV: RA with invalid ICMP6 code(%d)
+%s%d

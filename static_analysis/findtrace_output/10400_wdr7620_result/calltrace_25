@@ -1,0 +1,2 @@
+404d1310:FUN_404d12b8->protocol_handler->ms_idle_handler->parse_discovery_frame->copy_msg_element->memcpy
+404d1310:FUN_404d12b8->protocol_handler->ms_idle_handler->parse_advertisement_frame->copy_msg_element->memcpy

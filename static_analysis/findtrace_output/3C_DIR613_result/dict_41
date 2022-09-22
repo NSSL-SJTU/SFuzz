@@ -1,0 +1,19 @@
+
+ 
+..
+boundary=
+direct_web
+http_client_ip
+../
+/..
+upgrade.cgi
+head
+text/html
+post
+Content-Length:
+/../
+get
+Authorization:
+Ok
+Basic 
+login httpd fail.maybe username or password err

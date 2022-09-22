@@ -1,0 +1,22 @@
+icon_url
+jsonObjectObjectAdd
+JSON: jsonObjectObjectAdd obj must be type json_type_object..
+author
+local_app_icon_url
+desc_url
+app_icon_url
+local_webzip_url
+version
+webzip_url
+plugin_list
+%s/%s
+/plugin_config/plugin_info
+CloudClient: found %s in PLUGIN_INFO, appPath=%s
+size
+name
+property
+getViewPlugin
+tag
+can_update
+status
+release_time

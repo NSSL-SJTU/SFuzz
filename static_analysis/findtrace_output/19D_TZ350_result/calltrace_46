@@ -1,0 +1,2 @@
+8122231c:FUN_81222200->FUN_80a6fbd8->FUN_80a6fa88->FUN_80a6ef50->FUN_80a705c0->wrapper_scpy->strncpy_1to2_fast
+8122231c:FUN_81222200->FUN_80a6fbd8->FUN_80a6fa88->FUN_80a6ef50->FUN_80a705c0->malloc->mz_alloc->sprintf

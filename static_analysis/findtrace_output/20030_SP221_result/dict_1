@@ -1,0 +1,11 @@
+upd socket bind error!,size=%d
+[tcpCmdDeamon:unkown command %s]
+upd socket error!
+listen error error 
+[TcpCmdDeamonTask]waiting for a client to connect...
+[TcpCmdDeamonTask]cannot accept a new connection
+Find cmmand before run
+Found unkown message drop it,size = %d
+CmdParser find cmdId=%d
+Comand:%s
+[TcpCmdDeamonTask]accepted a new client connection from %s

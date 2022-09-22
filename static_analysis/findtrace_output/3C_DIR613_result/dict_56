@@ -1,0 +1,8 @@
+wan interface link down.
+vlan%dports
+router_disable
+wan%d_ifname
+wanXXXXXXXXXX_
+boardflags
+vlan%d
+lan_ifnames

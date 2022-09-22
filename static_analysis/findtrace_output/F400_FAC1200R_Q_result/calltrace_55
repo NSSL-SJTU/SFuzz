@@ -1,0 +1,4 @@
+803fc858:FUN_803fc834->jsonObjectAddstring->FUN_8002b44c->FUN_8002b34c->strcpy
+803fc858:FUN_803fc834->FUN_803fc7b4->jsonObjectAddstring->FUN_8002b44c->FUN_8002b34c->strcpy
+803fc858:FUN_803fc834->FUN_803fc584->jsonObjectAddstring->FUN_8002b44c->FUN_8002b34c->strcpy
+803fc858:FUN_803fc834->FUN_803fc3f4->jsonObjectAddstring->FUN_8002b44c->FUN_8002b34c->strcpy

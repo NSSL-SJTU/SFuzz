@@ -1,0 +1,17 @@
+%s_%s
+hasNewSoftVersion
+sysmanage_get_NewSoftVersion
+updateDate
+updateVersion
+module
+uc_get_version
+false
+description
+cn
+V02.03.01.105
+update_date
+newest_ver
+true
+newVersionOptimize
+cgi_lib_get_ucloud_version
+noprompt_version

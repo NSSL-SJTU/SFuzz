@@ -1,0 +1,25 @@
+select
+-vxd
+Read site-survey status failed!
+ifconfig
+-vxd0
+down
+wlan_idx
+method%d
+ifname
+Set channel number error!
+pocketAP_ssid
+up
+sysconf wlanapp start wlan0 br0
+submit-url
+connect
+-2
+refresh
+scan timeout!
+wlanif
+%02x:%02x:%02x:%02x:%02x:%02x
+sysconf upnpd 1 1
+%s-vxd0
+set_mib
+sel%d
+flash

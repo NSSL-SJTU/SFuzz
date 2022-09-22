@@ -1,0 +1,5 @@
+lan_ipaddr
+direct_web
+dns_host%d
+* %s
+%s %s

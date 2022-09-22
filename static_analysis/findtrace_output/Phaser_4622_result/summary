@@ -1,0 +1,4 @@
+Summary: find 2 call_traces
+((00321f24, '0x321f24L'), '0x321f24L')
+((003226c8, '0x3226c8L'), '0x3226c8L')
+Analysis time: 64.865000(1m 4.865000s)

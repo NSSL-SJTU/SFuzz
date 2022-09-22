@@ -1,0 +1,10 @@
+autodns
+wan%d_
+dns
+wan0_connect
+wanXXXXXXXXXX_
+wan0_dns
+IFNAME
+ipdown_main
+resolv_conf
+%s %s

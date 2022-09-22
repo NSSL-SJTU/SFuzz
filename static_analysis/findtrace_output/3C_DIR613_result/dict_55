@@ -1,0 +1,20 @@
+wan%d_
+No PPP ifname set!
+%s::Connecting to PPPOE server, please wait...
+Connecting to PPPOE server, please wait...
+wan_pppoe_start
+Connecting
+0.0.0.0
+pppoe%d
+start to dial pppoe.
+'<
+ifname
+wanXXXXXXXXXX_
+wan_pppoe_keepalive
+wan0_dns
+wan0_gateway
+pppoe_ifname
+%s: no interface
+wan0_ipaddr
+wan0_netmask
+connect

@@ -1,0 +1,109 @@
+%s save_pairing_dev and get config data from mapd
+[WPS] Receive Registrar Identity packet
+[WPS] %s: REGISTRAR recive eapIdentity
+WPS receive M2D
+wlan_access
+wioctl
+[WPS] txsize %d, fragThres %d, txFrag %d, txFragLenSend %d
+[WPS] create a too large pkt, wps->tmpbuf overflow!
+[WPS] Receive a eap pkt with LENGTH_FIELD flag set, length is %d.
+[wlanApp] recv sync bandwidth event!
+WPS create M7
+[WPS]%s wps->identity is %d, eap->id is %d, wps->recvId %d, eap->length %d
+%s get_wps_config_data error!
+devno
+[WPS] Receive a eap pkt with MORE_FRAG flag set.
+/device_info/info/info
+WPS create M1
+WPS create M3
+WPS create M5
+iwpriv
+MFG read device id
+RS2 hash doesn't match RHash2.
+Invalid WSC type %d.
+Send config: ssid %s, authtype 0x%x, encType 0x%x, Key %s
+devno or unit out of bound, devno %u, unit %u
+%s cfg_data len: %d
+[WPS] wps state %d
+Unsupported Device Password ID 0x%04x
+REG: WPS is already in progress(mac %02x:%02x:%02x:%02x:%02x:%02x state %d)
+[WPS]%s send the first frag, add message_length %d
+mac
+[WPS]%s eap->flags %02x, eapHdrLen %d, data len %d
+MFG get product id
+[WPS] Receive WSC_Start packet.
+wlan_new_sta
+hmac value of Authenticator mismatched!
+ES2 hash doesn't match EHash2.
+Get CAP's LAN MAC: %02x:%02x:%02x:%02x:%02x:%02x
+[WPS]Receive EAP Failure
+[WPS] Receive a eap pkt, eap->id is %d, recvId is %d, wps->identity %d.
+MFG write hardware id
+/conf/flash_sign_pk.pem
+apps_wpsProcessM8
+WPS state (%d) error. message 0x%x
+MFG read firmware id
+apps_wpsProcessM1
+WPS Create M2
+WPS Create M6
+[WPS] Receive FRAG_ACK, send other frags, txFragLenSend is %d.
+WPS Create M4
+%s[%d] Multi IE is not match in M1
+Get peer's LAN MAC: %02x:%02x:%02x:%02x:%02x:%02x
+%02X-%02X-%02X-%02X-%02X-%02X : REG: WPS is already in progress(state %d)
+apps_wpsCreateM8
+MFG write device id
+wps Identity IE check failed
+ES1 hash doesn't match EHash1.
+%s[%d]CAP manufacturer name is %s
+MFG memory allocation failure
+[WPS] pkt not consumed, restore recvID %d.
+apps_wpsSendPkt
+WFA-SimpleConfig-Enrollee-1-0
+[WLAN_EVENT]new sta %s connected
+Wi-Fi Easy and Secure Key Derivation
+%s[%d]RE  manufacturer name is %s
+unit
+MFG check product id
+WPS recv message NACK
+WPS receive Multi-AP IE in M1
+MFG model read failure
+MFG read hardware id des
+WFA-SimpleConfig-Registrar-1-0
+[WPS] receive a frag, just save the eap payload, and reply FRAG_ACK
+_wpsRecvEap
+WPS receive M2
+/guest_network/guest/guest_2g
+WPS receive M3
+send bytes %d, error.
+WPS receive M4
+WPS receive M5
+WPS receive M6
+WPS receive M7
+MFG write hardware id des
+WPS receive M8
+PBC overlap, deny PBC negotiation
+[wlanApp] recv sync phymode event!
+[WPS] %s: send WSC_START
+[WPS] total rx length and last tx pkt length overflow the txbuf!
+%.2X
+WPS receive M1
+%d
+[WPS] %s: Receive WPS_EAP_FAILURE
+MFG read UID
+RS1 hash doesn't match RHash1.
+MFG read hardware id
+[WPS] success session index %d
+WPS_ID_VERSION error 0x%x.
+MFG no RSA info
+Receive config: ssid %s, authtype 0x%x, encType 0x%x, Key %s
+memory allocation failure
+apps_wpsSucess
+MFG write RSA
+[WPS] rxFrag %d, rxFragLenRecvd %d, len %d, rxFragTotalLen %d, wps->txsize %d
+[WPS] receive all frags, now process it
+%s wps->cfg_data.len: %d and begin save configData to mapd
+WPS Create M8
+AP in lock-down state!
+Receive EAP fail, wps state %d
+Recvd NACK with config err: %d

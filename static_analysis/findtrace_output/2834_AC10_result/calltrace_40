@@ -1,0 +1,5 @@
+800cbbe4:FUN_800cbb28->nvram_set
+800cbbe4:FUN_800cbb28->strcpy__1
+800cb960:FUN_800cb80c->strcpy__1
+800cb9e8:FUN_800cb80c->strcpy__1
+80012ac0:FUN_80012a90->strcpy__1

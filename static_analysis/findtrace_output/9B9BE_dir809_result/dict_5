@@ -1,0 +1,14 @@
+enabled_%d
+config.qos_traffic_shaping_enabled
+config.qos_max_trans_rate
+config.qos_auto_trans_rate
+qos_schedule_control_%d
+ipFrom_%d
+settingsChanged
+config.qos_max_down_rate
+true
+Setting saved.
+ipTo_%d
+restrict_rate_%d
+trans_rate_select_%d
+submit-url

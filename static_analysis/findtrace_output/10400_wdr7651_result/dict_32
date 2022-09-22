@@ -1,0 +1,18 @@
+fwVer
+fwReleaseDate
+/cloud_config/cloud_push/new_firmware
+CloudClient: setAutoUpdateFlag to TRUE,notifyTime=%d
+fwType
+/device_info/info/info
+fwUrl
+check_fw_ver
+fwReleaseLogUrl
+CI: Latest FW now.
+fwList
+getFwListResultHandle
+fwReleaseLog
+/cloud_config/cloud_reply/upgrade_info
+/system/clock_status/clock_status
+fwLocation
+CloudClient: modelRead system time error
+CloudClient: fwVer=%s, upgradeinfo->version=%s

@@ -1,0 +1,5 @@
+Disconnected
+router_disable
+wan0_connect
+resolv_conf
+dnsmasq_enable

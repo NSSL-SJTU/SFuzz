@@ -1,0 +1,74 @@
+Recvd NACK with config err: %d
+%02X-%02X-%02X-%02X-%02X-%02X : REG: WPS is already in progress(state %d)
+WPS Create M2D
+[WPS] %s: REGISTRAR recive eapIdentity
+WPS receive M8
+RS1 hash doesn't match RHash1.
+MFG write device id
+Unsupported Device Password ID 0x%04x
+wlan_access
+wioctl
+hmac value of Authenticator mismatched!
+WPS receive M3
+[wlanApp] recv sync bandwidth event!
+RS2 hash doesn't match RHash2.
+WPS create M5
+devno
+WPS failed, wps state %d, error %d
+WPS receive M5
+/device_info/info/info
+AP in lock-down state!
+WFA-SimpleConfig-Enrollee-1-0
+[WLAN_EVENT]new sta %s connected
+WPS create M1
+Wi-Fi Easy and Secure Key Derivation
+WPS Create M2
+unit
+iwpriv
+MFG check product id
+MFG read device id
+WPS Create M6
+WPS receive M4
+Invalid WSC type %d.
+Send config: ssid %s, authtype 0x%x, encType 0x%x, Key %s
+devno or unit out of bound, devno %u, unit %u
+PBC overlap, deny PBC negotiation
+MFG model read failure
+MFG read hardware id des
+WPS receive message ACK
+WFA-SimpleConfig-Registrar-1-0
+_wpsRecvEap
+WPS receive M6
+mac
+/guest_network/guest/guest_2g
+send bytes %d, error.
+WPS receive M1
+MFG write hardware id des
+MFG get product id
+[wlanApp] recv sync phymode event!
+[WPS] %s: send WSC_START
+%.2X
+%d
+wlan_new_sta
+MFG read UID
+[WPS] %s: Receive WPS_EAP_FAILURE
+WPS create M3
+MFG read hardware id
+WPS create M7
+WPS_ID_VERSION error 0x%x.
+ES1 hash doesn't match EHash1.
+Receive config: ssid %s, authtype 0x%x, encType 0x%x, Key %s
+WPS receive M7
+memory allocation failure
+apps_wpsSucess
+MFG write hardware id
+MFG write RSA
+/conf/flash_sign_pk.pem
+WPS Create M4
+WPS state (%d) error. message 0x%x
+WPS receive M2
+MFG read firmware id
+WPS Create M8
+Receive EAP fail, wps state %d
+ES2 hash doesn't match EHash2.
+WPS recv message NACK

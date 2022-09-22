@@ -1,0 +1,175 @@
+[
+  {
+    "offset": "0x8012031c",
+    "funcName": "strcat",
+    "criticalIndex": "[2]",
+    "funcSign": "char* strcat(char* dest, char* src)"
+  },
+  {
+    "funcName": "memcmp",
+    "criticalIndex": "[-1]",
+    "offset": "0x80120278"
+  },
+  {
+    "funcName": "memcmp__1",
+    "criticalIndex": "[-1]",
+    "offset": "0x80126b28"
+  },
+  {
+    "offset": "0x80120488",
+    "funcName": "strncpy",
+    "criticalIndex": "[3]",
+    "funcSign": "char* strncpy(char* dest, char* src, unsigned int n)"
+  },
+  {
+    "funcName": "strcmp",
+    "criticalIndex": "[-1]",
+    "offset": "0x80120378"
+  },
+  {
+    "funcName": "checksum",
+    "criticalIndex": "[1, 2, 3, 4, 5, 6, 7, 8]",
+    "offset": "0x800160a0",
+    "funcType": "Checksum"
+  },
+  {
+    "funcName": "checksum__1",
+    "criticalIndex": "[1, 2, 3, 4, 5, 6, 7, 8]",
+    "offset": "0x80038540",
+    "funcType": "Checksum"
+  },
+  {
+    "funcName": "checksum__2",
+    "criticalIndex": "[1, 2, 3, 4, 5, 6, 7, 8]",
+    "offset": "0x80102c80",
+    "funcType": "Checksum"
+  },
+  {
+    "offset": "0x8000e30c",
+    "funcName": "strscat",
+    "criticalIndex": "[1, 2]",
+    "funcSign": "char* strscat(char* src1, char* src2, char* dst)"
+  },
+  {
+    "offset": "0x8000e354",
+    "funcName": "strscat__1",
+    "criticalIndex": "[1, 2]",
+    "funcSign": "char* strscat__1(char* src1, char* src2, char* dst)"
+  },
+  {
+    "offset": "0x8000e39c",
+    "funcName": "strscat__2",
+    "criticalIndex": "[1, 2]",
+    "funcSign": "char* strscat__2(char* src1, char* src2, char* dst)"
+  },
+  {
+    "offset": "0x80019bd4",
+    "funcName": "strscat__3",
+    "criticalIndex": "[1, 2]",
+    "funcSign": "char* strscat__3(char* src1, char* src2, char* dst)"
+  },
+  {
+    "offset": "0x8001c904",
+    "funcName": "strscat__4",
+    "criticalIndex": "[1, 2]",
+    "funcSign": "char* strscat__4(char* src1, char* src2, char* dst)"
+  },
+  {
+    "offset": "0x8001c94c",
+    "funcName": "strscat__5",
+    "criticalIndex": "[1, 2]",
+    "funcSign": "char* strscat__5(char* src1, char* src2, char* dst)"
+  },
+  {
+    "offset": "0x8002cb4c",
+    "funcName": "strscat__6",
+    "criticalIndex": "[1, 2]",
+    "funcSign": "char* strscat__6(char* src1, char* src2, char* dst)"
+  },
+  {
+    "offset": "0x8002e78c",
+    "funcName": "strscat__7",
+    "criticalIndex": "[1, 2]",
+    "funcSign": "char* strscat__7(char* src1, char* src2, char* dst)"
+  },
+  {
+    "offset": "0x80035018",
+    "funcName": "strscat__8",
+    "criticalIndex": "[1, 2]",
+    "funcSign": "char* strscat__8(char* src1, char* src2, char* dst)"
+  },
+  {
+    "offset": "0x80044298",
+    "funcName": "strscat__9",
+    "criticalIndex": "[1, 2]",
+    "funcSign": "char* strscat__9(char* src1, char* src2, char* dst)"
+  },
+  {
+    "offset": "0x800442e0",
+    "funcName": "strscat__10",
+    "criticalIndex": "[1, 2]",
+    "funcSign": "char* strscat__10(char* src1, char* src2, char* dst)"
+  },
+  {
+    "offset": "0x80058d5c",
+    "funcName": "strscat__11",
+    "criticalIndex": "[1, 2]",
+    "funcSign": "char* strscat__11(char* src1, char* src2, char* dst)"
+  },
+  {
+    "offset": "0x8006187c",
+    "funcName": "strscat__12",
+    "criticalIndex": "[1, 2]",
+    "funcSign": "char* strscat__12(char* src1, char* src2, char* dst)"
+  },
+  {
+    "offset": "0x801203ac",
+    "funcName": "strcpy",
+    "criticalIndex": "[2]",
+    "funcSign": "char* strcpy(char* dest, char* src)"
+  },
+  {
+    "offset": "0x8001c080",
+    "funcName": "Packt_WebGetsVar",
+    "criticalIndex": "[0]"
+  },
+  {
+    "offset": "0x80116d70",
+    "funcName": "sprintf",
+    "criticalIndex": "[2, 3, 4, 5, 6, 7, 8]",
+    "funcSign": "int sprintf(char* str, char* format, ...)"
+  },
+  {
+    "offset": "0x8011a5d8",
+    "funcName": "sprintf__1",
+    "criticalIndex": "[2, 3, 4, 5, 6, 7, 8]",
+    "funcSign": "int sprintf__1(char* str, char* format, ...)"
+  },
+  {
+    "funcName": "strtol",
+    "criticalIndex": "[-1]",
+    "offset": "0x8011f86c"
+  },
+  {
+    "funcName": "strtol__1",
+    "criticalIndex": "[-1]",
+    "offset": "0x8011fa80"
+  },
+  {
+    "offset": "0x80116d18",
+    "funcName": "snprintf",
+    "criticalIndex": "[2, 3]",
+    "funcSign": "int snprintf(char* str, unsigned int size, char* format, ...)"
+  },
+  {
+    "funcName": "atoi",
+    "criticalIndex": "[1]",
+    "offset": "0x8011f3cc"
+  },
+  {
+    "offset": "0x801202b0",
+    "funcName": "memmove",
+    "criticalIndex": "[3]",
+    "funcSign": "void* memmove(void* dest, void* src, unsigned int n)"
+  }
+]

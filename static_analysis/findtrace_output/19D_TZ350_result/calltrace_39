@@ -1,0 +1,6 @@
+803d93b0:FUN_803d9348->wrapper_scpy->strncpy_1to2_fast
+803d93b0:FUN_803d9348->FUN_803d09e8->wrapper_scpy->strncpy_1to2_fast
+803d93b0:FUN_803d9348->FUN_803d3c28->FUN_803d3bc8->FUN_8155d858->wrapper_scpy->strncpy_1to2_fast
+803d93b0:FUN_803d9348->FUN_803d09e8->strcpy
+803d93b0:FUN_803d9348->strncpy_zero
+803d93b0:FUN_803d9348->malloc->mz_alloc->sprintf

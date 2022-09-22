@@ -1,0 +1,3 @@
+invalid zone flags %0x
+%s
+%02x:%02x:%02x:%02x:%02x:%02x

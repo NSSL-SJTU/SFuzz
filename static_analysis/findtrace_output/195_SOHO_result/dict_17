@@ -1,0 +1,27 @@
+%s Management IPv6 Addresses
+X%s Subnet
+iface_pccard_type_%d
+%s IPv6 Primary Static Address
+iface_dhcp_enable_%d
+%s IPv6 Primary Static Address Subnet
+X%s IPv6 Primary Static Address
+X%s Default Gateway
+X%s SonicPoints
+X%s IPv6 Addresses
+iface_ifnum_%d
+All X%s Management IP
+iface_name_%d
+%d
+X%s IPv6 Link-Local Address
+X%s Management IPv6 Addresses
+All %s Management IP
+%s IP
+%s SonicPoints
+X%s IP
+%s IPv6 Addresses
+iface_module_feature_%d
+%s Default Gateway
+%s Subnet
+X%s IPv6 Primary Static Address Subnet
+%s IPv6 Link-Local Address
+iface_phys_type_%d

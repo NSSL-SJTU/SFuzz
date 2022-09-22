@@ -1,0 +1,66 @@
+lan_netmask
+lan_ipaddr
+lan_dns
+%[^ ] %[^ ] %s
+255.255.255.255
+dhcp_start
+dhcp_end
+lan_netmask
+dhcp1_end
+lan_ipaddr
+====lan_modify_ip:%s=====%s [%d]
+lan1_dns
+%s
+lan1_netmask
+lan1_ipaddr
+check_guest_net_with_other
+dhcp1_start
+lan_netmask
+lan_ipaddr
+255.255.255.255
+%s
+lan_netmask
+lan_ipaddr
+lan_dns
+dhcp_start
+dhcp_end
+lan_lease
+lan_ifname
+lan_proto
+dhcp
+lan_gateway
+lan_netmask
+lan_ipaddr
+lan_dns
+dhcp_start
+dhcp_end
+lan_lease
+lan_ifname
+lan_proto
+dhcp
+lan_gateway
+lan_netmask
+lan_ipaddr
+rm_web_ip
+rm_web_en
+rm_web_port
+lanDhcpStartIP
+lan_netmask
+lan_ipaddr
+lan_dns
+dhcp_start
+false
+dhcp server && if lan && wl restart.
+dhcp_end
+op=%d
+lanDhcpEndIP
+100
+255.255.255.0
+lanDns1
+dhcp server restart.
+dhcpEn
+lanDns2
+true
+lanMask
+%s %s
+lanIP

@@ -1,0 +1,16 @@
+lan_ipaddr
+rdr %s %s/32 port %s -> %s port 80 tcp/udp
+direct_web
+rdr %s %s/32 port 0-%d -> %s port 0 tcp/udp
+rdr %s %s/32 port 0-65535 -> %s port 0 tcp/udp
+remote_management
+http_wanport
+%u
+dmz_ipaddr
+%u-%u
+router_disable
+rdr %s %s/32 port %s -> any port %u %s autofw port %s %s
+rdr %s %s/32 port %d-65535 -> %s port %d tcp/udp
+rdr %s %s/32 port %s -> %s port %u %s
+rdr br0 0.0.0.0/0 port 80 -> %s port 80
+rdr %s %s/32 port 8080 -> %s port 80 tcp/udp

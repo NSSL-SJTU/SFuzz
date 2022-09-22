@@ -1,0 +1,4 @@
+invalid zone flags %0x
+POST %s HTTP/1.0Accept: %sContent-Length: %dContent-Type: %sHost: %sUser-Agent: %sX-Amz-Date: %sX-Amz-Target: %s
+%lld
+%s.%s.%s

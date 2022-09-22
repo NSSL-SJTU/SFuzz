@@ -1,0 +1,22 @@
+dataUrl
+components
+releaseTime
+CloudClient: update dataurl = %s
+pluginId
+author
+num
+CloudClient: updateIconurl = %s
+descForWebUrl
+updateLog
+list
+icoForAppUrl
+version
+get_not_installed_plugins
+size
+descForAppUrl
+name
+icoForWebUrl
+webZipForAppUrl
+tag
+CloudClient: appCount=%d, arrayCount=%d
+usrRequest.c

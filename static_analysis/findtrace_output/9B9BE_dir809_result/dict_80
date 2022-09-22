@@ -1,0 +1,13 @@
+wlProfileEnabled
+wlanMacClone%d
+delAllWlProfile
+mode%d
+addWlProfile
+addRptProfile
+repeaterSSID%d
+delSelWlProfile
+repeaterEnabled%d
+ssid%d
+select%d
+%d
+ON

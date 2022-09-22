@@ -1,0 +1,12 @@
+shared
+wepEnabled%d
+wps_clear_configure_by_reg%d
+key%d
+method error!
+length%d
+encrypt
+format%d
+decrypt
+Invalid key length! Expect length is %d
+authType%d
+ON

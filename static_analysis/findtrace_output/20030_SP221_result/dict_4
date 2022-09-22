@@ -1,0 +1,3 @@
+!!!!!!!!!!_nx_udp_socket_receive>>>before fnsRecvFromTo,ret=%d!!
+!!!!!!!!!!_nx_udp_socket_receive>>>after fnsRecvFromTo,ret=%d,errorstring=%s,errno number=%d!!
+!!!!!!!!!!_nx_udp_socket_receive>>>after fnsRecvFromTo,ret=%d!!

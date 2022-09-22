@@ -1,0 +1,10 @@
+validTimeOnDevice
+stopConnect
+cachedSvr
+CE: %d cloudCom(sef) stopConnect=%d,reconnectTime=%d..
+CE: %d cloudCom(sef) illegal device %d.
+illegalType
+CE: %d cloudCom sef error.
+reconnectTime
+cachedSvr:%s,cachedPort:%d,cachedSvrExpireTicks:%d.
+cloudComLink.c

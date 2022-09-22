@@ -1,0 +1,97 @@
+[
+  {
+    "offset": "0x80007d9c", 
+    "funcName": "mib_set", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x80020ca4", 
+    "funcName": "Packt_WebGetsVar", 
+    "criticalIndex": "[0]"
+  }, 
+  {
+    "offset": "0x80020ed8", 
+    "funcName": "handle_fmGetValAndSetBoolVal", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x80020fac", 
+    "funcName": "handle_fmGetValAndSetChkbox", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x8002105c", 
+    "funcName": "handle_fmGetValAndSetStrVal", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x8002116c", 
+    "funcName": "handle_fmGetValAndSetIntVal", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x80021428", 
+    "funcName": "handle_fmGetValAndSetIp", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x800214fc", 
+    "funcName": "log", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x80035678", 
+    "funcName": "handle_fmGetValAndSetPPPCONN_T", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x800fe964", 
+    "funcName": "get_password_key", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x80139958", 
+    "funcName": "lig", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x80139ba0", 
+    "funcName": "memset", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x8013d1d8", 
+    "funcName": "malloc", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x8013e93c", 
+    "funcName": "strcpy", 
+    "criticalIndex": "[2]"
+  }, 
+  {
+    "offset": "0x8013e998", 
+    "funcName": "strcpy", 
+    "criticalIndex": "[2]"
+  }, 
+  {
+    "offset": "0x8013e9ac", 
+    "funcName": "strlen", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x8013ea50", 
+    "funcName": "strstr", 
+    "criticalIndex": "[-1]"
+  }, 
+  {
+    "offset": "0x8013f070", 
+    "funcName": "snprintf", 
+    "criticalIndex": "[4, 2, 3, 5, 6, 7, 8]"
+  }, 
+  {
+    "offset": "0x8013f088", 
+    "funcName": "sprintf", 
+    "criticalIndex": "[3, 2, 4, 5, 6, 7, 8]"
+  }
+]

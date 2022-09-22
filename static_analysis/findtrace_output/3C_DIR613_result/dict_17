@@ -1,0 +1,48 @@
+[%s,%s,%d]: STOP DHCPD
+[%s,%s,%d]: START NTP
+[%s,%s,%d]: STOP WPS
+[%s,%s,%d]: STOP WIRELESS
+0.0.0.0
+wan0_connect
+[%s,%s,%d]: START WIRELESS
+%d.%d.%d.%d
+START FIREWALL
+wan0_netmask
+[%s,%s,%d]: STOP NTP
+static
+[%s,%s,%d]: STOP DNSMASQ
+[%s,%s,%d]: SYSTEM REBOOT
+STOP FIREWALL
+SYSTEM RESTART
+Disconnected
+[%s,%s,%d]: START DHCPD
+[%s,%s,%d]: SYSTEM RESTART
+[%s,%s,%d]: START DNSMASQ
+wan0_gateway
+[%s,%s,%d]: STOP WAN
+dnsmasq_enable
+lan_netmask
+[%s,%s,%d]: START WPS
+wait
+[%s,%s,%d]: START FIREWALL
+[%s,%s,%d]: STOP DDNS
+wan0_proto
+START WAN CONNECT
+rc.c
+[%s,%s,%d]: START UPNP
+wan0_dns
+wan0_ipaddr
+%d
+lan_ipaddr
+[%s,%s,%d]: START DDNS
+[%s,%s,%d]: STOP FIREWALL
+[%s,%s,%d]: STOP UPNP
+main_loop
+http_client_ip
+[%s,%s,%d]: START WAN
+STOP WAN CONNECT
+ddns_force
+[%s,%s,%d]: STOP DATETIME
+[%s,%s,%d]: START DATETIME
+0'
+SYSTEM REBOOT

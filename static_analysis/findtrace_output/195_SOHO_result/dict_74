@@ -1,0 +1,6 @@
+dhcp_call_manager%d
+dhcp_dns%d
+dhcp_wins%d
+dhcp_wins
+%u
+dhcp_dns

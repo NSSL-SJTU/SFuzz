@@ -1,0 +1,8 @@
+method error!
+pppPassword
+WDB8WvbXdH
+encrypt
+%s,%d, buffer null, error
+Set %s MIB error!
+decrypt
+handle_fmGetValAndSetStrVal

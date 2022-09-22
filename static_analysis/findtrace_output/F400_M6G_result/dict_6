@@ -1,0 +1,8 @@
+RTADV: RADVD server disconnect
+rtadvcParseRAPkt
+rtadvcDetectSetNetParam
+RTADV: Receive RA from scope %d len %d.
+RTADV: RTSOL_CTRL_DETECT detect succed
+rtadvcHandle
+RTADV: Failed to receive, not enough memory, size=%d.
+%s%d

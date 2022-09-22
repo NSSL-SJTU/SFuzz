@@ -1,0 +1,13 @@
+fromPort
+ip
+toPort
+deleteSelPortFw
+deleteAllPortFw
+enabled
+comment
+addPortFw
+Setting saved.
+select%d
+submit-url
+not foud /
+ON

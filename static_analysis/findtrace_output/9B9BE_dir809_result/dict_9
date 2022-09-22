@@ -1,0 +1,23 @@
+deleteAllFilterPort
+deleteAllFilterIp
+deleteSelFilterPort
+deleteSelFilterIp
+addFilterPort
+fromPort
+deleteAllFilterMac
+deleteAllFilterUrl
+ip
+addFilterMac
+addFilterUrl
+toPort
+ipendaddr
+deleteSelFilterMac
+deleteSelFilterUrl
+enabled
+url
+addFilterIp
+comment
+Setting saved.
+select%d
+submit-url
+ON

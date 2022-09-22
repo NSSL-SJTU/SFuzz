@@ -1,0 +1,1287 @@
+[
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x106a0", 
+    "funcName": "wifitask"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x51250", 
+    "funcName": "addfile"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x5e1e4", 
+    "funcName": "j_operateSem"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x5e348", 
+    "funcName": "TaskSysTimerInit"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x5e3fc", 
+    "funcName": "_ts_mutexCreate"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x5e7a0", 
+    "funcName": "j_get_sth_0"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x5ebb8", 
+    "funcName": "GetMutex"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x5ec8c", 
+    "funcName": "GetSem"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x5ee80", 
+    "funcName": "operateSem"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x640b8", 
+    "funcName": "MEMMGRmalloc"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x64230", 
+    "funcName": "malloc"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x642c8", 
+    "funcName": "MEMMGRmalloc_0"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x6449c", 
+    "funcName": "log_9"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x65b68", 
+    "funcName": "pushregs"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x65b74", 
+    "funcName": "log_7"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x65c04", 
+    "funcName": "assert_fail"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x67afc", 
+    "funcName": "printf"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x67bd8", 
+    "funcName": "exit"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x68650", 
+    "funcName": "BIOStimerClear"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x686d0", 
+    "funcName": "BIOStimerSet"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x6a044", 
+    "funcName": "tlr_system_assert"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x80fcc", 
+    "funcName": "j_get_sth_0_0"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x8105c", 
+    "funcName": "log_2"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0xa0694", 
+    "funcName": "debug"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0xa08b4", 
+    "funcName": "writeport"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0xa9ec8", 
+    "funcName": "getlen"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0xb16f4", 
+    "funcName": "ret_bool"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0xb2748", 
+    "funcName": "GetPnPIDConfig"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0xb2b80", 
+    "funcName": "get_ModelNameStr"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0xd8a3c", 
+    "funcName": "err"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0xdc4e4", 
+    "funcName": "get_ModelNameStr_0"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0xdc620", 
+    "funcName": "get_ptr_1"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0xdc62c", 
+    "funcName": "get_ModelNameStr_1"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0xdd4c4", 
+    "funcName": "panelLoadModelType"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0xe07e8", 
+    "funcName": "PWS_Execute"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0xe2b80", 
+    "funcName": "getV1.06"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0xe2d68", 
+    "funcName": "panelLoadModelType_0"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0xe68a0", 
+    "funcName": "syslog"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0xe6de0", 
+    "funcName": "log_3"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0xe98d8", 
+    "funcName": "flash_WriteRITSFactoryParam"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0xeae40", 
+    "funcName": "log_4"
+  }, 
+  {
+    "criticalIndex": "[2, 3]", 
+    "offset": "0xeaefc", 
+    "funcName": "strncpy_2"
+  }, 
+  {
+    "criticalIndex": "[2, 3]", 
+    "offset": "0xeaf0c", 
+    "funcName": "strncpy_3"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0xeb004", 
+    "funcName": "j_free_2"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0xeb008", 
+    "funcName": "j_vx_malloc"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0xec1e8", 
+    "funcName": "j_vx_malloc_0"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0xec1ec", 
+    "funcName": "j_free_2_0"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0xed954", 
+    "funcName": "getafter2"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0xed9d0", 
+    "funcName": "wpa_supplicant_conf_parser_0"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0xefb40", 
+    "funcName": "wx_get_range_info"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0xf23e0", 
+    "funcName": "get_0"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0xf37bc", 
+    "funcName": "true"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0xf38c0", 
+    "funcName": "dni_wx_LastSetupGet"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0xf5e48", 
+    "funcName": "open"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0xf6024", 
+    "funcName": "close"
+  }, 
+  {
+    "criticalIndex": "[2]", 
+    "offset": "0xf957c", 
+    "funcName": "recv"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x1259f0", 
+    "funcName": "malloc_6"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x125aac", 
+    "funcName": "malloc_7"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x125bb4", 
+    "funcName": "free_4"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x128794", 
+    "funcName": "bind_0"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x12b544", 
+    "funcName": "accept"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x12b790", 
+    "funcName": "lock"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x12b7d8", 
+    "funcName": "unlock"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x12ba74", 
+    "funcName": "log_1"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x12c32c", 
+    "funcName": "free_7"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x12cf38", 
+    "funcName": "getaddrinfo"
+  }, 
+  {
+    "criticalIndex": "[4, 2, 3, 5, 6, 7, 8]", 
+    "offset": "0x13266c", 
+    "funcName": "snprintf_1"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x132d60", 
+    "funcName": "log_6"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x14da8c", 
+    "funcName": "BlueLockThredX_1"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x14da98", 
+    "funcName": "BlueUnLockThreadX_1"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x14e620", 
+    "funcName": "strlen"
+  }, 
+  {
+    "criticalIndex": "[2]", 
+    "offset": "0x14e804", 
+    "funcName": "strcpy"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x14e9a4", 
+    "funcName": "strlen_1"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x14effc", 
+    "funcName": "malloc_1"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x14f058", 
+    "funcName": "malloc_2"
+  }, 
+  {
+    "criticalIndex": "[2, 3]", 
+    "offset": "0x14f298", 
+    "funcName": "strncat_0"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x14f424", 
+    "funcName": "memset_0"
+  }, 
+  {
+    "criticalIndex": "[4, 2, 3, 5, 6, 7, 8]", 
+    "offset": "0x15005c", 
+    "funcName": "snprintf_0"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x153ae8", 
+    "funcName": "HeapMalloc"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x153b4c", 
+    "funcName": "free"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x159460", 
+    "funcName": "checksum"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x15a08c", 
+    "funcName": "densNVRInit"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x15c160", 
+    "funcName": "ASP_GetVar"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x15c2c0", 
+    "funcName": "str3to1"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x15c320", 
+    "funcName": "ASP_write_message_0"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x15cf8c", 
+    "funcName": "ASP_write_message"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x15d764", 
+    "funcName": "Do_ASP_SetIPsec"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x15fbd4", 
+    "funcName": "Do_ASP_SetAlert"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x165da0", 
+    "funcName": "panelLoadModelType_2"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x168ff0", 
+    "funcName": "Add_Str_To_Buf"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x169054", 
+    "funcName": "GetEncString"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x169764", 
+    "funcName": "parse1to2"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x174a70", 
+    "funcName": "Do_ASP_GetWPSMethod"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x17ac0c", 
+    "funcName": "deal_lang"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x17ca9c", 
+    "funcName": "get_0.49"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x182afc", 
+    "funcName": "getto2"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x182c98", 
+    "funcName": "getto3"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x1833d0", 
+    "funcName": "getconfig"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x184b20", 
+    "funcName": "set_val_0"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x184fb8", 
+    "funcName": "get_web_password"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x185bf0", 
+    "funcName": "get_lan"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x1876ec", 
+    "funcName": "get_sth"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x187fc8", 
+    "funcName": "dni_nvr_wx_WepKeyLengthSet"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x1881a8", 
+    "funcName": "pot_sink_0"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x1882c4", 
+    "funcName": "dni_nvr_wx_WepKeyFormatSet"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x18b2f0", 
+    "funcName": "getconfig_0"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x18bbd4", 
+    "funcName": "panelLoadModelType_1"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x18cb90", 
+    "funcName": "getRICOH"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x18cbd4", 
+    "funcName": "getV1.06_0"
+  }, 
+  {
+    "criticalIndex": "[2, 3]", 
+    "offset": "0x18d220", 
+    "funcName": "strncpy_4"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x18d534", 
+    "funcName": "close_0"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x18dfac", 
+    "funcName": "free_2"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x18e004", 
+    "funcName": "vx_malloc"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x18e464", 
+    "funcName": "BonjourInit"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x18e818", 
+    "funcName": "sem_init"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x18ed1c", 
+    "funcName": "open_0"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x18ed44", 
+    "funcName": "bind"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x18ed64", 
+    "funcName": "listen"
+  }, 
+  {
+    "criticalIndex": "[2]", 
+    "offset": "0x18ee20", 
+    "funcName": "recv_0"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x18f15c", 
+    "funcName": "uduserver_setopt"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x18f258", 
+    "funcName": "nsudp_sendto"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x19003c", 
+    "funcName": "setip"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x190084", 
+    "funcName": "setip_0xC527CC"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x19f734", 
+    "funcName": "get_str"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x1cb9b4", 
+    "funcName": "get_http_key"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x1cc8c8", 
+    "funcName": "parse_http"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x1d26b4", 
+    "funcName": "HTTPGetQuery"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x1d3dcc", 
+    "funcName": "get_usr_agent"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x1d3e68", 
+    "funcName": "get_cookie"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x1d4554", 
+    "funcName": "get_content_len"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x1fe12c", 
+    "funcName": "tcpStartListening"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x217010", 
+    "funcName": "fmt_time"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x22b710", 
+    "funcName": "j_free_3"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x23e708", 
+    "funcName": "free_5"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x23e728", 
+    "funcName": "get_ptr"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x23ef3c", 
+    "funcName": "log_0"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x23f03c", 
+    "funcName": "hostapd_logger"
+  }, 
+  {
+    "criticalIndex": "[2]", 
+    "offset": "0x23fe4c", 
+    "funcName": "recv_from"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x240214", 
+    "funcName": "os_send"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x2405b4", 
+    "funcName": "os_fopen"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x240a04", 
+    "funcName": "os_fclose"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x2411f4", 
+    "funcName": "j_wpa_supplicant_conf_parser_0"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x24139c", 
+    "funcName": "wpa_supplicant_conf_parser"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x241404", 
+    "funcName": "os_file_get"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x24192c", 
+    "funcName": "calloc"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x241954", 
+    "funcName": "free_3"
+  }, 
+  {
+    "criticalIndex": "[2, 3]", 
+    "offset": "0x241960", 
+    "funcName": "strncpy_5"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x241968", 
+    "funcName": "j_memset"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x24196c", 
+    "funcName": "memcmp"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x241a54", 
+    "funcName": "j_strlen_0"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x241a58", 
+    "funcName": "j_get"
+  }, 
+  {
+    "criticalIndex": "[2]", 
+    "offset": "0x241a5c", 
+    "funcName": "j_strcpyn"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x241a60", 
+    "funcName": "j_strchr"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x241a68", 
+    "funcName": "strcmp_0"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x241a6c", 
+    "funcName": "strncmp_0"
+  }, 
+  {
+    "criticalIndex": "[2, 3]", 
+    "offset": "0x241a70", 
+    "funcName": "j_strncpy"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x241a74", 
+    "funcName": "j_strstr"
+  }, 
+  {
+    "criticalIndex": "[2, 3]", 
+    "offset": "0x244358", 
+    "funcName": "strncpy_1"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x244364", 
+    "funcName": "memcmp_1"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x244378", 
+    "funcName": "memset_1"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x282c10", 
+    "funcName": "set_CPSRbit_2"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x282c18", 
+    "funcName": "set_CPSRbit_1"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x285aac", 
+    "funcName": "startiperf"
+  }, 
+  {
+    "criticalIndex": "[2]", 
+    "offset": "0x285e0c", 
+    "funcName": "strcpy_1to2"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x285ea4", 
+    "funcName": "iperf"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x2867f4", 
+    "funcName": "iperf_0"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x289d48", 
+    "funcName": "unsupported_error"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x289db4", 
+    "funcName": "errno2str_0"
+  }, 
+  {
+    "criticalIndex": "[2]", 
+    "offset": "0x2a2398", 
+    "funcName": "recv_2"
+  }, 
+  {
+    "criticalIndex": "[2]", 
+    "offset": "0x2a28d8", 
+    "funcName": "recv_1"
+  }, 
+  {
+    "criticalIndex": "[2]", 
+    "offset": "0x2a2910", 
+    "funcName": "recvfrom"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x2a3920", 
+    "funcName": "listen_0"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x2a6490", 
+    "funcName": "fmt_ip"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x2ae168", 
+    "funcName": "errno2str"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x2bdc1c", 
+    "funcName": "push_r0to3"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x2cee20", 
+    "funcName": "BlueLockThredX_0"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x2cee48", 
+    "funcName": "BlueUnLockThreadX"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x2d2780", 
+    "funcName": "set_val"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x2d3528", 
+    "funcName": "malloc_0"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x2d36c0", 
+    "funcName": "Web_set_val"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x2d3960", 
+    "funcName": "free_6"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x2d39b4", 
+    "funcName": "free_0"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x2d4a68", 
+    "funcName": "BlueHeapMalloc"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x2d667c", 
+    "funcName": "get_msg"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x2d6f68", 
+    "funcName": "malloc_3"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x2d730c", 
+    "funcName": "nsudp_sendto_0"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x2dbb94", 
+    "funcName": "pot_sink"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x2e3884", 
+    "funcName": "stricmp"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x30d6e0", 
+    "funcName": "os_send_0"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x34c26c", 
+    "funcName": "rtw_wx_read32"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x35e294", 
+    "funcName": "socket"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x3c0e44", 
+    "funcName": "alloc_ntlmv2"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x42b3d4", 
+    "funcName": "get_sth_0"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x42bcdc", 
+    "funcName": "get_tick"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x42c918", 
+    "funcName": "vx_free"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x42ce4c", 
+    "funcName": "BlueLockThredX"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x42cf34", 
+    "funcName": "BlueUnLockThreadX_0"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x42d668", 
+    "funcName": "taskSpawn"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x42d918", 
+    "funcName": "tx_thread_delete"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x42e28c", 
+    "funcName": "set_CPSRbit_0"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x42e2a4", 
+    "funcName": "set_CPSRbit"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x42e2b4", 
+    "funcName": "write_CPSR"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x433a1c", 
+    "funcName": "deal_pass"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x438324", 
+    "funcName": "deal_pass_0"
+  }, 
+  {
+    "criticalIndex": "[4, 2, 3, 5, 6, 7, 8]", 
+    "offset": "0x48407c", 
+    "funcName": "snprintf_internal_"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x484e54", 
+    "funcName": "fdprintf"
+  }, 
+  {
+    "criticalIndex": "[4, 2, 3, 5, 6, 7, 8]", 
+    "offset": "0x484e80", 
+    "funcName": "snprintf_internal"
+  }, 
+  {
+    "criticalIndex": "[4, 2, 3, 5, 6, 7, 8]", 
+    "offset": "0x484ed0", 
+    "funcName": "snprintf"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x485c18", 
+    "funcName": "errlog"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x488580", 
+    "funcName": "free_8"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x48c6b0", 
+    "funcName": "log_8"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x4a0b0c", 
+    "funcName": "get_some_struct"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x4a0fd8", 
+    "funcName": "set_struct"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x4aebd0", 
+    "funcName": "log"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x4af238", 
+    "funcName": "malloc_4"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x4af748", 
+    "funcName": "malloc_5"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x4afa3c", 
+    "funcName": "free_1"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x4b5128", 
+    "funcName": "unwrap_0"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x4d989c", 
+    "funcName": "unwrap"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x4d98ac", 
+    "funcName": "unwrap_at"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x52d360", 
+    "funcName": "exit_1"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x52d474", 
+    "funcName": "strtol_3"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x52d488", 
+    "funcName": "strtol_2"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x52d524", 
+    "funcName": "get_ptr_0"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x52d534", 
+    "funcName": "exit_0"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x5307bc", 
+    "funcName": "strnchr"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x5308b4", 
+    "funcName": "memcmp_0"
+  }, 
+  {
+    "criticalIndex": "[2, 3]", 
+    "offset": "0x530960", 
+    "funcName": "strncpy_0"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x530c44", 
+    "funcName": "memset"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x531c94", 
+    "funcName": "log_5"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x531f18", 
+    "funcName": "log_msg"
+  }, 
+  {
+    "criticalIndex": "[4, 2, 3, 5, 6, 7, 8]", 
+    "offset": "0x533560", 
+    "funcName": "snprintf_2"
+  }, 
+  {
+    "criticalIndex": "[3, 2, 4, 5, 6, 7, 8]", 
+    "offset": "0x533600", 
+    "funcName": "sprintf_noxref"
+  }, 
+  {
+    "criticalIndex": "[3, 2, 4, 5, 6, 7, 8]", 
+    "offset": "0x533664", 
+    "funcName": "sprintf"
+  }, 
+  {
+    "criticalIndex": "[3, 2, 4, 5, 6, 7, 8]", 
+    "offset": "0x5336d8", 
+    "funcName": "sprintf_0"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x5338b4", 
+    "funcName": "stricmp_0"
+  }, 
+  {
+    "criticalIndex": "[2, 3]", 
+    "offset": "0x533910", 
+    "funcName": "strncat_1"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x5339ac", 
+    "funcName": "strchr"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x533b78", 
+    "funcName": "strcmp"
+  }, 
+  {
+    "criticalIndex": "[2]", 
+    "offset": "0x533da8", 
+    "funcName": "strcpy_0"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x5355b4", 
+    "funcName": "strlen_0"
+  }, 
+  {
+    "criticalIndex": "[2, 3]", 
+    "offset": "0x53568c", 
+    "funcName": "strncat"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x535774", 
+    "funcName": "strncmp"
+  }, 
+  {
+    "criticalIndex": "[2, 3]", 
+    "offset": "0x5358b4", 
+    "funcName": "strncpy"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x535ea0", 
+    "funcName": "strstr"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x5378f0", 
+    "funcName": "strtok_0"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x537914", 
+    "funcName": "strtok"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x5379d0", 
+    "funcName": "strtol_0"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x537ba8", 
+    "funcName": "strtol_1"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x537bd4", 
+    "funcName": "strtol_internal"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x537da0", 
+    "funcName": "strtol"
+  }, 
+  {
+    "criticalIndex": "[3, 2, 4, 5, 6, 7, 8]", 
+    "offset": "0x537dcc", 
+    "funcName": "sprintf_internal"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x556854", 
+    "funcName": "calc_speed"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x55a084", 
+    "funcName": "j_set_CPSRbit_2"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x55a088", 
+    "funcName": "j_set_CPSRbit_1"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x55a08c", 
+    "funcName": "j_set_CPSRbit_2_0"
+  }, 
+  {
+    "criticalIndex": "[-1]", 
+    "offset": "0x55a090", 
+    "funcName": "j_set_CPSRbit_1_0"
+  }
+]

@@ -1,0 +1,10 @@
+wds txRate val=%d
+deleteAllWdsMac
+wlanWdsEnabled
+addWdsMac
+txRate
+deleteSelWdsMac
+comment
+select%d
+submit-url
+ON

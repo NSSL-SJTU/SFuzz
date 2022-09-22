@@ -1,0 +1,23 @@
+/apply_reboot.asp
+dhcpRangeStart
+lan_primary_dns
+dnsRelayEnabled
+lan_mask
+stp
+enabled
+lan_secondary_dns
+dhcpLeaseTime
+<h4>Change setting successfully!<BR><BR>Do not turn off or reboot the Device during this time.</h4>
+netbiosName
+domainName
+lan_ip
+malloc fail!!
+disabled
+Set %s MIB error!
+Setting saved.
+lan_macAddr
+dhcp
+lan_gateway
+submit-url
+not foud /
+dhcpRangeEnd

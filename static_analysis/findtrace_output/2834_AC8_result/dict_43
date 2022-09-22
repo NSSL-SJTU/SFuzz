@@ -1,0 +1,126 @@
+add
+allow
+tcp
+udp
+lan_ipaddr
+in
+ip
+skipto
+ipfw
+out
+via
+natd
+dmz_ipaddr
+0.0.0.0
+%u-%u
+divert
+tcp/udp
+xmit
+from
+to
+dmz_ipaddr_en
+%d
+lan_netmask
+lan_ipaddr
+lan_dns
+dhcp_start
+dhcp_end
+lan_lease
+lan_ifname
+lan_proto
+dhcp
+lan_gateway
+%s.%u
+%lu
+statusUpSpeed
+statusDownSpeed
+lan_ipaddr
+lan_netmask
+lan_ipaddr
+lan_dns
+%[^ ] %[^ ] %s
+255.255.255.255
+dhcp_start
+dhcp_end
+lan_netmask
+dhcp1_end
+lan_ipaddr
+====lan_modify_ip:%s=====%s [%d]
+lan1_dns
+%s
+lan1_netmask
+lan1_ipaddr
+check_guest_net_with_other
+dhcp1_start
+lan_netmask
+lan_ipaddr
+255.255.255.255
+%s
+[%s->%s->%d]:ledtest  off 
+sysled
+%s=%s
+mp_query
+ifconfig
+error
+flash_unlock
+[%s->%s->%d]:ate bind error.
+mp_reset_rx
+%s %s %s=%s
+%s %s
+ate_open_socket
+ate_button_poll
+lan_ipaddr
+[%s->%s->%d]:ate start loop.
+mp_tssi
+Tx OK:%d, Tx Fail:%d, Rx OK:%d, CRC error:%d
+mp_query rssi
+ate_main
+mp_ther
+%s
+read_de
+ATE
+[%s->%s->%d]:ledtest  on 
+iwpriv
+%s_de:%d %d %d %d
+success
+iwpriv wlan0
+[%s->%s->%d]:ate socket error.
+set_mib
+[%s->%s->%d]:Button pressed!!!
+%s %s %s
+lan_netmask
+lan_ipaddr
+rm_web_ip
+rm_web_en
+rm_web_port
+lan_netmask
+lan_ipaddr
+lan_dns
+dhcp_start
+dhcp_end
+lan_lease
+lan_ifname
+lan_proto
+dhcp
+lan_gateway
+lanDhcpStartIP
+lan_netmask
+lan_ipaddr
+lan_dns
+dhcp_start
+false
+dhcp server && if lan && wl restart.
+dhcp_end
+op=%d
+lanDhcpEndIP
+100
+255.255.255.0
+lanDns1
+dhcp server restart.
+filter_url%d
+dhcpEn
+lanDns2
+true
+lanMask
+%s %s
+lanIP

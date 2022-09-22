@@ -1,0 +1,2 @@
+IKEv2 InitSPI: 0x%02x%02x%02x%02x%02x%02x%02x%02x; IKEv2 RespSPI: 0x%02x%02x%02x%02x%02x%02x%02x%02x
+Received message ID: %d; Expected: %d; IKEv2 InitSPI: 0x%02x%02x%02x%02x%02x%02x%02x%02x; IKEv2 RespSPI: 0x%02x%02x%02x%02x%02x%02x%02x%02x

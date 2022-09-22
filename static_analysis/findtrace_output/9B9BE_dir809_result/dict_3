@@ -1,0 +1,5 @@
+wlan_id
+Warning! WPA encryption is only supported in client Mode. <BR> Change to WPA2 Encryption.
+wlan-url
+Warning! WPA2 Mixed encryption is not supported in client Mode. <BR> Change to WPA2 Encryption.
+not foud /

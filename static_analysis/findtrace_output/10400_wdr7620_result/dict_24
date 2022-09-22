@@ -1,0 +1,26 @@
+TPDDNS: Lan mac 0x%.2X%.2X%.2X%.2X%.2X%.2X
+TPDDNS: [Process LOCAL LOGINED domain entry.]
+TPDDNS: Parsing list...
+TPDDNS: Get 2nd domain error.
+/network/interface/lan
+deviceId
+TPDDNS: No.%d: %s, time = %s, mac = %.2X-%.2X-%.2X-%.2X-%.2X-%.2X, alias = %s, devId = %s
+TPDDNS: Get result list.
+mac
+alias
+TPDDNS: No.%d, %s, 0x%.2X%.2X%.2X%.2X%.2X%.2X, status = %d, is_cur_host = %d, alias = %s
+registerTime
+TPDDNS: list len = %d.
+TPDDNS: Conver domain list now, orgDomains length = %d
+get_domain_list_status
+domains
+getDomainListResultHandle
+TPDDNS: Match non-binding entry with index %u
+TPDDNS: Domain list is full. Conversation end.
+TPDDNS: Get 2nd domain = %s
+domain
+converDomaintList
+TPDDNS: Not all entry is processed in original list. Index[%u] != len[%u].
+TPDDNS: [Process NOT USED domain entry.]
+TPDDNS: [Process NON-LOCAL LOGINED domain entry.]
+TPDDNS: Match lan mac 0x%.2X%.2X%.2X%.2X%.2X%.2X with index %u

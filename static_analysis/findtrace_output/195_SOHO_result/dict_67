@@ -1,0 +1,4 @@
+%llu
+SaUpTime: %s 
+%d
+CrtTime;%s,ExpTime;%s,PktsIn;%llu,PktsOut;%llu,BytIn;%llu,BytOut;%llu,FrgPktsIn;%d,FrgPktsOut;%d

@@ -1,0 +1,207 @@
+[
+    {
+        "model":"Tenda AC11",
+        "deviceURI":"evaluation_set/Tenda_AC11/2834_AC11",
+        "arch":"MIPS:LE:32:default",
+        "base":"0x80000000"
+    },
+    {
+        "model":"Tenda AC8",
+        "deviceURI":"evaluation_set/Tenda_AC8/2834_AC8",
+        "arch":"MIPS:LE:32:default",
+        "base":"0x80000000"
+    },
+    {
+        "model":"Tenda AC6V2",
+        "deviceURI":"evaluation_set/Tenda_AC6/2834_AC6",
+        "arch":"MIPS:LE:32:default",
+        "base":"0x80000000"
+    },
+    {
+        "model":"FAST FAC1200R_Q",
+        "deviceURI":"evaluation_set/FAST_FAC1200R_Q/F400_FAC1200R_Q",
+        "arch":"MIPS:LE:32:default",
+        "base":"0x80008000"
+    },
+    {
+        "model":"MERCURY M6G",
+        "deviceURI":"evaluation_set/MERCURY_M6G/F400_M6G",
+        "arch":"MIPS:LE:32:default",
+        "base":"0x80008000"
+    },
+    {
+        "model":"MERCURY MW325R",
+        "deviceURI":"evaluation_set/MERCURY_MW325R/D114_MW325R",
+        "arch":"MIPS:LE:32:default",
+        "base":"0x80001000"
+    },
+    {
+        "model":"MERCURY D196G",
+        "deviceURI":"evaluation_set/MERCURY_D196G/10400_D196G",
+        "arch":"ARM:LE:32:v7",
+        "base":"0x40205000"
+    },
+    {
+        "model":"TP-Link WDR7660",
+        "deviceURI":"evaluation_set/TPlink_wdr7660/10400_wdr7660",
+        "arch":"ARM:LE:32:v7",
+        "base":"0x40205000"
+    },
+    {
+        "model":"TP-Link WDR7661",
+        "deviceURI":"evaluation_set/TL-WDR7661/10400_wdr7661",
+        "arch":"ARM:LE:32:v7",
+        "base":"0x40205000"
+    },
+    {
+        "model":"TP-Link WDR866N",
+        "deviceURI":"evaluation_set/TL-WR886N/A200_866n",
+        "arch":"MIPS:BE:32:default",
+        "base":"0x80001000"
+    },
+    {
+        "model":"TP-Link WDR7620",
+        "deviceURI":"evaluation_set/TL-WDR7620/10400_wdr7620",
+        "arch":"ARM:LE:32:v7",
+        "base":"0x40205000"
+    },
+    {
+        "model":"D-link DIR100",
+        "deviceURI":"evaluation_set/DIR-100/30_DIR100",
+        "arch":"MIPS:BE:32:default",
+        "base":"0x80000100"
+    },
+    {
+        "model":"D-link DIR613",
+        "deviceURI":"evaluation_set/DIR-613/3C_DIR613",
+        "arch":"MIPS:LE:32:default",
+        "base":"0x80001000"
+    },
+    {
+        "model":"RICOH SP221",
+        "deviceURI":"evaluation_set/RICOH_SP221/20030_SP221",
+        "arch":"ARM:LE:32:v7",
+        "base":"0x0"
+    },
+    {
+        "model":"RICOH SP330",
+        "deviceURI":"evaluation_set/RICOH_SP330/20030_SP330DN",
+        "arch":"ARM:LE:32:v7",
+        "base":"0x0"
+    },
+    {
+        "model":"Phaser 4622",
+        "deviceURI":"evaluation_set/Phaser_4622/Phaser_4622",
+        "arch":"ARM:LE:32:v7",
+        "base":"0x100000"
+    },
+    {
+        "model":"Aficio SP3500SF",
+        "deviceURI":"evaluation_set/SP_3500sf/sp_3500",
+        "arch":"ARM:LE:32:v7",
+        "base":"0x500"
+    },
+    {
+        "model":"Tenda AC7",
+        "deviceURI":"evaluation_set/AC7/2834_AC7",
+        "arch":"MIPS:LE:32:default",
+        "base":"0x80000000"
+    },
+    {
+        "model":"Tenda AC10",
+        "deviceURI":"evaluation_set/AC10/2834_AC10",
+        "arch":"MIPS:LE:32:default",
+        "base":"0x80000000"
+    },
+    {
+        "model":"Tenda AC5",
+        "deviceURI":"evaluation_set/AC5/2834_AC5",
+        "arch":"MIPS:LE:32:default",
+        "base":"0x80000000"
+    },
+    {
+        "model":"TP-Link WDR7651",
+        "deviceURI":"evaluation_set/wdr7651/10400_wdr7651",
+        "arch":"ARM:LE:32:v7",
+        "base":"0x40205000"
+    },
+    {
+        "model":"RIOCH SP252SF",
+        "deviceURI":"evaluation_set/SP252SF/20030_C252SF",
+        "arch":"ARM:LE:32:v7",
+        "base":"0x0"
+    },
+    {
+        "model":"TP-Link WDR5660",
+        "deviceURI":"evaluation_set/TP-wdr5660/400_5660",
+        "arch":"MIPS:LE:32:default",
+        "base":"0x80001000"
+    },
+    {
+        "model":"Tenda N301V2.0",
+        "deviceURI":"evaluation_set/N301v2/2834_N301V2.0",
+        "arch":"MIPS:BE:32:default",
+        "base":"0x80000400"
+    },
+    {
+        "model":"Phaser 3635MFP",
+        "deviceURI":"evaluation_set/Phaser_3635/208AF01_3635",
+        "arch":"MIPS:BE:32:default",
+        "base":"0x8007ffa0"
+    },
+    {
+        "model":"FAST FW325R",
+        "deviceURI":"evaluation_set/FAST_FW325R/D114_FW325R",
+        "arch":"MIPS:LE:32:default",
+        "base":"0x80001000"
+    },
+    {
+        "model":"FAST FW313R",
+        "deviceURI":"evaluation_set/FAST_FW313R/D114_FW313R",
+        "arch":"MIPS:LE:32:default",
+        "base":"0x80001000"
+    },
+    {
+        "model":"D-Link DIR809",
+        "deviceURI":"evaluation_set/Dlink_dir809/9B9BE_dir809",
+        "arch":"MIPS:BE:32:default",
+        "base":"0x80000400"
+    },
+    {
+        "model":"sonicwall TZ350",
+        "deviceURI":"evaluation_set/Sonicwall_TZ350/19D_TZ350",
+        "arch":"MIPS:BE:64:64-32addr",
+        "base":"0x80108000"
+    },
+    {
+        "model":"sonicwall SOHO",
+        "deviceURI":"evaluation_set/Sonicwall_SOHO/195_SOHO",
+        "arch":"MIPS:BE:64:64-32addr",
+        "base":"0x82008000"
+    },
+    {
+        "model":"Phaser 3225",
+        "deviceURI":"evaluation_set/Phaser_3225/1798144_3225",
+        "arch":"ARM:LE:32:v7",
+        "base":"0x7ce00000"
+    },
+    {
+        "model":"Phaser 3315",
+        "deviceURI":"evaluation_set/Phaser_3315/D60128_3315",
+        "arch":"ARM:BE:32:v7",
+        "base":"0x40080000"
+    },
+    {
+        "model":"Cisco Sx300",
+        "deviceURI":"evaluation_set/Cisco_3FC/3FC",
+        "arch":"ARM:LE:32:v7",
+        "base":"0x100000"
+    },
+    {
+        "model":"Linksys LGS308",
+        "deviceURI":"evaluation_set/Linksys_638/638",
+        "arch":"ARM:LE:32:v7",
+        "base":"0x100000"
+    }
+
+]

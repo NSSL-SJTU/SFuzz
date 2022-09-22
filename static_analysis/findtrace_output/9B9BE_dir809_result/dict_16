@@ -1,0 +1,19 @@
+dns1
+pptp
+fixedIp
+SIOCDIFADDR1
+wan_mask
+%s: %s
+pppPassword
+ppp
+l2tp
+pppUserName
+/etc/wan_info
+%s,%d, buffer null, error
+wan_ip
+wizard_fmGetValAndSetDHCP_T
+autoIp
+config.wan_secondary_dns
+socket
+wan_gateway
+wanType

@@ -1,0 +1,42 @@
+$configure terminal$ $interface %s$ $ip unnumbered %s$
+$config terminal$ $interface %s$ $ip rip send version 2$
+$config terminal$ $router rip$ $distance 120$
+$config terminal$ $router rip$ $redistribute ospf %s$
+$config terminal$ $router rip$ $no redistribute ospf$
+$config terminal$ $interface %s$ $ip rip receive version 2$
+$config terminal$ $interface %s$ $ip rip receive version 1-compatible$
+$router rip$ $network %d.%d.%d.%d/%d$
+ZRipPoisonR_%d
+$config terminal$ $interface %s$ $ip rip authentication mode text$
+$configure terminal$ $interface %s$ $ip rip send-packet$
+metric %s
+$configure terminal$ $interface %s$ $no ip unnumbered$
+$configure terminal$ $router rip$ $no network %d.%d.%d.%d/%d$
+$config terminal$ $router rip$ $redistribute static %s$
+cbox_ZRipPoisonR_%d
+$config terminal$ $interface %s$ $no ip rip authentication string$
+$config terminal$ $interface %s$ $ip rip authentication string %s$
+$config terminal$ $router rip$ $no redistribute static$
+$config terminal$ $router rip$ $redistribute kernel %s$
+ZRipPassword_%d
+%d
+$config terminal$ $router rip$ $default-metric %s$
+ZRipUnnumBorrowedIf_%d
+$configure terminal$ $router rip$ $passive-interface %s$
+$interface %s$ $ip unnumbered$
+$config terminal$ $interface %s$ $ip rip send version 1$
+$config terminal$ $router rip$ $distance %s$
+$config terminal$ $router rip$ $no default-metric$
+$configure terminal$ $interface %s$ $no ip rip send-packet$
+$config terminal$ $interface %s$ $ip rip receive version 1$
+$config terminal$ $router rip$ $redistribute connected %s$
+$config terminal$ $interface %s$ $ip rip send version 1-compatible$
+ZRipUnnumDstIp_%d
+$interface %s$ $ip remote-address %s/%d$
+%u
+$configure terminal$ $router rip$ $network %d.%d.%d.%d/%d$
+$configure terminal$ $router rip$ $no passive-interface %s$
+$configure terminal$ $interface %s$ $no ip rip receive-packet$
+$ip unnumbered %s$
+$configure terminal$ $interface %s$ $ip remote-address %s/%d$
+$config terminal$ $router rip$ $no redistribute connected$

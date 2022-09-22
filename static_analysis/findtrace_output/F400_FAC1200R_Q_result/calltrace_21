@@ -1,0 +1,2 @@
+80442b0c:FUN_80442aa8->protocol_handler->ms_idle_handler->parse_advertisement_frame->FUN_80444928->memcpy
+80442b0c:FUN_80442aa8->protocol_handler->ms_idle_handler->FUN_80444cc0->FUN_80444928->memcpy

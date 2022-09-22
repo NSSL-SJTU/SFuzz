@@ -1,0 +1,3 @@
+800c8434:vuln->FUN_800c3044->FUN_800c2a34->nvram_set
+8005b9b8:nvram_get_sys_workmode_mayOf->strcpy
+8005b5d4:nvram_get_sys_workmode_mayOf->strcpy

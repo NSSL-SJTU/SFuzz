@@ -1,0 +1,40 @@
+%s()::can not set wan speed 
+wl_wme
+network.c start_wan ioctl eth0 error : %s
+hostname
+wan0_connect
+ifname
+wl
+netmask
+%s()::socket
+wanXXXXXXXXXX_
+wan%x_ifnames
+wan0_dns
+eth0
+wan_speed
+pppoe
+disabled
+bind_ifname
+ipaddr
+start_wan
+resolv_conf
+bind_l2tp_static
+%s %s
+dhcp
+connect
+10
+wandhcpc
+wan_ifnames
+static
+network.c start_wan socket error
+wan%d_
+dns
+Disconnected
+off
+100
+hwaddr
+router_disable
+ure_disable
+proto
+bind_proto
+bind_pptp_static

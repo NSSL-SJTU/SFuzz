@@ -1,0 +1,13 @@
+
+%s:%s
+SOAPAction: \"http://sonicwall.com/ProductServiceDetail\"
+Content-Length: 
+%s:
+If-Modified-Since: 
+Proxy-Authorization: Basic %s
+Authorization: 
+%s %s%s%s %sHost: %s:%dUser-Agent: SWHC/1.0Accept: */*Accept-Language: en-us,en;q=0.5Accept-Encoding: gzip,deflateAccept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7Connection: close%s%s
+If-None-Match: 
+Content-Type: 
+Basic 
+%d

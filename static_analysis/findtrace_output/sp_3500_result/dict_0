@@ -1,0 +1,53 @@
+IKELifetime
+oldNo
+/ipsec_list.asp?%s
+Safari
+IKEPFS
+frm_SetIPsec error - PeerIP is error!!!
+frm_SetIPsec error - LocalIP is NULL!!!
+frm_SetIPsec error - PeerIP is duplicated!!!
+%d.%d.%d.%d
+IKEEncrypt
+Have job! Can not Set IPsec settings!
+PolicyAction
+frm_SetIPsec error - IKELifetime is error!!!-%u
+frm_SetIPsec error - PolicyName is too long!!!
+IPType
+IKEAuth
+history
+ifEdit
+IPsecPFS
+&#65533;&#65533;&#65533;&#65533;&#65533;&#65533;&#65533;&#65533;
+IPsecMode
+IKEPSK
+PolicyName
+PolicyStatus
+frm_SetIPsec error - IPv4 PeerIPPrefix is error!!!
+frm_SetIPsec error - IKEPreKey is NULL!!!
+PolicyNo
+frm_SetIPsec error - \"ESP&AH\" cant support in tunnel mode!!!
+PeerIPPrefix
+IPsecESPAuth
+frm_SetIPsec error - IPsec is used for a peer address only!!!
+admin
+Windows
+IPsecSecurity
+frm_SetIPsec error - PolicyName is duplicated!!!
+frm_SetIPsec error - PolicyName is NULL!!!
+IPsecLifetimeKB
+frm_SetIPsec error - PeerIP Type is error!!!
+IKEGroup
+!!!!!!!!!!frm_SetIPsec Get Web Password failed !!!!!!!!!!
+frm_SetIPsec error - IPv6 PeerIPPrefix is error!!!
+frm_SetIPsec error - IPsecLifetimeSec is error!!!-%u
+
+normal
+IPsecLifetimeSec
+IPsecESPEncrypt
+frm_SetIPsec error - Cant support bundles with both ESP integrity and AH integrity!!!
+LocalIP_v4
+PeerIP
+LocalIP_v6
+[E]frm_SetIPsec(),Unexpected wrong password!
+IPsecAHAuth
+frm_SetIPsec error - IPsecLifetimeKB is error!!!-%u
