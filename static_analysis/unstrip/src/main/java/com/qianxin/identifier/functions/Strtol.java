@@ -65,6 +65,6 @@ public class Strtol extends BaseFunc {
 
     @Override
     public String getFuncSign() {
-        return "long strtol(const char * restrict str, char ** restrict endptr, int base)";
+        return "long strtol(char * str, char **endptr, int base)";
     }
 }

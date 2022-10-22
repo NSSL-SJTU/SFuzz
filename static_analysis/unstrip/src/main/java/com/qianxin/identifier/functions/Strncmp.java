@@ -150,6 +150,6 @@ public class Strncmp extends BaseFunc {
 
     @Override
     public String getFuncSign() {
-        return "int strncmp(const char * s1, const char * s2, size_t n)";
+        return "int strncmp(char * s1, char * s2, int n)";
     }
 }

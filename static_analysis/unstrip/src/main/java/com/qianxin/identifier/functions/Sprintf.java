@@ -64,6 +64,6 @@ public class Sprintf extends BaseFunc {
 
     @Override
     public String getFuncSign() {
-        return "int sprintf(char * restrict str, const char * restrict format, ...)";
+        return "int sprintf(char * str, char * format, ...)";
     }
 }

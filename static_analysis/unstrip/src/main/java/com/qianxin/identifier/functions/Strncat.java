@@ -63,6 +63,6 @@ public class Strncat extends BaseFunc {
 
     @Override
     public String getFuncSign() {
-        return "char * strncat(char * restrict s1, const char * restrict s2, size_t n)";
+        return "char * strncat(char * s1, char * s2, int n)";
     }
 }

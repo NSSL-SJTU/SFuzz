@@ -85,7 +85,7 @@ public class Atoi extends BaseFunc {
 
     @Override
     public String getFuncSign() {
-        return "int * atoi(const char * str)";
+        return "int * atoi(char * str)";
     }
 
 }

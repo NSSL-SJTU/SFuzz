@@ -86,6 +86,6 @@ public class Csum extends BaseFunc {
 
     @Override
     public String getFuncSign() {
-        return "uint csum(ushort *param_1,int param_2)";
+        return "int csum(int *param_1,int param_2)";
     }
 }

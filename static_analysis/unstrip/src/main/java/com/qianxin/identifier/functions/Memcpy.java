@@ -62,7 +62,7 @@ public class Memcpy extends BaseFunc {
 
     @Override
     public String getFuncSign() {
-        return "void * memcpy (void * destin, void * source, uint n)";
+        return "void * memcpy (void * destin, void * source, int n)";
     }
 
     //must startswith customCheck

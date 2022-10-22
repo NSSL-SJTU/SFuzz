@@ -62,6 +62,6 @@ public class Strcat extends BaseFunc {
 
     @Override
     public String getFuncSign() {
-        return "char * strcat(char * restrict s1, const char * restrict s2)";
+        return "char * strcat(char * s1, char * s2)";
     }
 }

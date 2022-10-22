@@ -76,7 +76,7 @@ public class Memmove extends BaseFunc {
 
     @Override
     public String getFuncSign() {
-        return "void * memmove(void * dst, const void * src, size_t len)";
+        return "void * memmove(void * dst, void * src, int len)";
     }
 
     //must startswith customCheck

@@ -78,6 +78,6 @@ public class Snprintf extends BaseFunc {
 
     @Override
     public String getFuncSign() {
-        return "int snprintf(char * restrict str, size_t size, const char * restrict format, ...)";
+        return "int snprintf(char * str, int size, char * format, ...)";
     }
 }

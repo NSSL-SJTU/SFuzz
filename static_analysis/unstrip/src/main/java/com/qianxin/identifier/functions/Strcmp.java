@@ -120,6 +120,6 @@ public class Strcmp extends BaseFunc {
 
     @Override
     public String getFuncSign() {
-        return "int strcmp(const char * s1, const char * s2)";
+        return "int strcmp(char * s1, char * s2)";
     }
 }

@@ -85,6 +85,6 @@ public class Checksum extends BaseFunc {
 
     @Override
     public String getFuncSign() {
-        return "uint checksum(ushort *param_1,int param_2)";
+        return "int checksum(int *param_1,int param_2)";
     }
 }

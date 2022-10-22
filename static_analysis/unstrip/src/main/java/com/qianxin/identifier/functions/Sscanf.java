@@ -90,6 +90,6 @@ public class Sscanf extends BaseFunc {
 
     @Override
     public String getFuncSign() {
-        return "int sscanf(const char * restrict s, const char * restrict format, ...)";
+        return "int sscanf(char * s, char * format, ...)";
     }
 }

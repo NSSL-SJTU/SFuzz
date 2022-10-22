@@ -64,7 +64,7 @@ public class Strncpy extends BaseFunc {
 
     @Override
     public String getFuncSign() {
-        return "char * strncpy(char * dst, const char * src, size_t len)";
+        return "char * strncpy(char * dst, char * src, int len)";
     }
 
     //must startswith customCheck

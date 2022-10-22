@@ -117,6 +117,6 @@ public class Memcmp extends BaseFunc {
 
     @Override
     public String getFuncSign() {
-        return "int memcmp(const void * s1, const void * s2, size_t n)";
+        return "int memcmp(void * s1, void * s2, int n)";
     }
 }
