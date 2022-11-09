@@ -213,14 +213,14 @@ execCommand(){
                     make clean
                     execCommand $NO_OUTPUT
                     echo -e "\033[0;42m4rd phase: POC Verify\033[0m"; 
-                    # SECONDS=0
-                    # ls afl_output/default/crashes | while read crash_input 
-                    # do
-                    #     if [ $crash_input != "README.txt" ]; then
-                    #         python3 scripts/symbolic_solving.py afl_output/default/crashes/$crash_input
-                    #     fi
-                    # done 
-                    # echo $SECONDS >workdir/POC_time
+                    SECONDS=0
+                    ls afl_output/default/crashes | while read crash_input 
+                    do
+                        if [ $crash_input != "README.txt" ]; then
+                            python3 scripts/symbolic_solving.py afl_output/default/crashes/$crash_input
+                        fi
+                    done 
+                    echo $SECONDS >workdir/POC_time
                     echo -e "\033[0;42m5th phase: EXIT\033[0m"; 
                     clean_workdir
                     exit 0
