@@ -8,12 +8,7 @@ Implementation(Source code) of paper:
 <img src="figs/overview.png" width="100%">
 
 ## Setup
-Build the docker (which we recommend)
-```
-docker build . -t sfuzz
-docker run -it sfuzz
-```
-If you want to build the system step by step, please follow the instructions below.
+To get the docker image directly, go to: https://drive.google.com/file/d/1gSw9QFLuntsqoQlI_KjzoI8bej8ZT-E7/view?usp=share_link
 
 ## Static Analysis
 Perform taint analysis on the specified firmware, slice and patch the program for the taint analysis results.
@@ -134,8 +129,6 @@ Also, AFL requires: if in a docker environment, execute with root privileges out
 echo core > /proc/sys/kernel/core_pattern
 ```
 
-To get the docker image directly, go to: https://drive.google.com/file/d/1tNDaHhYV_K5ys3M9VoBI_l6oj004too_/view?usp=sharing where the code needs to be updated with a git pull
-
 ### build fuzz loader
 in `./dynamic_analysis` dir (in `./uniFuzzGo` dir in docker):
 
@@ -147,9 +140,13 @@ in `./dynamic_analysis` dir (in `./uniFuzzGo` dir in docker):
 ```bash
 (in tmux session)
 python3 ./hybrid_all.py <device findtrace output dir>  <device firmware path>
+./clean.sh
+python3 count.py <binary name>
 ```
 
 example:
 ```bash
 python3 ./hybrid_all.py ~/findtrace_output/2834_AC11_result ~/evaluation_set/Tenda_AC11/2834_AC11
+./clean.sh
+python3 count.py 2834_AC11
 ```

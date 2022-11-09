@@ -1,6 +1,6 @@
 # unifuzzGo
 
-本项目需要依赖于同属RTOS项目的[findtrace repo](https://github.com/m4yfly/findtrace)的输出作为输入
+本项目需要依赖于同属RTOS项目的findtrace的输出作为输入
 
 ## 运行环境配置
 
@@ -37,8 +37,6 @@ pip3 install tqdm
 另外对依赖的项目还需要做一点小的修改：
 
 https://amusing-aluminum-be0.notion.site/d0de68137f884c1984d4ae7c762b566f
-
-直接获取docker镜像请前往：https://drive.google.com/file/d/1tNDaHhYV_K5ys3M9VoBI_l6oj004too_/view?usp=sharing 其中的代码需要git pull更新一下
 
 ## 编译fuzz loader
 
