@@ -274,7 +274,7 @@ def worker(i,tmpdir,not_log_process=False):
 
         start_time = time.time()
         while True:
-            p3 = sp.Popen("./run.sh HYBRID_ALL {GHIDRA_RESULT_DIR} {i} {TARGET}".format(GHIDRA_RESULT_DIR=GHIDRA_RESULT_DIR, TARGET=TARGET, i=i), shell=True)#, stdout=sp.DEVNULL, stderr=sp.DEVNULL)
+            p3 = sp.Popen("timeout 86400 ./run.sh HYBRID_ALL {GHIDRA_RESULT_DIR} {i} {TARGET}".format(GHIDRA_RESULT_DIR=GHIDRA_RESULT_DIR, TARGET=TARGET, i=i), shell=True)#, stdout=sp.DEVNULL, stderr=sp.DEVNULL)
             p3.wait()
             break
             # if cb_analysis.do_cbranch_analysis(i):
