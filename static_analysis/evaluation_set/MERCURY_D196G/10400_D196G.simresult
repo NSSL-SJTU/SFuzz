@@ -15494,6 +15494,12 @@
     "funcSign": "void* memcpy_1(void* dest, void* src, unsigned int n)"
   },
   {
+    "funcName": "memcpy",
+    "offset": "0x4028ffb4",
+    "criticalIndex": "[3]",
+    "funcSign": "void* memcpy(void* dest, void* src, unsigned int n)"
+  },
+  {
     "funcName": "MD_memset",
     "offset": "0x402d4330",
     "criticalIndex": "[-1]"
